@@ -2,18 +2,23 @@
 
 ## Data Science & Statistics
 
-### White Noise: 
+### White Noise
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
-Random Walk: https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
+Random Walk
+https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
-Data Transformation: https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.ipynb
+Data Transformation
+https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.ipynb
 
-Distribution Tests: https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
+Distribution Tests
+https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
 
-Stationarity: https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
+Stationarity
+https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 
-Causality: https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
+Causality
+https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 
 
