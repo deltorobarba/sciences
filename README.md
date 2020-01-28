@@ -26,6 +26,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 ## Machine Learning Models
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/tensorboard.png" alt="Tensorboard">
+
+
 <b>Support Vector Machines</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/svm_iris.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/svm_breastcancer.ipynb
