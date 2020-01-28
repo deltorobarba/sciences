@@ -22,7 +22,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-
+<br>
 
 ## Machine Learning Models
 
