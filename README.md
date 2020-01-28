@@ -26,11 +26,33 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 ## Machine Learning Models
 
-Support Vector Machines
+<b>Support Vector Machines</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/svm_iris.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/svm_breastcancer.ipynb
 
-Decision Trees & Random Forests
+<b>Decision Trees & Random Forests</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/randomforest_kyphosis.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/randomforest_loans.ipynb
 
-Linear Regression
+<b>Linear Regression</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/linearregression_ecommerce.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/linearregression_housing.ipynb
 
-Logistic Regression
+<b>Logistic Regression</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_advertising.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_titanic.ipynb
+
+<b>K-Means Clustering</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
+
+<b>K-Nearest Neighbour</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/knn.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/knn_classified.ipynb
+
+<b>Autoencoder</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/autoencoder.ipynb
+
+<b>Kubeflow Pipelines</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
+
 
