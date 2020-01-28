@@ -2,7 +2,7 @@
 
 ## Data Science & Statistics
 
-### White Noise
+<b>White Noise</b>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
 ### Random Walk
