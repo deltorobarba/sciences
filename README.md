@@ -1,7 +1,28 @@
 # Machine Learning
 
-Machine Learning &amp; Data Science Notebooks
+## Data Science & Statistics
+
+White Noise: https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
+
+Random Walk: https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
+
+Data Transformation: https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.ipynb
+
+Distribution Tests: https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
+
+Stationarity: https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
+
+Causality: https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 TF Quant Finance: https://github.com/google/tf-quant-finance
-
 TF Probability: https://github.com/tensorflow/probability
+
+## Machine Learning Models
+
+Support Vector Machines
+
+Decision Trees & Random Forests
+
+Linear Regression
+
+Logistic Regression
