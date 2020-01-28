@@ -5,19 +5,19 @@
 ### White Noise
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
-Random Walk
+### Random Walk
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
-Data Transformation
+### Data Transformation
 https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.ipynb
 
-Distribution Tests
+### Distribution Tests
 https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
 
-Stationarity
+### Stationarity
 https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 
-Causality
+### Causality
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 
