@@ -2,7 +2,8 @@
 
 ## Data Science & Statistics
 
-White Noise: https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
+### White Noise: 
+https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
 Random Walk: https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
@@ -14,8 +15,7 @@ Stationarity: https://github.com/deltorobarba/machinelearning/blob/master/statio
 
 Causality: https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-TF Quant Finance: https://github.com/google/tf-quant-finance
-TF Probability: https://github.com/tensorflow/probability
+
 
 ## Machine Learning Models
 
@@ -26,3 +26,4 @@ Decision Trees & Random Forests
 Linear Regression
 
 Logistic Regression
+
