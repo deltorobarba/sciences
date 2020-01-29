@@ -45,12 +45,12 @@ https://github.com/deltorobarba/machinelearning/blob/master/linearregression_hou
 https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_advertising.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_titanic.ipynb
 
-<b>K-Means Clustering</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
-
 <b>K-Nearest Neighbour</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/knn.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/knn_classified.ipynb
+
+<b>K-Means Clustering</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
 
 <b>Autoencoder</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/autoencoder.ipynb
