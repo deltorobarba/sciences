@@ -13,7 +13,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 <b>Data Transformation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.ipynb
 
-<b>Residuals Analyis</b><br>
+<b>Residuals Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 
 <b>Distribution Tests</b><br>
