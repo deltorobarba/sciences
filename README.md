@@ -64,4 +64,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/autoencoder.ipynb
 <b>Kubeflow Pipelines</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
 
-
+<b>Convolutional Neural Nets - Classification</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cnn_classification.ipynb
