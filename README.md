@@ -37,11 +37,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ip
 <b>Linear Regression</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ipynb
 
-<b>K-Means Clustering</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
+<b>Logistic Regression</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/logistic_regression.ipynb
 
 <b>K-Nearest Neighbour</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/k_nearest_neighbors.ipynb
+
+<b>K-Means Clustering</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
 
 <b>LSTM Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
@@ -60,6 +63,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/svm_breastcancer.ipy
 https://github.com/deltorobarba/machinelearning/blob/master/randomforest_kyphosis.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/randomforest_loans.ipynb
 
-<b>Logistic Regression</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_advertising.ipynb
-https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_titanic.ipynb
