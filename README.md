@@ -43,7 +43,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
 <b>LSTM Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
 
-<b>Convolutional Neural Nets - Classification</b><br>
+<b>Convolutional Neural Net</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/convolutional_neural_net.ipynb
 
 <b>Kubeflow Pipelines</b><br>
