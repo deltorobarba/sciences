@@ -40,6 +40,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ip
 <b>K-Means Clustering</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
 
+<b>K-Nearest Neighbour</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/k_nearest_neighbors.ipynb
+
 <b>LSTM Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
 
@@ -60,7 +63,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomforest_loans.i
 <b>Logistic Regression</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_advertising.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_titanic.ipynb
-
-<b>K-Nearest Neighbour</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/knn.ipynb
-https://github.com/deltorobarba/machinelearning/blob/master/knn_classified.ipynb
