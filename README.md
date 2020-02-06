@@ -34,6 +34,20 @@ https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ip
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/tensorboard.png" alt="Tensorboard">
 
+<b>Linear Regression</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ipynb
+
+<b>K-Means Clustering</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
+
+<b>LSTM Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
+
+<b>Convolutional Neural Nets - Classification</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/convolutional_neural_net.ipynb
+
+<b>Kubeflow Pipelines</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
 
 <b>Support Vector Machines</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/svm_iris.ipynb
@@ -43,10 +57,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/svm_breastcancer.ipy
 https://github.com/deltorobarba/machinelearning/blob/master/randomforest_kyphosis.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/randomforest_loans.ipynb
 
-<b>Linear Regression</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/linearregression_ecommerce.ipynb
-https://github.com/deltorobarba/machinelearning/blob/master/linearregression_housing.ipynb
-
 <b>Logistic Regression</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_advertising.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_titanic.ipynb
@@ -54,15 +64,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/logisticregression_t
 <b>K-Nearest Neighbour</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/knn.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/knn_classified.ipynb
-
-<b>K-Means Clustering</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
-
-<b>Autoencoder</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/autoencoder.ipynb
-
-<b>Kubeflow Pipelines</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
-
-<b>Convolutional Neural Nets - Classification</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cnn_classification.ipynb
