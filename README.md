@@ -46,6 +46,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/k_nearest_neighbors.
 <b>K-Means Clustering</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/kmeans.ipynb
 
+<b>Support Vector Machines</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/support_vector_machine.ipynb
+
 <b>LSTM Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
 
@@ -54,10 +57,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/convolutional_neural
 
 <b>Kubeflow Pipelines</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
-
-<b>Support Vector Machines</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/svm_iris.ipynb
-https://github.com/deltorobarba/machinelearning/blob/master/svm_breastcancer.ipynb
 
 <b>Decision Trees & Random Forests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomforest_kyphosis.ipynb
