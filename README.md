@@ -69,3 +69,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/activation_function.
 <b>Optimizer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
+<b>Cost Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cost_function.ipynb
