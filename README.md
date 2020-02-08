@@ -63,6 +63,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
 
 ## Components of a Neural Network
 
-<b>Optimizer (Activation Function)</b><br>
+<b>Activation Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/activation_function.ipynb
+
+<b>Optimizer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
