@@ -50,7 +50,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/support_vector_machi
 <b>Decision Trees & Random Forests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/random_forest.ipynb
 
-<b>LSTM Forecasting</b><br>
+<b>LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
 
 <b>Convolutional Neural Net</b><br>
