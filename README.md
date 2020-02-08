@@ -1,8 +1,8 @@
 # Machine Learning
 
-## Data Science & Statistics
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="White Noise">
+
+## Data Science & Statistics
 
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
@@ -31,8 +31,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ip
 <br>
 
 ## Machine Learning Models
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/tensorboard.png" alt="Tensorboard">
 
 <b>Linear Regression</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ipynb
