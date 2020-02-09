@@ -28,6 +28,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.i
 <b>Distribution Tests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
 
+<b>Imbalanced Data</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/imbalanced.ipynb
+
 <br>
 
 ## Machine Learning Models
