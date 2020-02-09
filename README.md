@@ -53,8 +53,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/support_vector_machi
 <b>Decision Trees & Random Forests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/random_forest.ipynb
 
+<b>Sequential Model</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/sequential.ipynb
+
 <b>Recurrent Neural Net</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
+
+<b>Gated Recurrent Unit (GRU)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/gru.ipynb
 
 <b>LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
