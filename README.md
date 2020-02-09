@@ -53,11 +53,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/support_vector_machi
 <b>Decision Trees & Random Forests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/random_forest.ipynb
 
+<b>Recurrent Neural Net</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
+
 <b>LSTM</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm_univariate.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Convolutional Neural Net</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/convolutional_neural_net.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/cnn.ipynb
 
 <b>Kubeflow Pipelines</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
