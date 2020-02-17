@@ -78,5 +78,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
+<b>Learning Rate</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/learningrate.ipynb
+
 <b>Loss Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
