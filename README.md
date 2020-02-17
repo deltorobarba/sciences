@@ -87,5 +87,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/momentum.ipynb
 <b>Dropout</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/dropout.ipynb
 
+<b>Overfitting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/overfitting.ipynb
+
 <b>Loss Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
