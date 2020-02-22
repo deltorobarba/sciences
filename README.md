@@ -78,6 +78,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
+<b>Loss Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
+
 <b>Learning Rate</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/learningrate.ipynb
 
@@ -92,6 +95,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/overfitting.ipynb
 
 <b>Batch Normalization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/batch.ipynb
-
-<b>Loss Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
