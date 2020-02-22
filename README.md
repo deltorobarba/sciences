@@ -23,7 +23,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <b>Data Transformation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/datatransformation.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
 
 <b>Distribution Tests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
