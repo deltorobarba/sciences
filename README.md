@@ -75,20 +75,20 @@ https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
 <b>Optimizer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
+<b>Loss Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
+
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
-<b>Loss Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
+<b>Dropout</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/dropout.ipynb
 
 <b>Learning Rate</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/learningrate.ipynb
 
 <b>Momentum</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/momentum.ipynb
-
-<b>Dropout</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/dropout.ipynb
 
 <b>Overfitting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/overfitting.ipynb
