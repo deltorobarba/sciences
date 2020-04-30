@@ -10,9 +10,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Random Walk</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
-<b>Autocorrelation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
-
 <b>Residuals Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 
@@ -24,9 +21,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <b>Data Transformation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
-
-<b>Distribution Tests</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
 
 <br>
 
