@@ -51,8 +51,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 ## Machine Learning Models
 
-<b>Linear Regression</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ipynb
-
 <b>Recurrent Neural Net</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
