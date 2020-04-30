@@ -69,10 +69,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/kubeflow.ipynb
 
 ## Components of a Neural Network
 
-<b>Loss Function</b><br>
+<b>Loss</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
 
-<b>Activation Function</b><br>
+<b>Activation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
 
 <b>Optimizer</b><br>
