@@ -16,9 +16,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>Residuals Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
-
 <br>
 
 ## Components of a Neural Network
