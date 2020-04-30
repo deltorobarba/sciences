@@ -19,9 +19,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>Data Transformation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
-
 <br>
 
 ## Components of a Neural Network
