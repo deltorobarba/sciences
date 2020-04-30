@@ -33,19 +33,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/imbalanced.ipynb
 
 <br>
 
-## Machine Learning Models
-
-<b>Linear Regression</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ipynb
-
-<b>Recurrent Neural Net</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
-
-<b>LSTM</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
-<br>
-
 ## Components of a Neural Network
 
 <b>Loss</b><br>
@@ -59,3 +46,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
+
+<br>
+
+## Machine Learning Models
+
+<b>Linear Regression</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/linear_regression.ipynb
+
+<b>Recurrent Neural Net</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
