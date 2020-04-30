@@ -28,9 +28,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
 <b>Distribution Tests</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/distributiontests.ipynb
 
-<b>Imbalanced Data</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/imbalanced.ipynb
-
 <br>
 
 ## Components of a Neural Network
