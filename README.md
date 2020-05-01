@@ -20,8 +20,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 ## Components of a Neural Network
 
-<b>Loss</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/loss.ipynb
+<b>Cost</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
 
 <b>Activation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
