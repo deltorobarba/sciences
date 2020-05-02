@@ -33,7 +33,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 ## Machine Learning Models
 
-<b>Recurrent Neural Net</b><br>
+<b>Recurrent Neural Net with TensorFlow 2.0</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
 
 <b>Time Series with TF.Prob Structured Time Series</b><br>
