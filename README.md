@@ -35,3 +35,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 <b>Recurrent Neural Net</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
+
+<b>Time Series with TF.Prob Structured Time Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
