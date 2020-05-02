@@ -15,6 +15,16 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <br>
 
+## Machine Learning Models
+
+<b>Time Series with TF.Prob Structured Time Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
+
+<b>Recurrent Neural Net with TensorFlow 2.0</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
+
+<br>
+
 ## Components of a Neural Network
 
 <b>Cost</b><br>
@@ -28,13 +38,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
-
-<br>
-
-## Machine Learning Models
-
-<b>Recurrent Neural Net with TensorFlow 2.0</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
-
-<b>Time Series with TF.Prob Structured Time Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
