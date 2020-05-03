@@ -14,7 +14,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 ## Machine Learning Models
 
-<b>Structured Time Series</b><br>
+<b>Financial Time Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <br>
