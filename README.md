@@ -7,9 +7,6 @@
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
-<b>Random Walk</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
-
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
@@ -17,20 +14,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 ## Machine Learning Models
 
-<b>Time Series with TF.Prob Structured Time Series</b><br>
+<b>Structured Time Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
-
-<b>Recurrent Neural Net with TensorFlow 2.0</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/rnn.ipynb
 
 <br>
 
 ## Components of a Neural Network
 
-<b>Cost</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
-
-<b>Activation</b><br>
+<b>Activation</b>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
 
 <b>Optimizer</b><br>
