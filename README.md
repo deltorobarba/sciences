@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="White Noise">
 
-## Data Science & Statistics
+## Data Science
 
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
@@ -12,14 +12,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <br>
 
-## Machine Learning Models
+## Machine Learning
 
 <b>Financial Time Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <br>
 
-## Components of a Neural Network
+## Neural Network Components
 
 <b>Activation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
