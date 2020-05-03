@@ -21,7 +21,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 ## Components of a Neural Network
 
-<b>Activation</b>
+<b>Activation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
 
 <b>Optimizer</b><br>
