@@ -19,7 +19,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <br>
 
-## Neural Network Components
+## Neural Networks
 
 <b>Activation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
