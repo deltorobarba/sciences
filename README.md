@@ -2,20 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="White Noise">
 
-## Data Science
+## Data Science & Machine Learning
 
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
-
-<br>
-
-## Machine Learning
-
-<b>Financial Time Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <br>
 
