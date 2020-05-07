@@ -4,11 +4,14 @@
 
 ## Data Science & Machine Learning
 
-<b>White Noise</b><br>
+<b>(Gaussian) White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
+
+<b>Random Walk (with Drift)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
 <br>
 
