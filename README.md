@@ -10,9 +10,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>Random Walk</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
-
 <br>
 
 ## Neural Networks
