@@ -12,16 +12,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <b>Time Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
-<br>
-
-## Neural Networks
-
-<b>Activation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
-
-<b>Optimizer</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
-
-<b>Regularization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
