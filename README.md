@@ -14,7 +14,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Topology</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/toology.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <br>
 
