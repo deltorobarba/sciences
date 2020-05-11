@@ -10,11 +10,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>LSTM</b><br>
+<b>Time Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
-<b>Topology</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <br>
 
