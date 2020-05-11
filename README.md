@@ -13,6 +13,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 <b>Time Series Model</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
+<b>Topology</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/toology.ipynb
+
 <br>
 
 ## Neural Networks
