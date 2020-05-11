@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning & Data Science
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="White Noise">
 
