@@ -11,5 +11,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 <b>Time Series Forecasting (with LSTM)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
-<b>Components of Neural Nets (Cost, Activation, Regularization, Optimizer)</b><br>
+<b>Components of Neural Nets (Cost, Activation, Regularizer, Optimizer)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/components.ipynb
