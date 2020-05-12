@@ -8,5 +8,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>Time Series</b><br>
+<b>Time Series Forecasting (with LSTM)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
+<b>Components of Neural Nets (Cost, Activation, Regularization, Optimizer)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/components.ipynb
