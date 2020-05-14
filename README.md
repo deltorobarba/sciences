@@ -18,3 +18,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <b>Analysis & Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
+<b>Topology</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
