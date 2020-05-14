@@ -1,7 +1,5 @@
 # Machine Learning & Mathematics
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="White Noise">
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/testfunctions.png" alt="testfunctions">
 
 <b>White Noise & Random Walk (with Drift)</b><br>
