@@ -19,5 +19,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<b>Differential Calculus [external]</b><br>
+<b>Differential Calculus</b> [external]<br>
 https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
