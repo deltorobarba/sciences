@@ -1,6 +1,6 @@
 # Mathematics & Machine Learning
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/testfunctions.png" alt="testfunctions">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/testfunctions.png" width="200", alt="testfunctions">
 
 <br>
 
