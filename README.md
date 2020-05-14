@@ -8,11 +8,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>Time Series Forecasting (with LSTM)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+<b>Time Series Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <b>Random Walk (with Drift)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
-<b>Components of Neural Nets </b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/components.ipynb
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+<b>Analysis & Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
