@@ -10,6 +10,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/econometrics.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
+<b>Uncertainty</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
+
 <b>Time Series Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
