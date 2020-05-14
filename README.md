@@ -16,8 +16,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
-<b>Algebraic Topology</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
+<b>Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Differential Calculus</b> [external]<br>
 https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
+
+<b>Algebraic Topology</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
