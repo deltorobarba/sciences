@@ -4,7 +4,7 @@
 
 <br>
 
-<b>White Noise & Random Walk (with Drift)</b><br>
+<b>White Noise & Random Walk</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/econometrics.ipynb
 
 <b>Causality</b><br>
