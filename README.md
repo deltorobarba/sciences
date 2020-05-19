@@ -1,6 +1,6 @@
 # Mathematics & Machine Learning
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/optimizationfunction.jpg" width="700" alt="testfunctions">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/optimizationfunction.jpg" width="500" alt="testfunctions">
 
 <br>
 
