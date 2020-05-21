@@ -10,8 +10,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Random Walk (with Drift)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
-<b>Time Series Forecasting</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
+<b>LSTM Time Series Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
