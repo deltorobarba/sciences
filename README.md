@@ -30,3 +30,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <b>Taylor Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
+External
+
+<b>Numerical Computation</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/numericalcomputation.ipynb
