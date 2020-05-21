@@ -21,3 +21,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
+
+<b>Taylor Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
