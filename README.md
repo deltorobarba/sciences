@@ -31,7 +31,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Taylor Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
-External
+**External**
 
 <b>Numerical Computation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/numericalcomputation.ipynb
+
+<b>Calculus</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
+
