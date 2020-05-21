@@ -4,8 +4,11 @@
 
 <br>
 
-<b>White Noise & Random Walk</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/econometrics.ipynb
+<b>White Noise</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
+
+<b>Random Walk (with Drift)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
 <b>Time Series Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
