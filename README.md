@@ -16,6 +16,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
+<b>Uncertainty</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
+
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
