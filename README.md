@@ -39,5 +39,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/numericalcomputation.ipynb
 
 <b>Calculus</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/differential_calculus.ipynb
 
