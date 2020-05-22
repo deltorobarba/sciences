@@ -32,7 +32,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 
-**External**
+**[External]**
 
 <b>Numerical Computation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/numericalcomputation.ipynb
