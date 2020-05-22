@@ -31,7 +31,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-
+<br>
 **[External]**
 
 <b>Numerical Computation</b><br>
