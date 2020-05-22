@@ -25,7 +25,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
-<b>Numerical Analysis & Optimization</b><br>
+<b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Algebraic Topology</b><br>
