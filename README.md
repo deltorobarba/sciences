@@ -7,7 +7,7 @@
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
-<b>Random Walk (with Drift)</b><br>
+<b>Random Walk</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
 <b>Taylor Series</b><br>
@@ -19,7 +19,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
-<b>Time Series with LSTM</b><br>
+<b>Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Differential Geometry</b><br>
