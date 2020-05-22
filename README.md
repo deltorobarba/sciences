@@ -19,6 +19,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
+<b>Taylor Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
@@ -28,8 +31,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<b>Taylor Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
 **External**
 
