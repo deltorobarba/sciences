@@ -13,14 +13,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 <b>Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
-<b>Taylor Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
-
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
+
+<b>Taylor Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
