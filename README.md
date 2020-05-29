@@ -10,6 +10,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Random Walk</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
+<b>Ornstein Uhlenbeck</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
+
 <b>Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
