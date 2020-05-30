@@ -19,7 +19,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 
 ## Time Series Forecasting & Components
 
-<b>Forecasting</b><br>
+<b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Causality</b><br>
