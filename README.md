@@ -16,6 +16,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
 
 <br>
+
 ## Time Series Forecasting & Components
 
 <b>Forecasting</b><br>
@@ -31,6 +32,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
 <br>
+
 ## Algebra, Analysis & Geometry for Machine Learning
 
 <b>Differential Geometry</b><br>
