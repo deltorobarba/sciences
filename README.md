@@ -6,13 +6,11 @@
 
 ## Stochastic Processes
 
-[<b>White Noise</b><br>](https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb)
+[<b>White Noise</b>](https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb)
 
-<b>Random Walk</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
+[<b>Random Walk</b>](https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb)
 
-<b>Ornstein Uhlenbeck</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
+[<b>Ornstein Uhlenbeck</b>](https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb)
 
 <br>
 
