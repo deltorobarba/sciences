@@ -6,8 +6,7 @@
 
 ## Stochastic Processes
 
-<b>White Noise</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
+[<b>White Noise</b><br>](https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb)
 
 <b>Random Walk</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
