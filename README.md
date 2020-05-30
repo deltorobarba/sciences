@@ -4,6 +4,8 @@
 
 <br>
 
+## Stochastic Processes
+
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
@@ -12,6 +14,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
 <b>Ornstein Uhlenbeck</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
+
+## Time Series Forecasting & Components
 
 <b>Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
@@ -24,6 +28,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <b>Taylor Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
+## Algebra, Analysis & Geometry for Machine Learning
 
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
