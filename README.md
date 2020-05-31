@@ -16,9 +16,6 @@
 
 ## Time Series Forecasting & Components
 
-<b>Forecasting with LSTM</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
 [<b>Forecasting with LSTM</b>](https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb)
 
 [<b>Causality</b>](https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb)
