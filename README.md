@@ -4,7 +4,8 @@
 
 <br>
 
-[<b>White Noise</b>](https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb)
+<b>White Noise</b>
+(ttps://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb)
 
 [<b>Random Walk (with Drift)</b>](https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb)
 
