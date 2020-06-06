@@ -11,13 +11,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
 <b>Ornstein Uhlenbeck</b><br>
-(https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
 
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
-<b>Taylor Series</b><br>
-(https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+<b>Taylor Series Expansion</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
 <b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
