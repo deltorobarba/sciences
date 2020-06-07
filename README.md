@@ -46,6 +46,12 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <br>
 
+## Machine Learning
+
+<b>Optimizer</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
+
+
 ## Miscellaneous
 
 <b>Differential Geometry</b><br>
