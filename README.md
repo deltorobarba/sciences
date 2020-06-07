@@ -31,6 +31,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
 <b>Easom (Test Function for Optimization)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
 
+<b>Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
 <br>
 
 ## Time Series
@@ -62,10 +65,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 <br>
 
-## Miscellaneous
+## Geometry
 
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
-
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
