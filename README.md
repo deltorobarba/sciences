@@ -34,6 +34,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Newton Method</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
+
 <br>
 
 ## Geometry
