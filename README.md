@@ -51,6 +51,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 <b>Optimizer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
+<br>
 
 ## Miscellaneous
 
