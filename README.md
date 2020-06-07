@@ -51,6 +51,15 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 <b>Optimizer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
 
+<b>Cost Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
+
+<b>Activation Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
+
+<b>Regularization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
+
 <br>
 
 ## Miscellaneous
