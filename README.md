@@ -17,19 +17,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 
 <br>
 
-## Time Series
-
-<b>Causality</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
-
-<b>Forecasting with LSTM</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
-<b>Uncertainty</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
-
-<br>
-
 ## Analysis & Numerical Optimization
 
 <b>Taylor Series Expansion</b><br>
@@ -43,6 +30,19 @@ https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
 
 <b>Easom (Test Function for Optimization)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
+
+<br>
+
+## Time Series
+
+<b>Causality</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
+
+<b>Forecasting with LSTM</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
+<b>Uncertainty</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <br>
 
