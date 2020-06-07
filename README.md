@@ -15,6 +15,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 <b>Ornstein Uhlenbeck</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
 
+<br>
+
 ## Time Series
 
 <b>Causality</b><br>
@@ -26,10 +28,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
+<br>
+
 ## Analysis & Numerical Optimization
 
 <b>Taylor Series Expansion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
+<br>
 
 ## Miscellaneous
 
