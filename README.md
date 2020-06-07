@@ -22,20 +22,20 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 <b>Taylor Series Expansion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
-<b>Rosenbrock (Test Function for Optimization)</b><br>
+<b>Rosenbrock Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/rosenbrock.ipynb
 
-<b>Himmelblau (Test Function for Optimization)</b><br>
+<b>Himmelblau Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
 
-<b>Easom (Test Function for Optimization)</b><br>
+<b>Easom Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
-
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Newton (Raphson's) Method</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
+
+<b>Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <br>
 
