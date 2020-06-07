@@ -35,6 +35,15 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 <b>Taylor Series Expansion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
+<b>Rosenbrock (Test Function for Optimization)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/rosenbrock.ipynb
+
+<b>Himmelblau (Test Function for Optimization)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
+
+<b>Easom (Test Function for Optimization)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
+
 <br>
 
 ## Miscellaneous
