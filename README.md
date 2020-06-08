@@ -54,6 +54,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 <b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
+<b>Residual Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
+
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
