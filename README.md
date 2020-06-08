@@ -39,13 +39,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <br>
 
-## Geometry
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
-
-<br>
-
 ## Time Series
 
 <b>Causality</b><br>
@@ -59,6 +52,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
+
+<br>
+
+## Geometry
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <br>
 
