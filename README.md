@@ -17,7 +17,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 
 <br>
 
-## Analysis & Numerical Optimization
+## Analysis & Optimization
 
 <b>Taylor Series Expansion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
