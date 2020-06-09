@@ -53,7 +53,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 <b>Autocorrelation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
 
-<b>(Non)Stationarity</b><br>
+<b>Stationarity</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
 
 <b>Distribution</b><br>
