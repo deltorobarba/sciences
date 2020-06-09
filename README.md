@@ -50,6 +50,18 @@ https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 <b>Residual Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 
+<b>Autocorrelation</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
+
+<b>(Non)Stationarity</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
+
+<b>Distribution</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/distribution.ipynb
+
+<b>Transformation</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
+
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
