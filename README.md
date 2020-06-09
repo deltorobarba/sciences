@@ -12,6 +12,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 <b>Random Walk (with Drift)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
+<b>Wiener Process & Brownian Motion</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/wiener.ipynb
+
 <b>Ornstein Uhlenbeck</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
 
