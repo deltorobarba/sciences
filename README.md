@@ -44,14 +44,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 ## Time Series
 
-<b>Causality</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
-
 <b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Residual Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
+
+<b>Causality</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
 
 <b>Autocorrelation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
