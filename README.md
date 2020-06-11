@@ -22,7 +22,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 
 <b>Gaussian Process</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/gauss.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/gaussian.ipynb
 
 <br>
 
