@@ -18,6 +18,12 @@ https://github.com/deltorobarba/machinelearning/blob/master/wiener.ipynb
 <b>Ornstein Uhlenbeck</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
 
+<b>Markov Process (Markov Chains)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
+
+<b>Gaussian Process</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/gauss.ipynb
+
 <br>
 
 ## Analysis & Optimization
