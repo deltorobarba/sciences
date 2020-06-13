@@ -55,6 +55,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/preprocess.ipynb
 
 <b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
 <b>Residual Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 
