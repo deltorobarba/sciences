@@ -15,7 +15,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 <b>Wiener Process & Brownian Motion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/wiener.ipynb
 
-<b>Gaussian Process & Brownian Bridge</b><br>
+<b>Brownian Bridge (for Financial Engineering)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/brownian.ipynb
+
+<b>Gaussian Process</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gaussian.ipynb
 
 <b>Ornstein Uhlenbeck</b><br>
