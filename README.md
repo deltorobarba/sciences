@@ -79,6 +79,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <br>
 
+## Matrix Factorization (Decomposition)
+
+<b>LU Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lu.ipynb
+
+<br>
+
 ## Machine Learning
 
 <b>Optimizer</b><br>
