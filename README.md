@@ -84,6 +84,15 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 <b>LU Decomposition</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lu.ipynb
 
+<b>QR Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/qr.ipynb
+
+<b>Cholesky Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cholesky.ipynb
+
+<b>Singular Value Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
+
 <br>
 
 ## Machine Learning
