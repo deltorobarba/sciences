@@ -27,6 +27,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 <b>Markov Process (Markov Chains)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 
+<b>Markov Chain Monte Carlo (MCMC)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
+
 <br>
 
 ## Analysis & Optimization
