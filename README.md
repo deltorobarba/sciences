@@ -27,6 +27,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ip
 <b>Lévy Process</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/levy.ipynb
 
+<b>Poisson Process</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/poisson.ipynb
+
 <b>Markov Process (Markov Chains)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 
