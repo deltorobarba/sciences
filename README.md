@@ -24,6 +24,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/gaussian.ipynb
 <b>Ornstein Uhlenbeck</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
 
+<b>Lévy Process</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/levy.ipynb
+
 <b>Markov Process (Markov Chains)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 
