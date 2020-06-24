@@ -110,6 +110,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
 
 <br>
 
+## Geometry & Measure Theory
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+<br>
+
 ## Machine Learning
 
 <b>Optimizer</b><br>
@@ -123,11 +130,3 @@ https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
 
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
-
-
-<br>
-
-## Geometry
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
