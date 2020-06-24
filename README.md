@@ -63,6 +63,29 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <br>
 
+## Matrix Factorization (Decomposition)
+
+<b>LU Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lu.ipynb
+
+<b>QR Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/qr.ipynb
+
+<b>Cholesky Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cholesky.ipynb
+
+<b>Singular Value Decomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
+
+<br>
+
+## Geometry & Measure Theory
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+<br>
+
 ## Time Series
 
 <b>Preprocess Time Series</b><br>
@@ -91,29 +114,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
 
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
-
-<br>
-
-## Matrix Factorization (Decomposition)
-
-<b>LU Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lu.ipynb
-
-<b>QR Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/qr.ipynb
-
-<b>Cholesky Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cholesky.ipynb
-
-<b>Singular Value Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
-
-<br>
-
-## Geometry & Measure Theory
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <br>
 
