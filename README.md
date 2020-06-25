@@ -119,11 +119,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 ## Machine Learning
 
+<b>Cost (Loss) Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
+
 <b>Optimizer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
-
-<b>Cost Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
 
 <b>Activation Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
