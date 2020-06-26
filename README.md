@@ -39,6 +39,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 <b>Markov Chain Monte Carlo (MCMC)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 
+<b>Martingale</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
+
 <br>
 
 ## Analysis & Optimization
