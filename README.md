@@ -88,7 +88,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <br>
 
-## Matrix Factorization (Decomposition)
+## Matrix Factorization
 
 <b>LU Decomposition</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lu.ipynb
@@ -104,7 +104,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
 
 <br>
 
-## Geometry & Measure Theory
+## (Information) Geometry
 
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
