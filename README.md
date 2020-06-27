@@ -63,28 +63,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <br>
 
-## Analysis & Optimization
-
-<b>Taylor Series Expansion</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
-
-<b>Rosenbrock Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/rosenbrock.ipynb
-
-<b>Himmelblau Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
-
-<b>Easom Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
-
-<b>Newton (Raphson's) Method</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
-
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
-
-<br>
-
 ## Matrix Factorization
 
 <b>LU Decomposition</b><br>
@@ -98,13 +76,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/cholesky.ipynb
 
 <b>Singular Value Decomposition</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
-
-<br>
-
-## (Information) Geometry
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <br>
 
@@ -139,6 +110,35 @@ https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
 
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
+
+<br>
+
+## (Information) Geometry
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+<br>
+
+## Analysis & Optimization
+
+<b>Taylor Series Expansion</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
+<b>Rosenbrock Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/rosenbrock.ipynb
+
+<b>Himmelblau Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
+
+<b>Easom Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
+
+<b>Newton (Raphson's) Method</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
+
+<b>Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <br>
 
