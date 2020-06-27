@@ -42,9 +42,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 <b>Martingale</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 
-<b>Identically and Independently Distributed Data</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/iid.ipynb
-
 <br>
 
 ## Measure Theory
@@ -124,6 +121,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
 
 <b>Causality</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
+
+<b>Identically and Independently Distributed Data</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/iid.ipynb
 
 <b>Autocorrelation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
