@@ -84,7 +84,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/rank.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/eigendecomposition.ipynb
 
 <b>Non-negative matrix factorization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/nnmf.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/nmf.ipynb
 
 <br>
 
