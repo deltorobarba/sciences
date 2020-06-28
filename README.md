@@ -77,9 +77,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/cholesky.ipynb
 <b>Singular Value Decomposition</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
 
-* Rank factorization
-* Eigendecomposition
-* Non-negative matrix factorization
+<b>Rank factorization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/rank.ipynb
+
+<b>Eigendecomposition</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/eigendecomposition.ipynb
+
+<b>Non-negative matrix factorization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/nnmf.ipynb
 
 <br>
 
