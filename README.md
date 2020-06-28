@@ -88,6 +88,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
+* Distances, divergences, similarity learning
+
 <br>
 
 ## Time Series
