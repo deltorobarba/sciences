@@ -83,6 +83,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
 
 <br>
 
+## (Information) Geometry
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+<br>
+
 ## Time Series
 
 <b>Preprocess Time Series</b><br>
@@ -114,13 +121,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
 
 <b>Uncertainty</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
-
-<br>
-
-## (Information) Geometry
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <br>
 
