@@ -144,6 +144,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+* Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
+
 <br>
 
 ## Machine Learning
