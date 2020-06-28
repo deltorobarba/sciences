@@ -67,6 +67,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/eigendecomposition.i
 <b>Non-negative matrix factorization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/nmf.ipynb
 
+<b>Neural Collaborative Filtering</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/ncf.ipynb
+
 <br>
 
 ## Measure Theory
