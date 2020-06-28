@@ -44,25 +44,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 
 <br>
 
-## Measure Theory
-
-<b>Filtration</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/filtration.ipynb
-
-<b>Sigma Algebra</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
-
-<b>Lebesgue Integral</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
-
-<b>Riemann Integral</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/riemann.ipynb
-
-<b>Spaces (Function, LP, Topological)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
-
-<br>
-
 ## Matrix Factorization
 
 <b>LU Decomposition</b><br>
@@ -85,6 +66,25 @@ https://github.com/deltorobarba/machinelearning/blob/master/eigendecomposition.i
 
 <b>Non-negative matrix factorization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/nmf.ipynb
+
+<br>
+
+## Measure Theory
+
+<b>Filtration</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/filtration.ipynb
+
+<b>Sigma Algebra</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
+
+<b>Lebesgue Integral</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
+
+<b>Riemann Integral</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/riemann.ipynb
+
+<b>Spaces (Function, LP, Topological)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <br>
 
