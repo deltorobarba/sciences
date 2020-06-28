@@ -42,6 +42,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 <b>Martingale</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 
+<b>Bellman Equation (for Dynamic Programming in Reinforcement Learning)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
+
 <br>
 
 ## Matrix Factorization
