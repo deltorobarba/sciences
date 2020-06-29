@@ -42,6 +42,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 <b>Martingale</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 
+<b>Identically and Independently Distributed Data</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/iid.ipynb
+
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
