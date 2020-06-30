@@ -52,11 +52,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 ## Measure Theory
 
+<b>Sigma Algebra</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
+
 <b>Filtration</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/filtration.ipynb
 
-<b>Sigma Algebra</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
+<b>Set Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
 <b>Lebesgue Integral</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
