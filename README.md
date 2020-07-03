@@ -50,7 +50,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
-## Measure Theory
+## Measure Theory & (Information) Geometry
 
 <b>Sigma Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
@@ -69,6 +69,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/riemann.ipynb
 
 <b>Spaces (Function, LP, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+* Distances, divergences, similarity learning
 
 <br>
 
@@ -97,15 +102,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/nmf.ipynb
 
 <b>Neural Collaborative Filtering</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ncf.ipynb
-
-<br>
-
-## (Information) Geometry
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
-
-* Distances, divergences, similarity learning
 
 <br>
 
