@@ -50,7 +50,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
-## Measure Theory & (Information) Geometry
+## Measure Theory
 
 <b>Sigma Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
