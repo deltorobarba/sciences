@@ -50,7 +50,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
-## Measure Theory
+## Measure Theory & Functional Analysis
 
 <b>Sigma Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
@@ -64,20 +64,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Lebesgue Integral</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
 
-<b>Riemann Integral</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/riemann.ipynb
-
-<br>
-
-## Functional Analysis
-
 <b>Spaces (Function, LP, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
-
-* Distances, divergences, similarity learning
 
 <br>
 
@@ -163,7 +154,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
-* Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
+Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
 
 <br>
 
