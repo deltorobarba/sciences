@@ -67,6 +67,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
 <b>Riemann Integral</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/riemann.ipynb
 
+## Functional Analysis
+
 <b>Spaces (Function, LP, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
