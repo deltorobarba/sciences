@@ -61,9 +61,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
 <b>Spaces (Function, LP, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
-
 <br>
 
 ## Matrix Factorization
@@ -150,6 +147,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
+
+<b>Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
 
