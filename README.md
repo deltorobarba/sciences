@@ -42,9 +42,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 <b>Martingale</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 
-<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
-
 <br>
 
 ## Measure Theory & Functional Analysis
@@ -150,6 +147,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
 
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
+<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
 
