@@ -58,7 +58,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Lebesgue Integral</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
 
-<b>Spaces (Normed Vector Spaces, Metric Spaces, Topological Spaces)</b><br>
+<b>Spaces (Normed Vector, Metric, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <br>
