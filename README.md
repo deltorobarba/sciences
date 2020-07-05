@@ -61,6 +61,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
 <b>Spaces (Normed Vector, Metric, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
+<b>Taylor Series Expansion</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
 <br>
 
 ## Matrix Factorization
@@ -125,10 +128,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <br>
 
-## Analysis & Optimization
+<hr />
 
-<b>Taylor Series Expansion</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+## Optimization
 
 <b>Rosenbrock Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/rosenbrock.ipynb
