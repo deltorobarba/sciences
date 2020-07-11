@@ -46,17 +46,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 
 ## Measure Theory & Functional Analysis
 
-<b>Set Theory</b><br>
+<b>Set Theory, Sigma Algebra & Filtration</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
-
-<b>Sigma Algebra</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/sigma.ipynb
-
-<b>Filtration</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/filtration.ipynb
-
-<b>Lebesgue Measure & Integral</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lebesgue.ipynb
 
 <b>Spaces (Normed Vector, Metric, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
