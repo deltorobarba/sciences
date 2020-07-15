@@ -52,10 +52,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Spaces (Normed Vector, Metric, Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
-<b>Statistical Distance & Divergence</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/divergence.ipynb
-
-<b>Information Entropy</b><br>
+<b>Information Entropy & Statistical Distance (Divergence)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
 <b>Taylor Series Expansion</b><br>
