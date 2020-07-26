@@ -53,7 +53,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <b>Spaces II (Topological)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <b>Information Entropy & Statistical Distance</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
