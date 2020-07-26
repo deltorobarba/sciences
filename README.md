@@ -49,7 +49,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
 <b>Set Theory, Sigma Algebra & Filtration</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Spaces (Normed Vector, Metric, Topological)</b><br>
+<b>Spaces I (Inner Product, Normed Vector, Metric)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
+
+<b>Spaces II (Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <b>Information Entropy & Statistical Distance</b><br>
