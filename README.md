@@ -55,7 +55,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 <b>Spaces II (Topological)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<b>Information Entropy & Statistical Distance</b><br>
+<b>Information Geometry (Entropy & Statistical Learning)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
 <b>Taylor Series Expansion</b><br>
