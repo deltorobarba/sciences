@@ -4,6 +4,22 @@
 
 <br>
 
+## Measure Theory & Functional Analysis
+
+<b>Set Theory, Sigma Algebra & Filtration</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
+
+<b>Spaces I (Inner Product, Normed Vector, Metric)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
+
+<b>Spaces II (Topological)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
+
+<b>Information Geometry (Entropy & Statistical Learning)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
+
+<br>
+
 ## Stochastic Process
 
 <b>White Noise</b><br>
@@ -41,25 +57,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 
 <b>Martingale</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
-
-<br>
-
-## Measure Theory & Functional Analysis
-
-<b>Set Theory, Sigma Algebra & Filtration</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
-
-<b>Spaces I (Inner Product, Normed Vector, Metric)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
-
-<b>Spaces II (Topological)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
-
-<b>Information Geometry (Entropy & Statistical Learning)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
-
-<b>Taylor Series Expansion</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
 <br>
 
@@ -151,6 +148,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
+
+<b>Taylor Series Expansion</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
 
 <br>
 
