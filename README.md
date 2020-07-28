@@ -6,13 +6,13 @@
 
 ## Measure Theory & Functional Analysis
 
-<b>Set Theory, Sigma Algebra & Filtration</b><br>
+<b>Spaces I (Measure & Probability Space, Set Theory, Sigma Algebra & Filtration)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Spaces I (Inner Product, Normed Vector, Metric)</b><br>
+<b>Spaces II (Inner Product Space, Normed Vector Space, Metric Space)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
-<b>Spaces II (Topological)</b><br>
+<b>Spaces III (Topological Vector Space)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <b>Information Geometry (Entropy & Statistical Learning)</b><br>
