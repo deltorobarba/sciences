@@ -23,6 +23,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
 <b>Probability Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
+
 <br>
 
 ## Stochastic Process
