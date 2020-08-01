@@ -15,6 +15,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
+<b>Spaces, Algebraic Structures & Categories</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
+
 <b>Information Geometry (Entropy & Statistical Learning)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
