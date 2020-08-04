@@ -18,6 +18,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
+<b>Algebraic & Differential Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
 <b>Information Geometry (Entropy & Statistical Learning)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
@@ -151,7 +154,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/geometry_old.ipynb
 
 Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
 
