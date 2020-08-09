@@ -9,8 +9,11 @@
 <b>Maß- und Integrationstheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Spaces, Algebraic Structures & Categories</b><br>
+<b>Algebraic Structures</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
+
+<b>Category Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 <b>Funktionalanalysis (Vector Space)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
