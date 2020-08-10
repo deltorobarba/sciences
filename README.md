@@ -12,6 +12,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Algebraic Structures</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
+<b>Morphismen</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/morphism.ipynb
+
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
