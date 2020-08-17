@@ -21,7 +21,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<i>Additionally:</i><br>
+<i>Additional Topics:</i><br>
 
 <b>Algebraic & Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
