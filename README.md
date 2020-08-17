@@ -15,14 +15,13 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Morphismen</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/morphism.ipynb
 
-<b>Category Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
-
 <b>Funktionalanalysis (Vector Space)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
+
+<b>Additionally:</b><br>
 
 <b>Algebraic & Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
