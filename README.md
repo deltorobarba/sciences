@@ -4,7 +4,7 @@
 
 <br>
 
-## Measure Theory & Functional Analysis
+## Measure Theory, Category Theory & Functional Analysis
 
 <b>Maß- und Integrationstheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
