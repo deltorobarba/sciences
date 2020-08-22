@@ -23,9 +23,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <i>Additional Topics:</i><br>
 
-<b>Algebraic & Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
-
 <b>Information Geometry (Entropy & Statistical Learning)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
