@@ -6,8 +6,14 @@
 
 ## Measure Theory, Category Theory & Functional Analysis
 
-<b>Maß- und Integrationstheorie</b><br>
+<b>Mengentheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
+
+<b>Maßtheorie</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/measure.ipynb
+
+<b>Ordnungstheorie</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/order.ipynb
 
 <b>Algebraic Structures</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
