@@ -12,8 +12,17 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Maßtheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/measure.ipynb
 
+<b>Probability Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
+
 <b>Ordnungstheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/order.ipynb
+
+<b>Funktionalanalysis (Vector Space)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
+
+<b>Information Geometry (Entropy & Statistical Learning)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
 <b>Algebraic Structures</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
@@ -21,19 +30,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Category Theory (Morphismen)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
-<b>Funktionalanalysis (Vector Space)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
-
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
-
-<i>Additional Topics:</i><br>
-
-<b>Information Geometry (Entropy & Statistical Learning)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
-
-<b>Probability Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
 
 <br>
 
