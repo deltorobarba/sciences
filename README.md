@@ -9,14 +9,14 @@
 <b>Mengentheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
+<b>Ordnungstheorie</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/order.ipynb
+
 <b>Maßtheorie</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/measure.ipynb
 
 <b>Probability Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
-
-<b>Ordnungstheorie</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/order.ipynb
 
 <b>Funktionalanalysis (Vector Space)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
