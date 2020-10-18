@@ -6,7 +6,7 @@
 
 ## Measure Theory, Category Theory & Functional Analysis
 
-<b>Mengentheorie</b><br>
+<b>Set-, Measure- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
 <b>Ordnungstheorie</b><br>
