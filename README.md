@@ -9,20 +9,8 @@
 <b>Set-, Measure- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Ordnungstheorie</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/order.ipynb
-
-<b>Maßtheorie</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/measure.ipynb
-
-<b>Probability Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
-
 <b>Funktionalanalysis (Vector Space)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
-
-<b>Information Geometry (Entropy & Statistical Learning)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
 <b>Algebraic Structures</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
@@ -32,6 +20,19 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
+
+<br>
+
+## Maths - Other
+
+<b>Information Geometry (Entropy & Statistical Learning)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
+
+<b>Probability Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
+
+<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
@@ -155,9 +156,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
 
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
-
-<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry_old.ipynb
