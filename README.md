@@ -36,6 +36,60 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
+
+## Machine Learning
+
+<b>Cost (Loss) Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
+
+<b>Optimizer</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
+
+<b>Activation Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
+
+<b>Regularization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
+
+<b>Quantum Machine Learning</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+
+<br>
+
+## Time Series
+
+<b>Preprocess Time Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/preprocess.ipynb
+
+<b>Forecasting with LSTM</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
+<b>Residual Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
+
+<b>Causality</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
+
+<b>Identically and Independently Distributed Data</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/iid.ipynb
+
+<b>Autocorrelation</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
+
+<b>Stationarity</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
+
+<b>Distribution</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/distribution.ipynb
+
+<b>Transformation</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
+
+<b>Uncertainty</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
+
+<br>
+
 ## Stochastic Process
 
 <b>White Noise</b><br>
@@ -104,42 +158,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/ncf.ipynb
 
 <br>
 
-## Time Series
-
-<b>Preprocess Time Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/preprocess.ipynb
-
-<b>Forecasting with LSTM</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
-<b>Residual Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
-
-<b>Causality</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
-
-<b>Identically and Independently Distributed Data</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/iid.ipynb
-
-<b>Autocorrelation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
-
-<b>Stationarity</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
-
-<b>Distribution</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/distribution.ipynb
-
-<b>Transformation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
-
-<b>Uncertainty</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
-
-<br>
-
-<hr />
-
 ## Optimization
 
 <b>Rosenbrock Function</b><br>
@@ -164,19 +182,3 @@ Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege al
 
 <b>Taylor Series Expansion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
-
-<br>
-
-## Machine Learning
-
-<b>Cost (Loss) Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
-
-<b>Optimizer</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
-
-<b>Activation Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
-
-<b>Regularization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
