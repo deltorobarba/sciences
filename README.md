@@ -33,7 +33,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 <br>
 
 
-## Machine Learning
+## Machine Learning (Neural Networks)
 
 <b>Cost (Loss) Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
