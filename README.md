@@ -47,8 +47,17 @@ https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
 <b>Regularization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
+
+<br>
+
+
+## Applied Machine Learning
+
 <b>Quantum Machine Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+
+<b>Forecasting with LSTM</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <br>
 
@@ -56,9 +65,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Preprocess Time Series</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/preprocess.ipynb
-
-<b>Forecasting with LSTM</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Residual Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
