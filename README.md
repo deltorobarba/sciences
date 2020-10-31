@@ -27,9 +27,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 <b>Probability Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
 
-<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
-
 <br>
 
 
@@ -97,6 +94,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
+<b>Martingale</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
+
 <b>Random Walk (with Drift)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
 
@@ -127,8 +127,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 <b>Markov Chain Monte Carlo (MCMC)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
 
-<b>Martingale</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
+<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
