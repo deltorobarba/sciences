@@ -21,10 +21,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<br>
-
-## Maths - Other
-
 <b>Information Geometry (Entropy & Statistical Learning)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
 
@@ -178,7 +174,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 <b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry_old.ipynb
 
-Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, kurzeste wege algorithmen (diskrete math), Fourierreihen
-
 <b>Taylor Series Expansion</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
+
+Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, 
+kurzeste wege algorithmen (diskrete math), Fourierreihen
+
