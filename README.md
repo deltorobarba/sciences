@@ -35,7 +35,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 ## Machine Learning (Neural Networks)
 
-<b>Cost (Loss) Function</b><br>
+<b>Cost Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
 
 <b>Optimizer</b><br>
