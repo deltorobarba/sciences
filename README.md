@@ -88,9 +88,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 ## Stochastic Process
 
-<b>Probability Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/probability.ipynb
-
 <b>White Noise</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
 
