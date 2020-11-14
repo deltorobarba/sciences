@@ -50,6 +50,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
+<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
+
 <br>
 
 ## Time Series
@@ -123,9 +126,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
 
 <b>Markov Chain Monte Carlo (MCMC)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
-
-<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
 <br>
 
