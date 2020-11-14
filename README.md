@@ -9,20 +9,17 @@
 <b>Set-, Measure- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Funktionalanalysis (Vector Space)</b><br>
+<b>Spaces (Funktionalanalysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <b>Algebraic Structures</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Category Theory (Morphismen)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
-
 <b>Algebraic Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<b>Information Geometry (Entropy & Statistical Learning)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/entropy.ipynb
+<b>Category Theory (Morphismen)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 <br>
 
