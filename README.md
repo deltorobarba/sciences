@@ -24,6 +24,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Stochastic Processes</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
 
+<b>Time Series Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
+
 <br>
 
 
@@ -55,37 +58,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
-
-<br>
-
-## Time Series
-
-<b>Preprocess Time Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/preprocess.ipynb
-
-<b>Residual Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/residuals.ipynb
-
-<b>Causality</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/causality.ipynb
-
-<b>Identically and Independently Distributed Data</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/iid.ipynb
-
-<b>Autocorrelation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/autocorrelation.ipynb
-
-<b>Stationarity</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/stationarity.ipynb
-
-<b>Distribution</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/distribution.ipynb
-
-<b>Transformation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/transformation.ipynb
-
-<b>Uncertainty</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <br>
 
