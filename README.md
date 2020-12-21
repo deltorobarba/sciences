@@ -12,10 +12,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Spaces (Funktionalanalysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
-<b>Algebraic Structures</b><br>
+<b>Abstract Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Algebraic Topology</b><br>
+<b>Topology (Homotopy & Simplicial Homology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <b>Category Theory (Morphismen)</b><br>
