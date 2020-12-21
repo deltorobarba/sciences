@@ -4,7 +4,7 @@
 
 <br>
 
-## Pure Mathematics
+## Mathematics
 
 <b>Set-, Measure- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
