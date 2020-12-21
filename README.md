@@ -89,46 +89,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/uncertainty.ipynb
 
 <br>
 
-## Stochastic Process
-
-<b>White Noise</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/whitenoise.ipynb
-
-<b>Martingale</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/martingale.ipynb
-
-<b>Random Walk (with Drift)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/randomwalk.ipynb
-
-<b>Wiener Process & Brownian Motion</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/wiener.ipynb
-
-<b>Brownian Bridge</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/brownian.ipynb
-
-<b>Gaussian Process</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/gaussian.ipynb
-
-<b>Ornstein Uhlenbeck</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/ornsteinuhlenbeck.ipynb
-
-<b>Lévy Process</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/levy.ipynb
-
-<b>Bernoulli Process</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bernoulli.ipynb
-
-<b>Poisson Process</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/poisson.ipynb
-
-<b>Markov Process (Markov Chains)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/markov.ipynb
-
-<b>Markov Chain Monte Carlo (MCMC)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/mcmc.ipynb
-
-<br>
-
 ## Matrix Factorization
 
 <b>LU Decomposition</b><br>
