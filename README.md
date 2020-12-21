@@ -27,7 +27,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ip
 <br>
 
 
-## Machine Learning (Neural Networks)
+## Machine Learning Components (Neural Networks)
 
 <b>Cost Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
