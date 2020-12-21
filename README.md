@@ -24,9 +24,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Stochastic Processes</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
 
-<b>Time Series Forecasting</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
-
 <br>
 
 
@@ -48,13 +45,16 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <br>
 
 
-## Applied Machine Learning
+## Applied Machine Learning & Data Science
 
 <b>Quantum Machine Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Forecasting with LSTM</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
+<b>Time Series Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
