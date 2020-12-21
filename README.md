@@ -21,6 +21,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory (Morphismen)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
+<b>Stochastic Processes</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
+
 <br>
 
 
