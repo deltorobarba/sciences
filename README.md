@@ -27,6 +27,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ip
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Calculus</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
+
 <br>
 
 
