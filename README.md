@@ -24,6 +24,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
+<b>Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
 <br>
 
 
@@ -66,12 +69,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
 
 <b>Matrix Factorization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
-
-<b>Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
-
-<b>Calculus</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
 
 <br>
 
