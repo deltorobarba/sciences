@@ -24,6 +24,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Stochastic Processes</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
 
+<b>Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
 <br>
 
 
@@ -69,30 +72,4 @@ https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
 
 <br>
-
-## Optimization
-
-<b>Rosenbrock Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/rosenbrock.ipynb
-
-<b>Himmelblau Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/himmelblau.ipynb
-
-<b>Easom Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/easom.ipynb
-
-<b>Newton (Raphson's) Method</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/newton.ipynb
-
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
-
-<b>Differential Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry_old.ipynb
-
-<b>Taylor Series Expansion</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/taylor.ipynb
-
-Farkas lemma, Fourier–Motzkin elimination, polytope, simplex, 
-kurzeste wege algorithmen (diskrete math), Fourierreihen
 
