@@ -65,6 +65,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
 <b>Topological Data Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 
+<b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
+
 <br>
 
 ## Optimization
