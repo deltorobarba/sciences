@@ -47,17 +47,17 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 ## Applied Machine Learning & Data Science
 
-<b>Quantum Machine Learning</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
-
 <b>Time Series Analysis & Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
-<b>Bellman Equation (for Dynamic Programming in RL)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
+<b>Reinforcement Learning</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/reinforcement.ipynb
 
 <b>Topological Data Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
+
+<b>Quantum Machine Learning</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
