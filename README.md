@@ -65,6 +65,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 <b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
 
+----------------
+
 <b>Stochastic Processes</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
 
