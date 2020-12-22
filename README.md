@@ -56,9 +56,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
-<b>Matrix Factorization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
-
 <b>Topological Data Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 
@@ -69,6 +66,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
 
 <b>Stochastic Processes</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
+
+<b>Matrix Factorization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
 
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
