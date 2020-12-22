@@ -59,33 +59,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 
-<br>
-
-## Matrix Factorization
-
-<b>LU Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lu.ipynb
-
-<b>QR Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/qr.ipynb
-
-<b>Cholesky Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cholesky.ipynb
-
-<b>Singular Value Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/svd.ipynb
-
-<b>Rank factorization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/rank.ipynb
-
-<b>Eigendecomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/eigendecomposition.ipynb
-
-<b>Non-negative matrix factorization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/nmf.ipynb
-
-<b>Neural Collaborative Filtering</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/ncf.ipynb
+<b>Matrix Factorization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
 
 <br>
 
