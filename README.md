@@ -9,16 +9,16 @@
 <b>Set-, Measure- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Spaces (Funktionalanalysis)</b><br>
+<b>Funktional Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
-<b>Abstract Algebra</b><br>
+<b>Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Topology (Homotopy & Simplicial Homology</b><br>
+<b>Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<b>Category Theory (Morphismen)</b><br>
+<b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 <b>Stochastic Processes</b><br>
