@@ -1,6 +1,6 @@
 # Mathematics & Machine Learning
 
-<img src="https://raw.githubusercontent.com/deltorobarba/machinelearning/master/whitenoise.png" alt="white noise">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="white noise">
 
 <br>
 
