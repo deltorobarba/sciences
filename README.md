@@ -27,6 +27,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Linear Algebra</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
+
 <br>
 
 
@@ -64,11 +67,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
-
-----------------
-
-<b>Matrix Factorization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
 
 <br>
 
