@@ -50,10 +50,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <b>Quantum Machine Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Time Series Forecasting</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/forecasting.ipynb
-
-<b>Time Series Analysis</b><br>
+<b>Time Series Analysis & Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <b>Bellman Equation (for Dynamic Programming in RL)</b><br>
