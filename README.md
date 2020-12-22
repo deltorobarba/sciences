@@ -21,15 +21,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
-<b>Stochastic Processes</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
-
-<b>Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
-
-<b>Calculus</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
-
 <br>
 
 
@@ -73,6 +64,15 @@ https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 
 <b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
+
+<b>Stochastic Processes</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/stochasticprocess.ipynb
+
+<b>Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
+<b>Calculus</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/calculus.ipynb
 
 <br>
 
