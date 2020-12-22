@@ -12,7 +12,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Funktional Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
-<b>Algebra</b><br>
+<b>Abstract Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
 <b>Topology</b><br>
