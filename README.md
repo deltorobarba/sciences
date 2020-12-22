@@ -62,6 +62,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/bellman.ipynb
 <b>Matrix Factorization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
 
+<b>Topological Data Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
+
 <br>
 
 ## Optimization
