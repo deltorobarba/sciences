@@ -51,7 +51,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Time Series Forecasting</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/forecasting.ipynb
 
 <b>Time Series Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
