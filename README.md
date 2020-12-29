@@ -6,7 +6,7 @@
 
 ## Mathematics
 
-<b>Logic, Set-, Measure-, Integration- & Order Theory</b><br>
+<b>Set-, Measure-, Integration- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
 <b>Funktional Analysis</b><br>
