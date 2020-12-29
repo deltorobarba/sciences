@@ -27,6 +27,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
 
+<b>Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+
 <br>
 
 
