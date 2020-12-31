@@ -15,9 +15,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 <b>Abstract Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Fundamental Theorem on Homomorphisms</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/homomorphism.ipynb
-
 <b>Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
