@@ -30,6 +30,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
 <br>
 
 
