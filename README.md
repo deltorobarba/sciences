@@ -21,17 +21,17 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
-<b>Stochastic</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
-
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
-
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
+<b>Stochastic</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
+
+<b>Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
 
 <br>
 
