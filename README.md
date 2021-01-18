@@ -24,14 +24,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
-<b>Geometry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+<b>Numerical Optimization</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
 
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
-
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
 
 <br>
 
