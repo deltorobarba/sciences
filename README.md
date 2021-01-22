@@ -9,7 +9,7 @@
 <b>Set-, Measure-, Integration- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Funktional Analysis</b><br>
+<b>Spaces</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
 
 <b>Abstract Algebra</b><br>
