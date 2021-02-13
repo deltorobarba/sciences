@@ -9,20 +9,17 @@
 <b>Set-, Measure-, Integration- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
-<b>Spaces</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/spaces.ipynb
-
-<b>Abstract Algebra</b><br>
+<b>Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
+
+<b>Analysis</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
-
-<b>Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Numerical Optimization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
