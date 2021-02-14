@@ -21,9 +21,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
-<b>Numerical Optimization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/numerik.ipynb
-
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
