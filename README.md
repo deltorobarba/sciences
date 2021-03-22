@@ -62,8 +62,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
 
-<b>Matrix Decomposition</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/matrix.ipynb
-
 <br>
 
