@@ -6,7 +6,7 @@
 
 ## Mathematics
 
-<b>Set-, Measure-, Integration- & Order Theory</b><br>
+<b>Set-, Measure- & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
 <b>Algebra</b><br>
@@ -15,14 +15,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Stochastic</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
+
 <b>Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
-
-<b>Stochastic</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
 <br>
 
