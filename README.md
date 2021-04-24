@@ -47,6 +47,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 ## Applied Machine Learning & Data Science
 
+<b>Transformer</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
+
 <b>Time Series Analysis & Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
