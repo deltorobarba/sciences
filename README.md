@@ -50,6 +50,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <b>Transformer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
 
+<b>Graph Neural Nets</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/gnn.ipynb
+
 <b>Time Series Analysis & Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
