@@ -50,6 +50,12 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <b>Transformer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
 
+<b>Google Cloud: Financial Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
+
+<b>Google Cloud: Predictive Maintenance</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/manufacturing.ipynb
+
 <b>Graph Neural Nets</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gnn.ipynb
 
