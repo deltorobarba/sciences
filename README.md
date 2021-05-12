@@ -50,6 +50,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <b>Transformer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
 
+<b>LSTM</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
 <b>Google Cloud: Financial Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
 
