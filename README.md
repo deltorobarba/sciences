@@ -77,9 +77,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/factorization.ipynb
 <b>Quantum Machine Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Convergent Cross Mapping & Pairwise Asymmetric Inference</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/ccm.ipynb
-
 <b>JAX (Differentiable Computing by Google)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/jax.ipynb
 
