@@ -68,8 +68,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/reinforcement.ipynb
 <b>Topological Data Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 
-<b>Matrix Factorization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/factorization.ipynb
-
 <br>
 
