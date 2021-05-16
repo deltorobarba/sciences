@@ -65,8 +65,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
 <b>Reinforcement Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/reinforcement.ipynb
 
-<b>Topological Data Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
-
 <br>
 
