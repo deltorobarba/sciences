@@ -62,9 +62,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/manufacturing.ipynb
 <b>Transformer</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
 
-<b>Graph Neural Nets</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/gnn.ipynb
-
 <b>Reinforcement Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/reinforcement.ipynb
 
