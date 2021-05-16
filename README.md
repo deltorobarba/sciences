@@ -47,10 +47,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 ## Applied Machine Learning & Data Science
 
-<b>Transformer</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
+<b>Time Series Analysis & Forecasting</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
-<b>LSTM</b><br>
+<b>Time Series Forecasting (LSTM)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 
 <b>Google Cloud: Financial Forecasting</b><br>
@@ -59,11 +59,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
 <b>Google Cloud: Predictive Maintenance</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/manufacturing.ipynb
 
+<b>Transformer</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/transformer.ipynb
+
 <b>Graph Neural Nets</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gnn.ipynb
-
-<b>Time Series Analysis & Forecasting</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <b>Reinforcement Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/reinforcement.ipynb
@@ -73,12 +73,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
 
 <b>Matrix Factorization</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/factorization.ipynb
-
-<b>Quantum Machine Learning</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
-
-<b>JAX (Differentiable Computing by Google)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/jax.ipynb
 
 <br>
 
