@@ -15,6 +15,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Geometry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
