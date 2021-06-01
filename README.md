@@ -27,6 +27,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
+<b>Quantum Mechanics</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+
 <br>
 
 
