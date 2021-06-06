@@ -27,9 +27,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
-<b>Quantum Mechanics</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
-
 <br>
 
 
@@ -58,6 +55,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
 <b>Time Series Forecasting (LSTM)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
+
+
+<b>Quantum Machine Learning</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Google Cloud: Financial Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
