@@ -34,7 +34,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <br>
 
 
-## Machine Learning Components (Neural Networks)
+## Machine Learning Components
 
 <b>Cost Function</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
