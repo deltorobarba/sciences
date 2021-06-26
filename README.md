@@ -31,6 +31,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Quantum Machine Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
+<b>Cirq</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/cirq.ipynb
+
 <br>
 
 
