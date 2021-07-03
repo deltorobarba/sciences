@@ -24,15 +24,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
-<br>
-
-## Quantum Machine Learning
-
 <b>Quantum Machine Learning</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
-
-<b>Cirq</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cirq.ipynb
 
 <br>
 
