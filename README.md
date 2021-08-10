@@ -12,6 +12,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Number Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/numbers.ipynb
+
 <b>Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
