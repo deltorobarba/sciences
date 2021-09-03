@@ -62,6 +62,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
 <b>Google Cloud: Financial Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
 
+<b>Google Cloud: Financial Forecasting with Google Stocks</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/finance_google.ipynb
+
 <b>Google Cloud: Predictive Maintenance</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/manufacturing.ipynb
 
