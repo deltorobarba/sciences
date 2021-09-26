@@ -9,7 +9,7 @@
 <b>Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Analysis</b><br>
+<b>Analysis & Number Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Number Theory</b><br>
@@ -21,11 +21,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
-<b>Topology</b><br>
+<b>Topology & Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
-
-<b>Category Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 <b>Quantum</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
