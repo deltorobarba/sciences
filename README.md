@@ -32,6 +32,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <b>Quantum Fourier Transform</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
 
+<b>Quantum Phase Estimation</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
+
 <b>Miscellaneous</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qc.ipynb
 
