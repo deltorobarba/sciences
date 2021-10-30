@@ -21,8 +21,16 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 <b>Topology & Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
-<b>Quantum</b><br>
+<br>
+
+
+## Quantum Computing
+
+<b>Physics, Chemistry & Mathematics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+
+<b>Miscellaneous</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/qc.ipynb
 
 <br>
 
