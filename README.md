@@ -29,6 +29,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Physics, Chemistry & Mathematics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
+<b>Quantum Fourier Transform</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
+
 <b>Miscellaneous</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qc.ipynb
 
