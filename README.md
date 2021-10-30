@@ -38,6 +38,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
 <b>Shor's Algorithm</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
 
+<b>Grover Search & Amplitude Amplification</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/grover.ipynb
+
 <b>Miscellaneous</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qc.ipynb
 
