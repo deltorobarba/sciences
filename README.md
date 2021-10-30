@@ -26,8 +26,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 ## Quantum Computing
 
-<b>Physics, Chemistry & Mathematics</b><br>
+<b>Quantum Physics, Chemistry & Mathematics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+
+<b>Quantum Operator</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/operator.ipynb
 
 <b>Quantum Fourier Transform</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
