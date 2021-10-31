@@ -23,6 +23,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/group.ipynb
 <b>Moduln and Vector Spaces (Linear Algebra)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
+<b>Rings & Fields</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/field.ipynb
+
 <b>Verband (Lattice)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lattice.ipynb
 
