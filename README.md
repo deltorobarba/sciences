@@ -18,8 +18,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
-<b>Topology & Category Theory</b><br>
+<b>Topology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
+
+<b>Category Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 <br>
 
