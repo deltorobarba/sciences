@@ -26,7 +26,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/vector.ipynb
 <b>Rings & Fields</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/field.ipynb
 
-<b>Verband (Lattice)</b><br>
+<b>Verband (Lattice) & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/lattice.ipynb
 
 <b>Functional Analysis</b><br>
@@ -38,7 +38,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/differential.ipynb
 <b>Funktionentheorie (Complex Analysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/complex.ipynb
 
-<b>Set-, Measure- & Order Theory</b><br>
+<b>Set- and Measure Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 
 <b>Number Theory</b><br>
