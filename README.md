@@ -2,8 +2,6 @@
 
 **Lead Machine Learning Specialist at Google**
 
-**Mathematics, Quantum Computing & Machine Learning**
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="white noise">
 
 <br>
