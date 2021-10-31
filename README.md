@@ -9,6 +9,8 @@ Besides, Alexander contributed to DeepMind on a renewable energy project for win
 
 Alexander holds a PhD in Financial Forecasting from the University of Münster in Germany, that he completed within 4 years besides his full time job at a financial asset manager in Frankfurt.
 
+<br>
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="white noise">
 
 <br>
