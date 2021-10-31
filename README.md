@@ -35,7 +35,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/number.ipynb
 <b>Dynamical System, Fractals & Chaos Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
 
-<b>Geometry</b><br>
+<b>Differential Geometry (Calculus of Variation & Vector Analysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <b>Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
