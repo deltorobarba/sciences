@@ -23,6 +23,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>Set-, Measure- & Order Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
+
 <b>Number Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/number.ipynb
 
