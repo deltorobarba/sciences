@@ -1,12 +1,12 @@
 # Alexander Del Toro Barba, PhD
 
-## Mathematics, Quantum Computing & Machine Learning
+**Lead Machine Learning Specialist at Google**
+
+**Mathematics, Quantum Computing & Machine Learning**
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="white noise">
 
 <br>
-
-Lead Machine Learning Specialist at Google
 
 Dr. Alexander Del Toro Barba is Lead Machine Learning Specialist at Google Cloud, where he supports business & industry solving their most challenging problems with machine learning.
 In this role, Alexander worked on financial forecasting in finance, anomaly detection in predictive maintenance, prediction of chemical concentration in life sciences manufacturing, visual inspection of surfaces for quality control in automotive, entity recognition in natural language documents, and image segmentation in autonomous driving. Since 2020 Alexander has been Practice Lead of the machine learning specialists in the Google Cloud North region.
