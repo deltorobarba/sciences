@@ -17,8 +17,14 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 ## Mathematics
 
-<b>Algebra</b><br>
+<b>Group Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/group.ipynb
+
+<b>Moduln and Vector Spaces (Linear Algebra)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
+
+<b>Verband (Lattice)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/lattice.ipynb
 
 <b>Functional Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
