@@ -23,6 +23,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 <b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
+<b>(Partial) Differential Equations</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/differential.ipynb
+
 <b>Funktionentheorie (Complex Analysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/complex.ipynb
 
