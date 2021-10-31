@@ -29,6 +29,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Number Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/number.ipynb
 
+<b>Dynamical System, Fractals & Chaos Theory</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
+
 <b>Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
