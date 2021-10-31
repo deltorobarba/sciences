@@ -38,6 +38,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
 <b>Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
+<b>Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/clifford.ipynb
+
 <b>Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
