@@ -9,7 +9,7 @@
 <b>Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Analysis & Number Theory</b><br>
+<b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Number Theory</b><br>
