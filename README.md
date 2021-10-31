@@ -41,7 +41,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/integral.ipynb
 <b>Dynamical System, Fractals & Chaos Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
 
-<b>Differential Geometry (Calculus of Variation & Vector Analysis)</b><br>
+<b>Calculus of Variation (Euler–Lagrange Equation)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/variation.ipynb
+
+<b>Differential Geometry (Vector Analysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <b>Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
