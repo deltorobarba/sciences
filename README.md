@@ -35,6 +35,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
 <b>Number Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/number.ipynb
 
+<b>Integral Transformations (Fourier, Laplace, Wavelets)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/integral.ipynb
+
 <b>Dynamical System, Fractals & Chaos Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
 
