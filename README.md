@@ -91,6 +91,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
 <b>Grover Search & Amplitude Amplification</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/grover.ipynb
 
+<b>HHL Algorithm (Harrow, Hassidim, Lloyd)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
+
 <b>Miscellaneous</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qc.ipynb
 
