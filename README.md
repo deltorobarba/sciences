@@ -76,6 +76,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Quantum Physics, Chemistry & Mathematics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
+<b>Mathematics of Quantum Mechanics</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
+
 <b>Quantum Operator</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/operator.ipynb
 
