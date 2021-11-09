@@ -79,6 +79,9 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <b>Mathematics of Quantum Mechanics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
+<b>Trigonometry & Phase</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/trigonometry.ipynb
+
 <b>Quantum Operator</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/operator.ipynb
 
