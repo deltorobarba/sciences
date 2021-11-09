@@ -76,7 +76,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 <b>Hydrogen Atom & Schroedinger Equations</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Mathematics of Quantum Mechanics</b><br>
+<b>Mathematics of Quantum Mechanics (Tensor Product, Outer Product, C*-Algebra etc)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <b>Trigonometry & Phase</b><br>
