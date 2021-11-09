@@ -73,7 +73,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/category.ipynb
 
 ## Quantum Computing
 
-<b>Quantum Physics, Chemistry & Mathematics</b><br>
+<b>Hydrogen Atom & Schroedinger Equations</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Mathematics of Quantum Mechanics</b><br>
