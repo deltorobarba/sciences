@@ -79,11 +79,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <b>Mathematics of Quantum Mechanics (Tensor Product, Outer Product, C*-Algebra etc)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
-<b>Trigonometry & Phase</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/trigonometry.ipynb
-
-<b>Quantum Operator</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/operator.ipynb
+<b>Bloch Sphere Trigonometry, Phase & Quantum Operators (Gates)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/bloch.ipynb
 
 <b>Quantum Fourier Transform</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
