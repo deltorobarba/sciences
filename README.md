@@ -29,9 +29,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/differential.ipynb
 <b>Funktionentheorie (Complex Analysis)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/complex.ipynb
 
-<b>Set- and Measure Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/set.ipynb
-
 <b>Number Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/number.ipynb
 
@@ -41,16 +38,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/integral.ipynb
 <b>Dynamical System, Fractals & Chaos Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
 
-<b>Calculus of Variation (Euler–Lagrange Equation)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/variation.ipynb
-
-<b>Differential Geometry (Vector Analysis)</b><br>
+<b>Differential Geometry (alculus of Variation, Vector Analysis), Tensor Algebra, Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
-<b>Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/clifford.ipynb
-
-<b>Stochastic</b><br>
+<b>Stochastic, Set- and Measure Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
 <b>Topology</b><br>
