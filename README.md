@@ -37,11 +37,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 ## Quantum Computing
 
-<b>Hydrogen Atom & Schroedinger Equations, Mathematics of Quantum Mechanics (Tensor Product, Outer Product, C*-Algebra etc)</b><br>
+<b>Hydrogen Atom & Schroedinger Equations, Mathematics of Quantum Mechanics (Tensor Product, Outer Product, C*-Algebra etc), Bloch Sphere Trigonometry, Phase & Quantum Operators (Gates)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
-
-<b>Bloch Sphere Trigonometry, Phase & Quantum Operators (Gates)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/bloch.ipynb
 
 <b>Quantum Fourier Transform, Phase Estimation & Shor's Algorithm</b>
 https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
