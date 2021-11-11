@@ -20,23 +20,8 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 <b>Abstract Algebra (Groups, Rings, Fields, Modules, Vector Spaces (Linear Algebra), Verband (Lattice) & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Functional Analysis</b><br>
+<b>Functional Analysis, Number Theory, (Partial) Differential Equation, Integral Transformations (Fourier, Laplace, Wavelets), Funktionentheorie (Complex Analysis), Dynamical System, Fractals & Chaos Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
-
-<b>(Partial) Differential Equations</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/differential.ipynb
-
-<b>Funktionentheorie (Complex Analysis)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/complex.ipynb
-
-<b>Number Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/number.ipynb
-
-<b>Integral Transformations (Fourier, Laplace, Wavelets)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/integral.ipynb
-
-<b>Dynamical System, Fractals & Chaos Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/chaos.ipynb
 
 <b>Differential Geometry (alculus of Variation, Vector Analysis), Tensor Algebra, Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
