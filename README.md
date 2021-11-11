@@ -70,7 +70,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 <b>Bloch Sphere Trigonometry, Phase & Quantum Operators (Gates)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/bloch.ipynb
 
-<b>Quantum Fourier Transform, Phase Estimation & Shor's Algorithm</b><br
+<b>Quantum Fourier Transform, Phase Estimation & Shor's Algorithm</b>
 https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
 
 <b>Grover Search & Amplitude Amplification</b><br>
