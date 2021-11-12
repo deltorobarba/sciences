@@ -40,14 +40,15 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Hydrogen Atom & Schroedinger Equations, Mathematics of Quantum Mechanics (Tensor Product, Outer Product, C*-Algebra etc), Bloch Sphere Trigonometry, Phase & Quantum Operators (Gates)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Subroutines: Quantum Fourier Transform, Phase Estimation, Shor's Algorithm, Quantum Walk, Grover Search & Amplitude Amplification</b>
+<b>Quantum Subroutines:</b>
+  Quantum Fourier Transform, Phase Estimation, Shor's Algorithm, HHL, Quantum Walk, Grover Search & Amplitude Amplification
 https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
 
-<b>HHL Algorithm (Harrow, Hassidim, Lloyd)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
-
 <b>Variational Quantum Eigensolver (VQE)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/eigensolve.ipynb
+
+<b>Quantum Appendix</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/appendix.ipynb
 
 <br>
 
