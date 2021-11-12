@@ -41,7 +41,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Subroutines: Quantum Fourier Transform, Phase Estimation & Shor's Algorithm</b>
-https://github.com/deltorobarba/machinelearning/blob/master/subroutines.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
 
 <b>Grover Search & Amplitude Amplification</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/grover.ipynb
