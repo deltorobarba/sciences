@@ -41,7 +41,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Quantum Subroutines:</b>
-  Quantum Fourier Transform, Phase Estimation, Shor's Algorithm, HHL, Quantum Walk, Grover Search & Amplitude Amplification
+  * Quantum Fourier Transform, Phase Estimation, Shor's Algorithm, 
+  * HHL, Quantum Walk, Grover Search & Amplitude Amplification
 https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
 
 <b>Variational Quantum Eigensolver (VQE)</b><br>
