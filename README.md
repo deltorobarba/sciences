@@ -49,9 +49,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
 <b>Variational Quantum Eigensolver (VQE)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
 
-<b>Miscellaneous</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/qc.ipynb
-
 <br>
 
 
