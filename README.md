@@ -20,10 +20,22 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 <b>Abstract Algebra (Groups, Rings, Fields, Modules, Vector Spaces (Linear Algebra), Verband (Lattice) & Order Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Functional Analysis, Number Theory, (Partial) Differential Equation, Integral Transformations (Fourier, Laplace, Wavelets), Funktionentheorie (Complex Analysis), Dynamical System, Fractals & Chaos Theory</b><br>
+<b>Analysis</b>
+ * Functional Analysis, 
+ * Number Theory, 
+ * (Partial) Differential Equation, 
+ * Integral Transformations (Fourier, Laplace, Wavelets), 
+ * Funktionentheorie (Complex Analysis), 
+ * Dynamical System, Fractals & Chaos Theory<br>
+
 https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
 
-<b>Differential Geometry (alculus of Variation, Vector Analysis), Tensor Algebra, Geometric Algebra (Clifford & Grassmann Algebra)</b><br>
+<b>Differential Geometry</b>
+ * Calculus of Variation, 
+ * Vector Analysis), 
+ * Tensor Algebra, 
+ * Geometric Algebra (Clifford & Grassmann Algebra)<br>
+ 
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <b>Stochastic, Set- and Measure Theory</b><br>
@@ -37,7 +49,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 ## Quantum Computing
 
-<b>Hydrogen Atom & Schroedinger Equations, Mathematics of Quantum Mechanics (Tensor Product, Outer Product, C*-Algebra etc), Bloch Sphere Trigonometry, Phase & Quantum Operators (Gates)</b><br>
+<b>Quantum Mathematics and Physics</b>
+ * Physics & Chemistry: Hydrogen Atom & Schroedinger Equations, 
+ * Mathematics: Tensor Product, Outer Product, C*-Algebra etc), Bloch Sphere Trigonometry, 
+ * Phase & Quantum Operators (Gates)<br>
+ 
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Quantum Subroutines:</b>
