@@ -21,14 +21,15 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
 <b>Analysis</b>
+
+https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
+
  * Functional Analysis, 
  * Number Theory, 
  * (Partial) Differential Equation, 
  * Integral Transformations (Fourier, Laplace, Wavelets), 
  * Funktionentheorie (Complex Analysis), 
  * Dynamical System, Fractals & Chaos Theory<br>
-
-https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
 
 <b>Differential Geometry</b>
  * Calculus of Variation, 
