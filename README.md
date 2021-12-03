@@ -18,7 +18,6 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 ## Mathematics
 
 <b>Abstract Algebra</b>
-
  * Group Theory 
  * Rings
  * Fields
@@ -45,7 +44,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
  
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
-<b>Stochastic, Set- and Measure Theory</b><br>
+<b>Stochastic, Set- and Measure Theory</b>
+ * Set- & Measure Theory
+ * Probability Theory
+ * Stochastic Differential Equation
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
 <b>Topology & Category Theory</b><br>
