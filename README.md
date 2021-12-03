@@ -21,7 +21,6 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
 <b>Analysis</b>
-
 https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
 
  * Functional Analysis, 
