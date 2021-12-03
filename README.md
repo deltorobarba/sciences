@@ -17,18 +17,25 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 ## Mathematics
 
-<b>Abstract Algebra (Groups, Rings, Fields, Modules, Vector Spaces (Linear Algebra), Verband (Lattice) & Order Theory</b><br>
+<b>Abstract Algebra</b>
+
+ * Group Theory 
+ * Rings
+ * Fields
+ * Modules and Vector Spaces
+ * Lattices and Order Theory
+
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
-
+<b>Analysis</b>
  * Functional Analysis, 
  * Number Theory, 
  * (Partial) Differential Equation, 
  * Integral Transformations (Fourier, Laplace, Wavelets), 
  * Funktionentheorie (Complex Analysis), 
  * Dynamical System, Fractals & Chaos Theory<br>
+
+https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
 
 <b>Differential Geometry</b>
  * Calculus of Variation, 
