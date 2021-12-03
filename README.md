@@ -48,6 +48,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
  * Set- & Measure Theory
  * Probability Theory
  * Stochastic Differential Equation
+ * Stochastic Processes
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
 <b>Topology & Category Theory</b><br>
