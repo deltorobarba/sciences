@@ -49,9 +49,16 @@ https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
  * Probability Theory
  * Stochastic Differential Equation
  * Stochastic Processes
+
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
-<b>Topology & Category Theory</b><br>
+<b>Topology & Category Theory</b>
+ * Point-Set Topology
+ * (Algebraic) Homology
+ * Homotopy
+ * Topological Data Analysis
+ * Category Theory & Higher Category Theory
+
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <br>
