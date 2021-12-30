@@ -67,20 +67,34 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 ## Quantum Computing
 
 <b>Quantum Mathematics and Physics</b>
- * Physics & Chemistry: Hydrogen Atom & Schroedinger Equations, 
- * Mathematics: Tensor Product, Outer Product, C*-Algebra etc), Bloch Sphere Trigonometry, 
- * Phase & Quantum Operators (Gates)<br>
- 
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Quantum Subroutines:</b>
-  * Quantum Fourier Transform, Phase Estimation, Shor's Algorithm, 
-  * HHL, Quantum Walk, Grover Search & Amplitude Amplification
+<b>Quantum Fourier Transform</b>
+https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
 
-https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
+<b>Quantum Phase Estimation</b>
+https://github.com/deltorobarba/machinelearning/blob/master/qpe.ipynb
+
+<b>Shor's ALgorithm</b>
+https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
+
+<b>Grover Search</b>
+https://github.com/deltorobarba/machinelearning/blob/master/grover.ipynb
+
+<b>Harrow-Hassidim-Lloyd Algorithm (HHL)</b>
+https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
+
+<b>Superdense Coding</b>
+https://github.com/deltorobarba/machinelearning/blob/master/superdense.ipynb
+
+<b>Quantum Gates</b>
+https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
 
 <b>Variational Quantum Eigensolver (VQE)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
+
+<b>Quantum Subroutines</b>
+https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
 
 <b>Quantum Appendix</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/appendix.ipynb
