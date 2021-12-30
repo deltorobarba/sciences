@@ -93,7 +93,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
 <b>Variational Quantum Eigensolver (VQE)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
 
-<b>Quantum Subroutines</b>
+<b>Quantum Subroutines</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
 
 <b>Quantum Appendix</b><br>
