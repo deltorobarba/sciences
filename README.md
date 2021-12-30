@@ -66,28 +66,28 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 ## Quantum Computing
 
-<b>Quantum Mathematics and Physics</b>
+<b>Quantum Mathematics and Physics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Quantum Fourier Transform</b>
+<b>Quantum Fourier Transform</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
 
-<b>Quantum Phase Estimation</b>
+<b>Quantum Phase Estimation</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qpe.ipynb
 
-<b>Shor's ALgorithm</b>
+<b>Shor's Algorithm</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
 
-<b>Grover Search</b>
+<b>Grover Search</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/grover.ipynb
 
-<b>Harrow-Hassidim-Lloyd Algorithm (HHL)</b>
+<b>Harrow-Hassidim-Lloyd Algorithm (HHL)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
 
-<b>Superdense Coding</b>
+<b>Superdense Coding</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/superdense.ipynb
 
-<b>Quantum Gates</b>
+<b>Quantum Gates</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
 
 <b>Variational Quantum Eigensolver (VQE)</b><br>
