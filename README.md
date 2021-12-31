@@ -66,8 +66,17 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 ## Quantum Computing
 
-<b>Quantum Mathematics and Physics</b><br>
+<b>Quantum Physics</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
+
+<b>Quantum (Computational) Chemistry</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/chemistry.ipynb
+
+<b>Quantum Mathematics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+
+<b>Quantum Gates</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
 
 <b>Quantum Fourier Transform</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
@@ -86,9 +95,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
 
 <b>Superdense Coding</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/superdense.ipynb
-
-<b>Quantum Gates</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
 
 <b>Variational Quantum Eigensolver (VQE)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
