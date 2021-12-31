@@ -73,7 +73,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/chemistry.ipynb
 
 <b>Quantum Mathematics</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <b>Quantum Gates</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
@@ -100,7 +100,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/superdense.ipynb
 https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
 
 <b>Quantum Subroutines</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/subroutine.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <b>Quantum Appendix</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/appendix.ipynb
