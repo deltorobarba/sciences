@@ -78,23 +78,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 <b>Quantum Gates</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
 
-<b>Quantum Fourier Transform</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/qft.ipynb
-
-<b>Quantum Phase Estimation</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/qpe.ipynb
-
-<b>Shor's Algorithm</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/shor.ipynb
-
-<b>Grover Search</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/grover.ipynb
-
-<b>Harrow-Hassidim-Lloyd Algorithm (HHL)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/hhl.ipynb
-
-<b>Superdense Coding</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/superdense.ipynb
+<b>Subroutines (Quantum Fourier Transform, Phase Estimation, Shor, Grover, HHL, Superdense)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/subroutines.ipynb
 
 <b>Variational Quantum Eigensolver (VQE)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
