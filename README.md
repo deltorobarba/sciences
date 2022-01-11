@@ -40,9 +40,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Quantum Computing Maths, Physics & Chemistry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
 
-<b>Quantum Gates</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
-
 <b>Subroutines (Quantum Fourier Transform, Phase Estimation, Shor, Grover, HHL, Superdense)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/subroutines.ipynb
 
