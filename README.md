@@ -17,48 +17,19 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 ## Mathematics
 
-<b>Abstract Algebra</b>
- * Group Theory 
- * Rings
- * Fields
- * Modules and Vector Spaces
- * Lattices and Order Theory
-
+<b>Abstract Algebra</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
-<b>Analysis</b>
- * Functional Analysis, 
- * Number Theory, 
- * (Partial) Differential Equation, 
- * Integral Transformations (Fourier, Laplace, Wavelets), 
- * Funktionentheorie (Complex Analysis), 
- * Dynamical System, Fractals & Chaos Theory<br>
-
+<b>Analysis</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
 
-<b>Differential Geometry</b>
- * Calculus of Variation, 
- * Vector Analysis), 
- * Tensor Algebra, 
- * Geometric Algebra (Clifford & Grassmann Algebra)<br>
- 
+<b>Differential Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
-<b>Stochastic, Set- and Measure Theory</b>
- * Set- & Measure Theory
- * Probability Theory
- * Stochastic Differential Equation
- * Stochastic Processes
-
+<b>Stochastic, Set- and Measure Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
-<b>Topology & Category Theory</b>
- * Point-Set Topology
- * (Algebraic) Homology
- * Homotopy
- * Topological Data Analysis
- * Category Theory & Higher Category Theory
-
+<b>Topology & Category Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <br>
@@ -66,14 +37,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 ## Quantum Computing
 
-<b>Quantum Physics</b><br>
+<b>Quantum Computing Maths, Physics & Chemistry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
-
-<b>Quantum (Computational) Chemistry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/chemistry.ipynb
-
-<b>Quantum Mathematics</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <b>Quantum Gates</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/gates.ipynb
