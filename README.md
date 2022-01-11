@@ -17,20 +17,17 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 ## Mathematics
 
-<b>Algebra</b><br>
+<b>Algebra (plus Topology & Category Theory)</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algebra.ipynb
 
 <b>Analysis</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/functional.ipynb
+https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
 
 <b>Geometry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
 
 <b>Stochastic, Set- and Measure Theory</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
-
-<b>Topology & Category Theory</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 
 <br>
 
