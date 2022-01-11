@@ -40,11 +40,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/topology.ipynb
 <b>Quantum Computing Maths, Physics & Chemistry</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
 
-<b>Subroutines (Quantum Fourier Transform, Phase Estimation, Shor, Grover, HHL, Superdense)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/subroutines.ipynb
-
-<b>Variational Quantum Eigensolver (VQE)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/vqe.ipynb
+<b>Algorithms</b> (Quantum Fourier Transform, Phase Estimation, Shor, Grover, HHL, Superdense, Variational)<br>
+https://github.com/deltorobarba/machinelearning/blob/master/algorithms.ipynb
 
 <b>Appendix</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/appendix.ipynb
