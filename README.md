@@ -78,8 +78,5 @@ https://github.com/deltorobarba/machinelearning/blob/master/finance_google.ipynb
 <b>Google Cloud: Predictive Maintenance</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/manufacturing.ipynb
 
-<b>Reinforcement Learning</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/reinforcement.ipynb
-
 <br>
 
