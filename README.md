@@ -66,11 +66,8 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <b>Time Series Analysis & Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
-<b>Google Cloud: Financial Forecasting</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
-
-<b>Google Cloud: Predictive Maintenance (IoT)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/manufacturing.ipynb
+<b>Forecasting of Financial Data and Telemetry Data</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/forecasting.ipynb
 
 <br>
 
