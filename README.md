@@ -34,10 +34,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
 ## Quantum Computing
 
-<b>Quantum Computing Maths, Physics & Chemistry</b><br>
+<b>Quantum Mechanics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<b>Algorithms</b> (Quantum Fourier Transform, Phase Estimation, Shor, Grover, HHL, Superdense, Variational)<br>
+<b>Quantum Algorithms</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/algorithms.ipynb
 
 <br>
