@@ -66,9 +66,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 <b>Time Series Analysis & Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
 
-<b>Time Series Forecasting (LSTM)</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/lstm.ipynb
-
 <b>Google Cloud: Financial Forecasting</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/finance.ipynb
 
