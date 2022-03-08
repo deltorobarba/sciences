@@ -34,7 +34,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/stochastic.ipynb
 
 ## Quantum Computing
 
-<b>Quantum Mechanics & Natural Sciences</b><br>
+<b>Natural Sciences & Quantum Mechanics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
 
 <b>Quantum Algorithms</b><br>
