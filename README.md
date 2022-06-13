@@ -31,19 +31,10 @@ https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 <br>
 
 
-## Machine Learning Components
+## Machine Learning
 
-<b>Cost Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/cost.ipynb
-
-<b>Optimizer</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/optimizer.ipynb
-
-<b>Activation Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/activation.ipynb
-
-<b>Regularization</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
+<b>Cost Function, Optimizer, Regularization & Activation Function</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/machinelearning.ipynb
 
 
 <br>
