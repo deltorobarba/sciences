@@ -57,11 +57,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/regularization.ipynb
 
 ## Applied Machine Learning & Data Science
 
-<b>Time Series Analysis & Forecasting</b><br>
+<b>Time Series Analysis & Forecasting of Financial Data and Telemetry Data</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
-
-<b>Forecasting of Financial Data and Telemetry Data</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/forecasting.ipynb
-
 <br>
 
