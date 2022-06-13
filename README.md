@@ -15,13 +15,13 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 <br>
 
-## Mathematics
+## Natural Sciences & Mathematics (incl. Quantum Computing)
 
-<b>Analysis & Stochastic</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/analysis.ipynb
+<b>Natural Sciences</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
 
-<b>Differential Geometry & Abstract Algebra</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/geometry.ipynb
+<b>Mathematics (incl. Quantum Computing)</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <br>
 
