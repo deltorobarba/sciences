@@ -40,7 +40,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/machinelearning.ipyn
 <br>
 
 
-## Applied Machine Learning & Data Science
+## Applied Data Science
 
 <b>Time Series Analysis & Forecasting of Financial Data and Telemetry Data</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
