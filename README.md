@@ -17,7 +17,7 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 ## Natural Sciences
 
-<b>Natural Sciences</b><br>
+<b>Chemistry, Biology, Geology, Astronomy & Physics</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
 
 <br>
@@ -25,7 +25,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
 
 ## Mathematics (incl. Quantum Computing)
 
-<b>Natural Sciences</b><br>
+<b>Geometry, Algebra, Analysis, Stochastic & Quantum Computing</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <br>
