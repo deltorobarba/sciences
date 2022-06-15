@@ -23,10 +23,17 @@ https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
 <br>
 
 
-## Mathematics (incl. Quantum Computing)
+## Mathematics
 
 <b>Geometry, Algebra, Analysis, Stochastic & Quantum Computing</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
+
+<br>
+
+## Quantum Computing
+
+<b>Geometry, Algebra, Analysis, Stochastic & Quantum Computing</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <br>
 
