@@ -35,7 +35,6 @@ https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 <b>Computational Complexity, Quantum Fourier, Quantum Phase Estimation, Shor, Grover</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
-<br>
 
 <b>Quantum Fourier Transform</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/fourier.ipynb
