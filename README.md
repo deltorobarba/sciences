@@ -37,6 +37,11 @@ https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
 
 <br>
 
+<b>Quantum Fourier Transform</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/fourier.ipynb
+
+<br>
+
 
 ## Machine Learning
 
