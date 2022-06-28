@@ -41,6 +41,14 @@ https://github.com/deltorobarba/machinelearning/blob/master/fourier.ipynb
 
 <br>
 
+## Topological Data Analysis
+
+<b>TDA for Financial Time Series</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
+
+
+<br>
+
 
 ## Machine Learning
 
