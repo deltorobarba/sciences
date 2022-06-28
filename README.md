@@ -25,7 +25,7 @@ https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
 
 ## Mathematics
 
-<b>Geometry, Algebra, Analysis, Stochastic & Quantum Computing</b><br>
+<b>Differential Geometry, Abstract Algebra, Functional Analysis & Stochastic</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <br>
