@@ -35,7 +35,4 @@ https://github.com/deltorobarba/machinelearning/blob/master/chemistry.ipynb
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/biology.ipynb
 
-<br>
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1000.png" alt="sciences">
 
