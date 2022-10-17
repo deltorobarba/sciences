@@ -4,6 +4,8 @@
 
 [Google Scholar](https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de)
 
+[Arxiv research publications](https://arxiv.org/search/?query=Alexander+del+toro+barba&searchtype=all&source=header)
+
 <br>
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
