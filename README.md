@@ -13,7 +13,7 @@ Please also visit my profile on [Google Scholar](https://scholar.google.de/citat
 ## Mathematics
 
 <b>Algebra, Geometry, Analysis, Stochastic, Machine Learning, Quantum Information</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
+https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
 
 <br>
 
@@ -21,20 +21,20 @@ https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 ## Physics
 
 <b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physics</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
+https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
 <br>
 
 ## Chemistry
 
 <b>Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/chemistry.ipynb
+https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 
 <br>
 
 ## Biology
 
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/biology.ipynb
+https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
 
