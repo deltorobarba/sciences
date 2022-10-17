@@ -11,57 +11,34 @@ Alexander holds a PhD in Financial Forecasting from the University of Münster i
 
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/whitenoise.png" alt="white noise">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1000.png" alt="sciences">
 
 <br>
-
-## Natural Sciences
-
-<b>Chemistry, Biology, Geology, Astronomy & Physics</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/sciences.ipynb
-
-<br>
-
 
 ## Mathematics
 
-<b>Differential Geometry, Abstract Algebra, Functional Analysis & Stochastic</b><br>
+<b>Algebra, Geometry, Analysis, Stochastic, Machine Learning, Quantum Information</b><br>
 https://github.com/deltorobarba/machinelearning/blob/master/maths.ipynb
 
 <br>
 
-## Quantum Computing
 
-<b>Computational Complexity, Quantum Fourier, Quantum Phase Estimation, Shor, Grover</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/quantum.ipynb
+## Physics
 
-
-<b>Quantum Fourier Transform</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/fourier.ipynb
+<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physica</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/physics.ipynb
 
 <br>
 
-## Topological Data Analysis
+## Chemistry
 
-<b>TDA for Financial Time Series</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/tda.ipynb
-
-
-<br>
-
-
-## Machine Learning
-
-<b>Cost Function, Optimizer, Regularization & Activation Function</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/machinelearning.ipynb
-
+<b>Reactions</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/chemistry.ipynb
 
 <br>
 
+## Biology
 
-## Applied Data Science
-
-<b>Time Series Analysis & Forecasting of Financial Data and Telemetry Data</b><br>
-https://github.com/deltorobarba/machinelearning/blob/master/timeseries.ipynb
-<br>
+<b>Biochemistry, Evolution, Anthropology</b><br>
+https://github.com/deltorobarba/machinelearning/blob/master/biology.ipynb
 
