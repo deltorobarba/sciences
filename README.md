@@ -2,6 +2,8 @@
 
 **Quantum computing researcher and practice lead at Google**
 
+[Google Scholar](https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de)
+
 <br>
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
