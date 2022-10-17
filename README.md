@@ -2,7 +2,7 @@
 
 **Quantum computing researcher and practice lead at Google**
 
-Please also visit my profile on [Google Scholar](https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de)
+Please also visit my profile on [Google Scholar]("https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de" target="_blank")
 
 <br>
 
