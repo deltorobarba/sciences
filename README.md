@@ -2,7 +2,7 @@
 
 **Quantum computing researcher and practice lead at Google**
 
-[Google Scholar](https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de) - [Arxiv publications](https://arxiv.org/search/?query=Alexander+del+toro+barba&searchtype=all&source=header) - [Linkedin](https://www.linkedin.com/in/deltorobarba/)
+[Google Scholar](https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de)
 
 <br>
 
