@@ -15,22 +15,18 @@ Please also visit my profile on [Google Scholar](https://scholar.google.de/citat
 <b>Algebra, Geometry, Analysis, Stochastic, Machine Learning, Quantum Information</b><br>
 https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
 
-<br>
-
 
 ## Physics
 
 <b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physics</b><br>
 https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
-<br>
 
 ## Chemistry
 
 <b>Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry</b><br>
 https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 
-<br>
 
 ## Biology
 
