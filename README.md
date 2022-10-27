@@ -12,7 +12,7 @@ Please also visit my profile on [Google Scholar](https://scholar.google.de/citat
 
 ## CERN Workshop
 
-<b>Cirq framework and TensorFlow Quantum</b><br>
+<b>Cirq and TensorFlow Quantum</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
 
 
