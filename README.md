@@ -34,7 +34,7 @@ https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
-## CERN Workshop 2022
+## CERN 2022
 
 <b>Cirq and TensorFlow Quantum</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
