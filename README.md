@@ -36,7 +36,7 @@ https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
 ## CERN 2022
 
-<b>Cirq and TensorFlow Quantum</b><br>
+<b> International Conference on Quantum Technologies for High-Energy Physics (QT4HEP22)</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
 
 
