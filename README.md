@@ -10,11 +10,6 @@ Please also visit my profile on [Google Scholar](https://scholar.google.de/citat
 
 <br>
 
-## CERN Workshop
-
-<b>Cirq and TensorFlow Quantum</b><br>
-https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
-
 
 ## Mathematics
 
@@ -38,5 +33,10 @@ https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
+
+## CERN Workshop 2022
+
+<b>Cirq and TensorFlow Quantum</b><br>
+https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
 
 
