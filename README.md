@@ -1,6 +1,7 @@
 # Alexander Del Toro Barba, PhD
 
-Quantum computing and machine learning practice lead at Google. [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
+Quantum computing and machine learning practice lead at Google
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
 
 <br>
