@@ -2,11 +2,11 @@
 
 **Quantum computing researcher and practice lead at Google**
 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
+
 Please also visit my profile on [Google Scholar](https://scholar.google.de/citations?user=fddyK-wAAAAJ&hl=de)
 
-Dr. Alexander Del Toro Barba is Global Quantum Computing Practice Lead at Google Cloud, where he supports customers' understanding of the current state technology in Quantum Computing, Google’s offering and challenges when it comes to applications.
-
-Alexander joined Google in 2018 as a Machine Learning Specialist, where he supported business & industry solving their most difficult problems with machine learning. Besides, he contributed to DeepMind on a renewable energy project for wind power forecast optimization, and to Google Research on machine learning for improved weather forecasting. 
+Dr. Alexander Del Toro Barba is Global Quantum Computing Practice Lead at Google Cloud. Alexander joined Google in 2018 as a Machine Learning Specialist, where he supported business & industry solving their most difficult problems with machine learning, contributed to DeepMind on a renewable energy project for wind power forecast optimization, and helped Google Research with machine learning for improved weather forecasting. 
 
 <br>
 
