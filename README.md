@@ -51,10 +51,10 @@ https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
 <b>Quantum Phase Estimation</b><br>
 https://github.com/deltorobarba/sciences/blob/master/qpe.ipynb
 
-<b>SHor's Algorithm</b><br>
+<b>Shor's Algorithm</b><br>
 https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
 
-<b>Grover's search</b><br>
+<b>Grover's Search</b><br>
 https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
 
 <b>Harrow-Hassidim-Lloyd Algorithm (HHL)</b><br>
