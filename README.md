@@ -43,4 +43,27 @@ https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 <b>International Conference on Quantum Technologies for High-Energy Physics [(QT4HEP22)](https://indico.cern.ch/event/1190278/)</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
 
+## Quantum
+
+<b>Quantum Fourier Transform</b><br>
+https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
+
+<b>Quantum Phase Estimation</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qpe.ipynb
+
+<b>SHor's Algorithm</b><br>
+https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
+
+<b>Grover's search</b><br>
+https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
+
+<b>Harrow-Hassidim-Lloyd Algorithm (HHL)</b><br>
+https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
+
+<b>Machine Learning</b><br>
+https://github.com/deltorobarba/sciences/blob/master/machinelearning.ipynb
+
+<b>Scientific Computing</b><br>
+https://github.com/deltorobarba/sciences/blob/master/computing.ipynb
+
 
