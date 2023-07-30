@@ -16,7 +16,7 @@ Dr. Alexander Del Toro Barba is Quantum Computing Practice Lead at Google Cloud.
 ## Quantum Computing
 
 <b>Quantum Information, Computability Theory, Quantum Algorithms</b><br>
-https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
+https://github.com/deltorobarba/sciences/blob/master/computing.ipynb
 
 ## Mathematics
 
