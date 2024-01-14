@@ -34,9 +34,28 @@ https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
+
 ## CERN 2022
 
 <b>International Conference on Quantum Technologies for High-Energy Physics [(QT4HEP22)](https://indico.cern.ch/event/1190278/)</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
+
+
+## Quantum Algorithms
+
+<b>Quantum Fourier Transform  (QFT)</b><br>
+https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
+
+<b>Quantum Phase Estimation (QPE)</b><br>
+https://github.com/deltorobarba/sciences/blob/master/phase.ipynb
+
+<b>Shor's algorithm</b><br>
+https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
+
+<b>Grover's search</b><br>
+https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
+
+<b>Harrow-Hassidim-Lloyd (HHL) </b><br>
+https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
 
 
