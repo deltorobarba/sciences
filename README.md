@@ -34,10 +34,6 @@ https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
-## Computer Science
-
-<b>MLOps, LLMs, Distributed Training, GPUs, TPUs</b><br>
-https://github.com/deltorobarba/sciences/blob/master/coding.ipynb
 
 ## CERN 2022
 
