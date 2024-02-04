@@ -90,3 +90,6 @@ https://github.com/deltorobarba/sciences/blob/master/symmetries.ipynb
 
 <b>Variational Quantum Eigensolver</b><br>
 https://github.com/deltorobarba/sciences/blob/master/vqe.ipynb
+
+<b>Quantum Boltzmann Machines</b><br>
+https://github.com/deltorobarba/sciences/blob/master/boltzmann.ipynb
