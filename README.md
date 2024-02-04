@@ -93,3 +93,6 @@ https://github.com/deltorobarba/sciences/blob/master/vqe.ipynb
 
 <b>Quantum Boltzmann Machines</b><br>
 https://github.com/deltorobarba/sciences/blob/master/boltzmann.ipynb
+
+<b>Quantum PCA</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qpca.ipynb
