@@ -47,7 +47,7 @@ https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
 https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
 
 <b>Quantum Phase Estimation (QPE)</b><br>
-https://github.com/deltorobarba/sciences/blob/master/phase.ipynb
+https://github.com/deltorobarba/sciences/blob/master/qpe.ipynb
 
 <b>Shor's algorithm</b><br>
 https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
@@ -58,4 +58,35 @@ https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
 <b>Harrow-Hassidim-Lloyd (HHL) </b><br>
 https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
 
+<b>Barren Plateaus</b><br>
+https://github.com/deltorobarba/sciences/blob/master/barren.ipynb
 
+<b>Dequantization</b><br>
+https://github.com/deltorobarba/sciences/blob/master/dequantization.ipynb
+
+<b>QAOA</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qaoa.ipynb
+
+<b>Quantum Error Correction</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qec.ipynb
+
+<b>Quantum Neural Networks</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qnn.ipynb
+
+<b>Quantum Support Vector Machines</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qsvm.ipynb
+
+<b>Quantum Topological Data Analysis</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qtda.ipynb
+
+<b>Qualtran</b><br>
+https://github.com/deltorobarba/sciences/blob/master/qualtran.ipynb
+
+<b>Quantum-inspired Algorithms</b><br>
+https://github.com/deltorobarba/sciences/blob/master/quantuminspired.ipynb
+
+<b>Symmetries in Quantum Algorithms</b><br>
+https://github.com/deltorobarba/sciences/blob/master/symmetries.ipynb
+
+<b>Variational Quantum Eigensolver</b><br>
+https://github.com/deltorobarba/sciences/blob/master/vqe.ipynb
