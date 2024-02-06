@@ -12,10 +12,10 @@ Dr. Alexander Del Toro Barba is Quantum Computing Practice Lead at Google Cloud.
 
 <br>
 
-## Mathematics
+## Computation
 
 <b>Quantum Computing, Computational Complexity Theory, Black Hole Information</b><br>
-https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
+https://github.com/deltorobarba/sciences/blob/master/computation.ipynb
 
 ## Physics
 
@@ -28,12 +28,15 @@ https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 <b>Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry</b><br>
 https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 
-
 ## Biology
 
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
+## Mathematics
+
+<b>Algebra, Anaylsis, Geometry, Stochastic</b><br>
+https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
 
 ## CERN 2022
 
