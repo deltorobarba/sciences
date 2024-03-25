@@ -36,8 +36,3 @@ https://github.com/deltorobarba/sciences/blob/master/computation.ipynb
 
 <b>Algebra, Anaylsis, Geometry, Stochastic</b><br>
 https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
-
-## CERN 2022
-
-<b>International Conference on Quantum Technologies for High-Energy Physics [(QT4HEP22)](https://indico.cern.ch/event/1190278/)</b><br>
-https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
