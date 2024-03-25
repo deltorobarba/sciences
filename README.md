@@ -12,17 +12,6 @@ Dr. Alexander Del Toro Barba is Quantum Computing Practice Lead at Google Cloud.
 
 <br>
 
-## Computation
-
-<b>Quantum Computing, Computational Complexity Theory, Black Hole Information</b><br>
-https://github.com/deltorobarba/sciences/blob/master/computation.ipynb
-
-## Physics
-
-<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physics</b><br>
-https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
-
-
 ## Chemistry
 
 <b>Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry</b><br>
@@ -33,6 +22,16 @@ https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
 <b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
 https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
+## Physics
+
+<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physics</b><br>
+https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
+
+## Complexity
+
+<b>Quantum Computing, Computational Complexity Theory, Black Hole Information</b><br>
+https://github.com/deltorobarba/sciences/blob/master/computation.ipynb
+
 ## Mathematics
 
 <b>Algebra, Anaylsis, Geometry, Stochastic</b><br>
@@ -42,60 +41,3 @@ https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
 
 <b>International Conference on Quantum Technologies for High-Energy Physics [(QT4HEP22)](https://indico.cern.ch/event/1190278/)</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
-
-
-## Quantum Algorithms
-
-<b>Quantum Fourier Transform  (QFT)</b><br>
-https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
-
-<b>Quantum Phase Estimation (QPE)</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qpe.ipynb
-
-<b>Shor's algorithm</b><br>
-https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
-
-<b>Grover's search</b><br>
-https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
-
-<b>Harrow-Hassidim-Lloyd (HHL) </b><br>
-https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
-
-<b>Barren Plateaus</b><br>
-https://github.com/deltorobarba/sciences/blob/master/barren.ipynb
-
-<b>Dequantization</b><br>
-https://github.com/deltorobarba/sciences/blob/master/dequantization.ipynb
-
-<b>QAOA</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qaoa.ipynb
-
-<b>Quantum Error Correction</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qec.ipynb
-
-<b>Quantum Neural Networks</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qnn.ipynb
-
-<b>Quantum Support Vector Machines</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qsvm.ipynb
-
-<b>Quantum Topological Data Analysis</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qtda.ipynb
-
-<b>Qualtran</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qualtran.ipynb
-
-<b>Quantum-inspired Algorithms</b><br>
-https://github.com/deltorobarba/sciences/blob/master/quantuminspired.ipynb
-
-<b>Symmetries in Quantum Algorithms</b><br>
-https://github.com/deltorobarba/sciences/blob/master/symmetries.ipynb
-
-<b>Variational Quantum Eigensolver</b><br>
-https://github.com/deltorobarba/sciences/blob/master/vqe.ipynb
-
-<b>Quantum Boltzmann Machines</b><br>
-https://github.com/deltorobarba/sciences/blob/master/boltzmann.ipynb
-
-<b>Quantum PCA</b><br>
-https://github.com/deltorobarba/sciences/blob/master/qpca.ipynb
