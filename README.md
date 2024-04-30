@@ -30,7 +30,7 @@ https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 ## Complexity
 
 <b>Quantum Computing, Computational Complexity Theory, Black Hole Information</b><br>
-https://github.com/deltorobarba/sciences/blob/master/computation.ipynb
+https://github.com/deltorobarba/sciences/blob/master/complexity.ipynb
 
 ## Quantum
 
