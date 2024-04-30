@@ -36,3 +36,15 @@ https://github.com/deltorobarba/sciences/blob/master/computation.ipynb
 
 <b>CERN 2022</b><br>
 https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
+
+<b>Quantum Fourier Transform</b><br>
+https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
+
+<b>Shor's Algorithm</b><br>
+https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
+
+<b>Quantum Phase Estimation</b><br>
+https://github.com/deltorobarba/sciences/blob/master/phase.ipynb
+
+<b>Grover's Search</b><br>
+https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
