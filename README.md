@@ -48,3 +48,6 @@ https://github.com/deltorobarba/sciences/blob/master/phase.ipynb
 
 <b>Grover's Search</b><br>
 https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
+
+<b>HHL</b><br>
+https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
