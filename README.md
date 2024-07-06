@@ -12,6 +12,27 @@ Alexander is quantum computing and machine learning practice lead at Google Clou
 
 <br>
 
+## Technical Sketches on Quantum Computing
+
+<b>CERN 2022</b><br>
+https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
+
+<b>Quantum Fourier Transform</b><br>
+https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
+
+<b>Shor's Algorithm</b><br>
+https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
+
+<b>Quantum Phase Estimation</b><br>
+https://github.com/deltorobarba/sciences/blob/master/phase.ipynb
+
+<b>Grover's Search</b><br>
+https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
+
+<b>HHL</b><br>
+https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
+
+
 ## Chemistry
 
 <b>Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry</b><br>
@@ -32,22 +53,7 @@ https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 <b>Quantum Computing, Computational Complexity Theory, Black Hole Information</b><br>
 https://github.com/deltorobarba/sciences/blob/master/complexity.ipynb
 
-## Quantum
+## Mathematics
 
-<b>CERN 2022</b><br>
-https://github.com/deltorobarba/sciences/blob/master/cern.ipynb
-
-<b>Quantum Fourier Transform</b><br>
-https://github.com/deltorobarba/sciences/blob/master/fourier.ipynb
-
-<b>Shor's Algorithm</b><br>
-https://github.com/deltorobarba/sciences/blob/master/shor.ipynb
-
-<b>Quantum Phase Estimation</b><br>
-https://github.com/deltorobarba/sciences/blob/master/phase.ipynb
-
-<b>Grover's Search</b><br>
-https://github.com/deltorobarba/sciences/blob/master/grover.ipynb
-
-<b>HHL</b><br>
-https://github.com/deltorobarba/sciences/blob/master/hhl.ipynb
+<b>Algebra, Geometry, Stochastic, Analysis</b><br>
+https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
