@@ -22,10 +22,3 @@ https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
 <b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physics</b><br>
 https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
-
-## Complexity
-
-<b>Computational Complexity and Limits of Computation<br>
-https://github.com/deltorobarba/sciences/blob/master/complexity.ipynb
-
-
