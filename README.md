@@ -20,5 +20,5 @@ https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 
 ## Physics
 
-<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory, Classical Physics</b><br>
+<b>Astronomy, Special & General Relativity, Quantum Field Theory</b><br>
 https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
