@@ -23,12 +23,7 @@ https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
 <b>Astronomy, Special & General Relativity, Quantum Field Theory</b><br>
 https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
-## Quantum
-
-<b>Quantumm Mechanics, Information Theory and Algorithms </b><br>
-https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb
-
 ## Mathematics
 
-<b>Algebra, Geometry, Analysis, Complexity Theory</b><br>
+<b>Quantumm Mechanics, Complexity Thheory, Algebra, Geometry, Analysis</b><br>
 https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
