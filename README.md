@@ -32,9 +32,11 @@ https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
 
 <br>
 
+# Astrophysics
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-# Astrophysics
+
 
 <br>
 
