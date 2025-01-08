@@ -30,9 +30,9 @@ https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 <b>Quantum Mechanics, Complexity Theory, Algebra, Geometry, Analysis</b><br>
 https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
 
-# Astrophysics
+<br>
 
-### Alexander Del Toro Barba, PhD
+# Astrophysics
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
