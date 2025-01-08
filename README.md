@@ -27,10 +27,5 @@ https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
 ## Mathematics
 
-<b>Algebra, Geometry, Analysis, Stochastic</b><br>
+<b>Quantum Mechanics, Complexity Theory, Algebra, Geometry, Analysis</b><br>
 https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
-
-## Quantum
-
-<b>Quantum Mechanics, Complexity Theory</b><br>
-https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb
