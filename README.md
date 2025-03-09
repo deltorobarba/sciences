@@ -64,14 +64,12 @@
 
 ## Chemistry
 
-**(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry)
+**(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry). **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/sciences/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
   * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/sciences/blob/main/moeller_plesset.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Configuration Interaction (CI)](https://github.com/deltorobarba/sciences/blob/main/configuration_interaction.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/main/dft_scf.ipynb) (Electron-density based)
-
-**(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/main/geometry_optimization.ipynb)
 
 **Examples:**
