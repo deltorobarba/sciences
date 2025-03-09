@@ -96,12 +96,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 * **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
 * **Path Integral Molecular Dynamics** (PIMD)
 
-* [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb)
-* [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb)
-* [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H2.ipynb)
-* [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H.ipynb)
-* [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb)
-* [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
+**Examples:** [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb), [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb), [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
 
 ## Quantum Computing
 
