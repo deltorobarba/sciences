@@ -8,7 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
 
-<br>
 
 ## Sciences Notebooks
 * [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
@@ -97,7 +96,6 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 * **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
 * **Path Integral Molecular Dynamics** (PIMD)
 
-**Examples**
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H2.ipynb)
