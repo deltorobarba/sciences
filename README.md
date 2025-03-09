@@ -66,6 +66,8 @@
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/main/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/main/radiowave.ipynb)
 
+<br> 
+
 ## Chemistry 🧬
 
 **(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry). **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
@@ -84,6 +86,7 @@
   * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb)
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
 
+<br> 
 
 ## Quantum Computing 💎
 
