@@ -15,6 +15,8 @@
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
+<br> 
+
 ## Astrophysics 🔭🪐
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
@@ -82,15 +84,16 @@
   * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb)
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
 
+<br>
+
 ## Quantum Computing 💎
+
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="quantum">
 
 * [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
 * [Quantum Algorithms](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/quantum/sciences/main/cern.ipynb) 
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="quantum">
-
 
 <br>
 
