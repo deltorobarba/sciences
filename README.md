@@ -18,7 +18,7 @@
 
 <br>
 
-## Astorphysics
+## Astrophysics
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
@@ -33,7 +33,7 @@
 
 <br>
 
-## Gravitational Waves
+### Gravitational Waves
 
 [GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org).
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## Galaxies
+### Galaxies
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).
 
@@ -58,7 +58,7 @@
 
 <br>
 
-## Nebulae
+### Nebulae
 
 [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object. 
 
@@ -68,7 +68,9 @@
 * [M27 (Dumbbell)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M27.ipynb)  planetary nebula (nebulosity surrounding a white dwarf) at 1,360 light years distance
 * [IC 430](https://github.com/deltorobarba/astrophysics/blob/main/nebula_IC_430.ipynb) with protostar V883 Orionis, member of the Orion Nebula cluster at 1,300 light years distance
 
-## Stars
+<br>
+
+### Stars
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. [sunpy](https://sunpy.org): For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
 
@@ -76,14 +78,18 @@
 * [Solar Flares](https://github.com/deltorobarba/astrophysics/blob/main/star_solarflare.ipynb) with data from GOES
 * [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 
-## Cosmology
+<br>
+
+### Cosmology
 
 [healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [Wilkinson Microwave Anisotropy Probe](https://map.gsfc.nasa.gov) (WMAP).
 
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
 * [Cosmology Distance](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
 
-## Mission Data
+<br>
+
+### Mission Data
 Code examples on how to pull and analyze FITS files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data. Query data bases from high radio astronomy and high energy astronomy (ultraviolet, x-ray and gamma ray).
 * [FITS](https://github.com/deltorobarba/astrophysics/blob/main/missions_fits.ipynb) FITS file analysis
 * [MAST](https://github.com/deltorobarba/astrophysics/blob/main/missions_mast.ipynb) visible-light images from space-based mission (HST, TESS, etc.)
@@ -93,7 +99,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/astrophysics/blob/main/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
 * [Radiowave Frequency Analysis](https://github.com/deltorobarba/astrophysics/blob/main/radiowave.ipynb)
 
-
+<br>
 
 ## Chemistry
 
