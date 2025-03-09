@@ -98,7 +98,3 @@
 * [CERN 2022](https://github.com/deltorobarba/quantum/sciences/main/cern.ipynb) 
 
 <br>
-
-## Machine Learning 💎
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_3000.png" alt="quantum">
