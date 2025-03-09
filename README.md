@@ -90,7 +90,6 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/main/dft_scf.ipynb) (Electron-density based)
 * **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/main/geometry_optimization.ipynb)
-* **(Dynamic) Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD. **(Dynamic) Path Integral Molecular Dynamics** (PIMD)
 * **Examples:**
   * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb)
   * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb)
