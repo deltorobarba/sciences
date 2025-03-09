@@ -18,11 +18,6 @@
 
 <br>
 
-## Astrophysics
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
-
-
 ## Exoplanets
 
 [lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
@@ -103,7 +98,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 
 ## Chemistry
 
-**Static Calculations** (No Nuclear Motion Considered During the Calculation). These calculations are frequently employed to determine the ground-state energy, calculate electron densities and molecular orbitals, analyze the electronic properties of a specific molecular conformation, and optimize molecular geometries by performing numerous static calculations at slightly varied geometries to locate the lowest energy structure. 
+**Static Calculations** (No Nuclear Motion Considered During the Calculation). Used to determine the ground-state energy, calculate electron densities and molecular orbitals, analyze the electronic properties of a specific molecular conformation, and optimize molecular geometries by performing static calculations at slightly varied geometries to locate the lowest energy structure. 
 * **Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
