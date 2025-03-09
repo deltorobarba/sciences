@@ -108,11 +108,11 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 * **Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Geometry Optimization](https://github.com/deltorobarba/astrophysics/blob/main/geometry_optimization.ipynb)
 
-**Dynamic Calculations** (Nuclear Motion is Explicitly Considered). It simulates the evolution of a molecule or system over time. This involves calculating the forces acting on the atomic nuclei and using them to predict their movement, allowing for the observation of vibrational, rotational, and conformational changes. Dynamic calculations reveal how the molecule's structure and properties change as the nuclei move. These calculations are crucial for understanding reaction pathways, thermodynamic properties, and the behavior of molecules in various environments, such as solutions or biological systems.
+**Dynamic Calculations** (Nuclear Motion is Explicitly Considered). Simulates the evolution of a molecule or system over time. Dynamic calculations reveal how the molecule's structure and properties change as the nuclei move (calculate forces acting on atomic nuclei and using them to predict their movement and observe vibrational, rotational, and conformational changes). The calculations are crucial for understanding reaction pathways, thermodynamic properties, and the behavior of molecules in various environments, such as solutions or biological systems.
 * **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
 * **Path Integral Molecular Dynamics** (PIMD)
 
-**Examples** Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules with [pyscf](https://pyscf.org). Calculation of ground state energies in **First Quantization** with *Single-Point Calculations* (Hartree-Fock-SCF, DFT) and *Full Geometry* for different basis sets, and in **Second Quantization**: *Single-Point calculations* based on Post-Hartree-Fock (Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction), and Quantum algorithms (Variational Quantum Eigensolver) using [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
+**Examples** Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules ground state energies with [pyscf](https://pyscf.org) and other packages
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
@@ -121,7 +121,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 * [Ammonia (NH₃)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
 
 
-## Quantum
+## Quantum Computing
 
 * [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
