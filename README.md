@@ -101,4 +101,4 @@
 
 ## Machine Learning 💎
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_3000" alt="quantum">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_3000.png" alt="quantum">
