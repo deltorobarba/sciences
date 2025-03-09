@@ -112,7 +112,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 * **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
 * **Path Integral Molecular Dynamics** (PIMD)
 
-**Examples** Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules ground state energies with [pyscf](https://pyscf.org) and other packages
+**Examples**
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H2.ipynb)
