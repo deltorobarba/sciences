@@ -68,6 +68,9 @@
 
 ## Chemistry 🧬
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_5000.png" alt="sciences">
+
+
 **(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry). **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/sciences/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
