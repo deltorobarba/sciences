@@ -10,12 +10,12 @@
 
 <br>
 
-## Chemistry, Biology, Physics and Maths
+## Chemistry, Biology, Physics and Mathematics
 
 * [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
 * [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
-* [Maths](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
+* [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
 <br>
 
@@ -27,6 +27,8 @@
 * [HR 8799](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_HR8799.ipynb) at 130 light years away
 * [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb) at 3520 light years away
 
+<br>
+
 ## Gravitational Waves
 
 [GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org).
@@ -34,6 +36,8 @@
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
 * [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170814.ipynb) from 14 Aug 2017
+
+<br>
 
 ## Galaxies
 
@@ -47,6 +51,8 @@
 * [NGC 6975 (Hickson)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance
 * [Cosmos 2015](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
 * [Quasar 3C273](https://github.com/deltorobarba/astrophysics/blob/main/quasar_3C273.ipynb) visually brightest quasar in the sky as seen from Earth
+
+<br>
 
 ## Nebulae
 
