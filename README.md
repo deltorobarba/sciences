@@ -9,13 +9,13 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
 
 
-## Science Notebooks
+## Science Notebooks 🍃
 * [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
 * [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
-## Astrophysics
+## Astrophysics 🔭🪐
 
 **Exoplanets**: [lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/main/exoplanet_trappist1.ipynb) at 40 light years away
@@ -62,7 +62,7 @@
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/main/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/main/radiowave.ipynb)
 
-## Chemistry
+## Chemistry 🧬
 
 **(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry). **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
