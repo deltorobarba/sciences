@@ -82,21 +82,23 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 
 ## Chemistry
 
-**Static Calculations** (No Nuclear Motion Considered During the Calculation). Used to determine the ground-state energy, calculate electron densities and molecular orbitals, analyze the electronic properties of a specific molecular conformation, and optimize molecular geometries by performing static calculations at slightly varied geometries to locate the lowest energy structure. 
-* **Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry)
+* **(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/sciences/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
   * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/sciences/blob/main/moeller_plesset.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Configuration Interaction (CI)](https://github.com/deltorobarba/sciences/blob/main/configuration_interaction.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/main/dft_scf.ipynb) (Electron-density based)
-* **Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
+* **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/main/geometry_optimization.ipynb)
-
-**Dynamic Calculations** (Nuclear Motion is Explicitly Considered). Simulates the evolution of a molecule or system as forces act on nuclei over time (vibrational, rotational, and conformational changes). The calculations are crucial for understanding reaction pathways, thermodynamic properties, and the behavior of molecules in various environments, such as solutions or biological systems.
-* **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
-* **Path Integral Molecular Dynamics** (PIMD)
-
-**Examples:** [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb), [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb), [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
+* **(Dynamic) Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
+* **(Dynamic) Path Integral Molecular Dynamics** (PIMD)
+* **Examples:**
+  * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/main/chemistry_spectral_analysis.ipynb)
+  * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/main/chemistry_water_H2O.ipynb)
+  * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H2.ipynb)
+  * [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/main/chemistry_hydrogen_H.ipynb)
+  * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb)
+  * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
 
 ## Quantum Computing
 
