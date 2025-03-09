@@ -2,6 +2,8 @@
 
 ### Alexander Del Toro Barba, PhD
 
+Alexander is quantum computing and machine learning practice lead at Google Cloud. After earning his PhD, he joined Google in 2018 as ML specialist where he supports Google Cloud customers in building large-scale machine learning platforms. In 2020, he became practice lead and contributed to DeepMind research. Since 2022, Alexander also leads the quantum practice at Google Cloud, where he collaborates with Google Quantum AI research.  
+
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
