@@ -1,7 +1,5 @@
 # Natural Sciences
 
-## Astrophysics, Chemistry, Quantum
-
 ### Alexander Del Toro Barba, PhD
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
@@ -12,37 +10,12 @@
 
 <br>
 
-## Chemistry
+## Chemistry, Biology, Physics and Maths
 
-<b>Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry</b><br>
-https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb
-
-## Biology
-
-<b>Biochemistry, Genetics, Evolution, Anthropology, Geology</b><br>
-https://github.com/deltorobarba/sciences/blob/master/biology.ipynb
-
-## Physics
-
-<b>Astronomy, Special & General Relativity, Quantum Field Theory</b><br>
-https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
-
-## Maths
-
-<b>Quantum Mechanics, Complexity Theory, Mathematics</b><br>
-https://github.com/deltorobarba/sciences/blob/master/maths.ipynb
-
-<br>
-
-# Astrophysics
-
-### Alexander Del Toro Barba, PhD
-
-[www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
+* [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
+* [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
+* [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
+* [Maths](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
 <br>
 
