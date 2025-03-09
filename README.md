@@ -80,7 +80,7 @@
   * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/main/chemistry_methane_CH4.ipynb)
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/main/chemistry_ammonia_NH3.ipynb)
 
-## Quantum Computing
+## Quantum Computing 💎🌸
 
 * [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
