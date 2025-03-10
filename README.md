@@ -20,7 +20,7 @@
 ## Exoplanets
 
 [lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
-* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
+* [Trappist1](https://github.com/deltorobarba/astrophysics/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
 * [Kepler8](https://github.com/deltorobarba/sciences/blob/master/exoplanet_kepler8.ipynb) at 3520 light years away
 
