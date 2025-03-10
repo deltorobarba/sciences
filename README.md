@@ -1,4 +1,4 @@
-# Natural Sciences 🍃
+# Astronomy and Astrophysics
 
 ### Alexander Del Toro Barba, PhD
 
@@ -6,8 +6,9 @@ Alexander is quantum computing and machine learning practice lead at Google Clou
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
+## # Natural Sciences 🍃
 * [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
 * [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
