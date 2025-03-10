@@ -2,6 +2,26 @@
 
 ### Alexander Del Toro Barba, PhD
 
+[www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
+
+
+## Science Notebooks
+* [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
+* [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
+* [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
+* [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
+
+
+
+
+# Astronomy and Astrophysics
+
+### Alexander Del Toro Barba, PhD
+
 Alexander is quantum computing and machine learning practice lead at Google Cloud. After earning his PhD, he joined Google in 2018 as ML specialist where he supports Google Cloud customers in building large-scale machine learning platforms. In 2020, he became practice lead and contributed to DeepMind research. Since 2022, Alexander also leads the quantum practice at Google Cloud, where he collaborates with Google Quantum AI research.  
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
