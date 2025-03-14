@@ -96,6 +96,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 
 ## Quantum Computing
 
+* [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/astrophysics/blob/master/vqe_uccsd.ipynb)
 * [Quantum Mechanics](https://github.com/deltorobarba/astrophysics/blob/master/maths.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/astrophysics/blob/master/maths.ipynb)
 * [Quantum Algorithms](https://github.com/deltorobarba/astrophysics/blob/master/maths.ipynb)
