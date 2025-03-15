@@ -51,7 +51,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
 * [Kepler8](https://github.com/deltorobarba/sciences/blob/master/exoplanet_kepler8.ipynb) at 3520 light years away
 
-## Gravitational Waves
+## Gravitational Waves 📡
 
 [GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave OWS](https://gwosc.org).
   * [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) from 14 Sep 2015
