@@ -58,7 +58,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
   * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
-## Galaxies ⋆₊🔭๋࣭ ⭑⋆｡˚
+## Galaxies ⭑⋆🔭⋆₊
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).
   * [M31 (Andromeda)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
@@ -121,7 +121,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb)
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
-## Quantum Computing 💎 ∑∞ⁿ⁼⁰ ¹ₙ
+## Quantum Computing 💎
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with nvidia cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
