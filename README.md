@@ -70,7 +70,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
   * [Quasar 3C273](https://github.com/deltorobarba/sciences/blob/master/quasar_3C273.ipynb) visually brightest quasar in the sky as seen from Earth
 
-## Nebulae 🔭˖. ݁🫧⋆｡˚
+## Nebulae 🔭🫧⋆｡˚
 
 [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object. 
   * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula situated in Milky Way at 1.3 light years distance
