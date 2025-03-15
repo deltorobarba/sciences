@@ -112,8 +112,6 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [Configuration Interaction (CI)](https://github.com/deltorobarba/sciences/blob/master/configuration_interaction.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) (Electron-density based)
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb)
-
-**Examples of Elements and Molecules:**
   * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb)
   * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb)
   * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb)
