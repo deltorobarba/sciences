@@ -21,6 +21,8 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 
 ## Publications 🎓
 
+*This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.*
+
 **American Physical Society**
 * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), PRX Quantum 5 (1) - 010319 (2024)
 
@@ -39,8 +41,6 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 **arXiv**
 * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360), arXiv: 2412.14360 (2024)
 * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557), arXiv:2410.06557 (2024)
-
-*This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.*
 
 <br> 
 
