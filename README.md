@@ -92,7 +92,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [CMB](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
   * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
 
-## Astro Mission Data
+## Astro Mission Data 📂
 
 Code examples on how to pull and analyze FITS files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data. Query data bases from high radio astronomy and high energy astronomy.
   * [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) FITS file analysis
