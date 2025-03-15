@@ -21,8 +21,20 @@
 
 **American Physical Society**
 
-[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319),
+[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319)<br>
 PRX Quantum 5 (1), 010319 (2024)
+
+**Science**
+
+[Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877)<br>
+Science 384, 48-53  (2024)
+
+[Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932)<br>
+Science 383, 1332-1337 (2024)
+
+*This publication list from Google Scholar include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.*
+
+<br> 
 
 ## Exoplanets
 
