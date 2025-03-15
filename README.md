@@ -2,7 +2,7 @@
 
 ### Alexander Del Toro Barba, PhD
 
-Alexander is machine learning specialist and quantum computing practice lead at Google Cloud. He supports on innovative, large-scale machine learning, and collaborates with Google Quantum AI research.
+*Alexander is machine learning specialist and quantum computing practice lead at Google Cloud. He supports on innovative, large-scale machine learning, and collaborates with Google Quantum AI research.*
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
@@ -21,7 +21,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 
 ## Publications 🎓
 
-This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.
+*This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.*
 
 **American Physical Society**
 * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), PRX Quantum 5 (1) - 010319 (2024)
@@ -46,7 +46,7 @@ This publication list from [Google Scholar](https://scholar.google.com/citations
 
 ## Exoplanets 🪐
 
-[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
+*[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.*
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
 * [Kepler8](https://github.com/deltorobarba/sciences/blob/master/exoplanet_kepler8.ipynb) at 3520 light years away
