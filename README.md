@@ -21,7 +21,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 
 ## Publications 🎓
 
-*This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.*
+This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.
 
 **American Physical Society**
 * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), PRX Quantum 5 (1) - 010319 (2024)
