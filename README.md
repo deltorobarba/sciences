@@ -17,6 +17,13 @@
 
 <br>  
 
+## Publications
+
+**American Physical Society**
+
+[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319),
+PRX Quantum 5 (1), 010319 (2024)
+
 ## Exoplanets
 
 [lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
