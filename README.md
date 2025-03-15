@@ -1,4 +1,4 @@
-# Astronomy and Astrophysics
+# Natural Sciences
 
 ### Alexander Del Toro Barba, PhD
 
