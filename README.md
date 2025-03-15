@@ -19,7 +19,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 
 <br>  
 
-## Publications
+## Publications 🎓
 
 **American Physical Society**
 * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), PRX Quantum 5 (1) - 010319 (2024)
