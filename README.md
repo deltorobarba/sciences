@@ -2,7 +2,7 @@
 
 ### Alexander Del Toro Barba, PhD
 
-Alexander is machine learning specialist and quantum computing practice lead at Google Cloud. He supports customers in custom, large-scale machine learning and collaborates with Google Quantum AI research.
+Alexander is machine learning specialist and quantum computing practice lead at Google Cloud. He supports with custom, large-scale machine learning and collaborates with Google Quantum AI research.
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
