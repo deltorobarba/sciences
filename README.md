@@ -58,7 +58,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
   * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
-## Galaxies ⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚
+## Galaxies ⋆₊🔭๋࣭ ⭑⋆｡˚
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).
   * [M31 (Andromeda)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
@@ -86,7 +86,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) with data from GOES
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 
-## Cosmology
+## Cosmology 🛰️
 
 [healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [Wilkinson Microwave Anisotropy Probe](https://map.gsfc.nasa.gov) (WMAP).
   * [CMB](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
