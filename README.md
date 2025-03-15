@@ -2,6 +2,8 @@
 
 ### Alexander Del Toro Barba, PhD
 
+Alexander is machine learning specialist and quantum computing practice lead at Google Cloud.
+
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
 <br>
@@ -28,22 +30,22 @@ Science 384, 48-53  (2024)
 [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932)<br>
 Science 383, 1332-1337 (2024)
 
-Thermalization and criticality on an analogue–digital quantum simulator<br>
+[Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3)<br>
 Nature 638, 79-85 (2025)
 
-Phase transitions in Random Circuit Sampling<br>
+[Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6)<br>
 Nature 634, 328-333 (2024)
 
-Measurement-induced entanglement and teleportation on a noisy quantum processor<br>
+[Measurement-induced entanglement and teleportation on a noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7)<br>
 Nature 622, 481–486 (2023)
 
-Non-Abelian braiding of graph vertices in a superconducting processor<br>
+[Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4)<br>
 Nature 618, 264–269 (2023)
 
-Suppressing quantum errors by scaling a surface code logical qubit<br>
+[Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1)<br>
 Nature 614, 676–681 (2023)
 
-Formation of robust bound states of interacting microwave photons<br>
+[Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y)<br>
 Nature 612, 240–245 (2022)
 
 *This publication list from Google Scholar include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author.*
