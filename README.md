@@ -24,14 +24,11 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319)<br>
 American Physical Society, PRX Quantum 5 (1), 010319 (2024)
 
-[Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877)<br>
-Science 384, 48-53  (2024)
+Science 384, 48-53  (2024): [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877)
 
-[Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932)<br>
-Science 383, 1332-1337 (2024)
+Science 383, 1332-1337 (2024): [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932)
 
-[Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3)<br>
-Nature 638, 79-85 (2025)
+Nature 638, 79-85 (2025): [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3)
 
 [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6)<br>
 Nature 634, 328-333 (2024)
