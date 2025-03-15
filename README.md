@@ -51,16 +51,12 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
 * [Kepler8](https://github.com/deltorobarba/sciences/blob/master/exoplanet_kepler8.ipynb) at 3520 light years away
 
-<br> 
-
 ## Gravitational Waves 📡
 
 [GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave OWS](https://gwosc.org).
   * [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) from 14 Sep 2015
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
   * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
-
-<br> 
 
 ## Galaxies ⭑⋆🔭⋆₊
 
@@ -74,8 +70,6 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
   * [Quasar 3C273](https://github.com/deltorobarba/sciences/blob/master/quasar_3C273.ipynb) visually brightest quasar in the sky as seen from Earth
 
-<br> 
-
 ## Nebulae 🔭🫧⋆｡˚
 
 [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object. 
@@ -85,8 +79,6 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula (nebulosity surrounding a white dwarf) at 1,360 light years distance
   * [IC 430](https://github.com/deltorobarba/sciences/blob/master/nebula_IC_430.ipynb) with protostar V883 Orionis, member of the Orion Nebula cluster at 1,300 light years distance
 
-<br> 
-
 ## Stars ☀️✨
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. [sunpy](https://sunpy.org): For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
@@ -94,15 +86,11 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) with data from GOES
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 
-<br> 
-
 ## Cosmology 🛰️
 
 [healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [Wilkinson Microwave Anisotropy Probe](https://map.gsfc.nasa.gov) (WMAP).
   * [CMB](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
-  * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
-
-<br> 
+  * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity. 
 
 ## Astro Mission Data 📂
 
@@ -114,8 +102,6 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)
-
-<br> 
 
 ## Chemistry 🧪🔬🧬
 
@@ -135,7 +121,6 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb)
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
-<br> 
 
 ## Quantum Computing 💎🌈⃤
 
