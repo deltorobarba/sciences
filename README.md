@@ -1,4 +1,4 @@
-# Natural Sciences
+# Natural Sciences 🌸
 
 ### Alexander Del Toro Barba, PhD
 
@@ -11,7 +11,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
 
 
-## Science Notebooks
+## Science Notebooks 🍃
 * [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
 * [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
@@ -44,7 +44,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
 
 <br> 
 
-## Exoplanets
+## Exoplanets 🪐
 
 [lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
@@ -58,7 +58,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
   * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
-## Galaxies
+## Galaxies ⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).
   * [M31 (Andromeda)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
@@ -70,7 +70,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
   * [Quasar 3C273](https://github.com/deltorobarba/sciences/blob/master/quasar_3C273.ipynb) visually brightest quasar in the sky as seen from Earth
 
-## Nebulae
+## Nebulae 🔭˖. ݁🫧⋆｡˚
 
 [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object. 
   * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula situated in Milky Way at 1.3 light years distance
@@ -79,7 +79,7 @@ Alexander is machine learning specialist and quantum computing practice lead at 
   * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula (nebulosity surrounding a white dwarf) at 1,360 light years distance
   * [IC 430](https://github.com/deltorobarba/sciences/blob/master/nebula_IC_430.ipynb) with protostar V883 Orionis, member of the Orion Nebula cluster at 1,300 light years distance
 
-## Stars
+## Stars ☀️✨
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. [sunpy](https://sunpy.org): For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
   * [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) Analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
@@ -103,7 +103,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)
 
-## Chemistry 
+## Chemistry 🧪🔬🧬
 
 **(Static) Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry). **(Static) Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
@@ -121,7 +121,7 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
   * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb)
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
-## Quantum Computing
+## Quantum Computing 💎 ∑∞ⁿ⁼⁰ ¹ₙ
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with nvidia cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
