@@ -139,7 +139,7 @@
 
 <br>
 
-## Medium Articles 📚🎧📒
+## Medium Articles 🎧📒
 
 * **Demystifying Quantum Computing**
   * Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
