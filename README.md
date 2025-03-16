@@ -119,7 +119,7 @@
   * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
 
-## Quantum Computing 💎 ⚛︎ ♾️
+## Quantum Computing 💎
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with nvidia cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
@@ -127,7 +127,7 @@
 * [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [Quantum Algorithms](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
-* [CERN 2022](https://github.com/deltorobarba/quantum/sciences/master/cern.ipynb)
+* [CERN 2022](https://github.com/deltorobarba/quantum/sciences/master/cern.ipynb) ⚛︎
 
 ## Machine Learning 💡
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) with machine learning
