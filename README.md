@@ -39,8 +39,8 @@
 * [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y), Nature 612, 240–245 (2022)
 
 **arXiv**
-* [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360), (2024)
-* [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557), (2024)
+* [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
+* [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
 <br> 
 
