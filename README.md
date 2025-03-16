@@ -102,7 +102,7 @@
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
 
-## Chemistry 🧪🔬🧬
+## Chemistry 🧪🧬
 
 *(Static) Single-Point Energy Calculations (calculate the energy and properties at a fixed geometry). (Static) Full Geometry Optimization (iteratively finds minimum energy structure or equilibrium geometry of molecule).*
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
@@ -111,7 +111,7 @@
   * [Configuration Interaction (CI)](https://github.com/deltorobarba/sciences/blob/master/configuration_interaction.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) (Electron-density based)
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb)
-  * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb)
+  * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬
   * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb)
   * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb)
   * [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb)
