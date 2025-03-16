@@ -44,7 +44,7 @@
 
 <br> 
 
-## Medium Articles
+## Medium Articles 📚
 * [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 * [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
@@ -55,6 +55,11 @@
 * [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
 * [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
 * [Dicke States in Quantum Computing](https://medium.com/@deltorobarba/dicke-states-in-quantum-computing-06f9ada5ce22)
+* [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries (LCU)](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
+* [Dirac Operator in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/dirac-operator-in-quantum-topological-data-analysis-29a2c4d2432c)
+* [Computational Complexity of Topological Data Analysis](https://medium.com/@deltorobarba/computational-complexity-of-topological-data-analysis-55e70d2d6213)
+* [Topological Data Analysis with Spectral Analysis of Combinatorial Laplacians](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-2-8a2e3071c872)
+* [Topological Data Analysis with Persistent Homology](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-1-c6d055f2a4de)
 
 <br>
 
