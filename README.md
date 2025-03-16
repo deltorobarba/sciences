@@ -153,7 +153,7 @@
   * Part 3: [Topological Data Analysis with Differential Forms, Hodge Theory and Cohomology Classes](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-1a97caeafd47)
   * Part 4: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
  
- * **Component of Quantum Algorithms**
+* **Component of Quantum Algorithms**
   * [Block Encoding in Quantum Computing](https://medium.com/@deltorobarba/block-encoding-in-quantum-computing-ba76e3d942a8)
   * [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
   * [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
