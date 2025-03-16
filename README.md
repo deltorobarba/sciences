@@ -102,6 +102,10 @@
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
 
+## Machine Learning 💡
+  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) with machine learning
+  * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
+
 ## Chemistry 🧪🧬
 
 *(Static) Single-Point Energy Calculations (calculate the energy and properties at a fixed geometry). (Static) Full Geometry Optimization (iteratively finds minimum energy structure or equilibrium geometry of molecule).*
@@ -128,10 +132,6 @@
 * [Quantum Complexity](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [Quantum Algorithms](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/quantum/sciences/master/cern.ipynb) ⚛︎
-
-## Machine Learning 💡
-  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) with machine learning
-  * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
 
 <br>
 
