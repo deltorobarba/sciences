@@ -43,6 +43,19 @@
 * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
 <br> 
+## Medium Articles
+* [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
+* [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
+* [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
+* [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
+* [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
+* [Topological Data Analysis with Differential Forms, Hodge Theory and Cohomology Classes](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-1a97caeafd47)
+* [Block Encoding in Quantum Computing](https://medium.com/@deltorobarba/block-encoding-in-quantum-computing-ba76e3d942a8)
+* [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
+* [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
+* [Dicke States in Quantum Computing](https://medium.com/@deltorobarba/dicke-states-in-quantum-computing-06f9ada5ce22)
+
+<br>
 
 ## Exoplanets 🪐
 
