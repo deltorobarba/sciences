@@ -123,7 +123,7 @@
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
 * [Quantum Imaging](https://github.com/deltorobarba/sciences/blob/master/quantum_imaging.ipynb) with quantum ghost imaging
-* [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb) and Quantum Algorithms
+* [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb), Quantum. Complexityand Quantum Algorithms
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 <br>
