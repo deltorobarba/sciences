@@ -116,8 +116,7 @@
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) (Electron-density based)
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb)
   * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬
-  * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb)
-  * Elements & molecules: [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
+  * Elements & molecules: [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
 
 ## Quantum Computing 💎
@@ -126,7 +125,6 @@
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
 * [Quantum Imaging](https://github.com/deltorobarba/sciences/blob/master/quantum_imaging.ipynb) with quantum ghost imaging
 * [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
-* [Quantum Complexity](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [Quantum Algorithms](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/quantum/sciences/master/cern.ipynb) ⚛︎
 
