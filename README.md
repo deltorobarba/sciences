@@ -126,7 +126,7 @@
 * [Quantum Imaging](https://github.com/deltorobarba/sciences/blob/master/quantum_imaging.ipynb) with quantum ghost imaging
 * [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
 * [Quantum Algorithms](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb)
-* [CERN 2022](https://github.com/deltorobarba/quantum/sciences/master/cern.ipynb) ⚛︎
+* [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎
 
 <br>
 
