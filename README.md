@@ -117,10 +117,7 @@
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb)
   * [Spectral Analysis of Elements](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬
   * [Water Molecule (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb)
-  * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb)
-  * [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb)
-  * [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb)
-  * [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
+  * Elements & molecules: [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
 
 ## Quantum Computing 💎
