@@ -60,7 +60,7 @@
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
   * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
-## Galaxies ⭑⋆🔭⋆₊
+### Galaxies ⭑⋆🔭⋆₊
 
 *[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).*
   * [M31 (Andromeda)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
@@ -72,7 +72,7 @@
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
   * [Quasar 3C273](https://github.com/deltorobarba/sciences/blob/master/quasar_3C273.ipynb) visually brightest quasar in the sky as seen from Earth
 
-## Nebulae 🔭🫧⋆｡˚
+### Nebulae 🔭🫧⋆｡˚
 
 *[astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
   * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula situated in Milky Way at 1.3 light years distance
@@ -81,20 +81,20 @@
   * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula (nebulosity surrounding a white dwarf) at 1,360 light years distance
   * [IC 430](https://github.com/deltorobarba/sciences/blob/master/nebula_IC_430.ipynb) with protostar V883 Orionis, member of the Orion Nebula cluster at 1,300 light years distance
 
-## Stars ☀️✨
+### Stars ☀️✨
 
 *[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. [sunpy](https://sunpy.org): For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.*
   * [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) Analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
   * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) with data from GOES
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 
-## Cosmology 🛰️
+### Cosmology 🛰️
 
 *[healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [Wilkinson Microwave Anisotropy Probe](https://map.gsfc.nasa.gov) (WMAP).*
   * [CMB](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
   * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity. 
 
-## Astro Mission Data 📂
+### Astro Mission Data 📂
 
 *Code examples on how to pull and analyze FITS files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data. Query data bases from high radio astronomy and high energy astronomy.*
   * [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) FITS file analysis
