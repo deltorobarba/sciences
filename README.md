@@ -44,7 +44,7 @@
 
 <br> 
 
-## Astronomy & Astrophysics
+## Astronomy & Astrophysics 🔭
 
 ### Exoplanets 🪐
 
