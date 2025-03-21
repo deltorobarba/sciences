@@ -118,7 +118,6 @@
 ## Machine Learning 🖲
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) with machine learning
   * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
-  * [Claude Anthropic](https://github.com/deltorobarba/sciences/blob/master/anthropic.ipynb)
 
 ## Scientific Supercomputing 🌪️
 
