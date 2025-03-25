@@ -117,7 +117,7 @@
 
 ## Machine Learning 🖲 and Scientific Supercomputing 🌪️
 
-  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) classification of modulations and simulation SIGINT workflow for enhanced spectral awareness
+  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)  modulation classification and SIGINT simulation for spectral analysis
   * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
   * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) build your own k-bit quantized adapter
 * [N-body Galaxy Simulation](https://github.com/deltorobarba/sciences/blob/master/hpc_galaxy_mpi.ipynb) with MPI Parallelization
