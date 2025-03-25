@@ -116,7 +116,7 @@
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
 ## Machine Learning 🖲
-  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) with machine learning
+  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)
   * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
   * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) 
 
@@ -131,8 +131,8 @@
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
 * [Hydrogen Wavefunctions and Electron Density](https://github.com/deltorobarba/sciences/blob/master/quantum_hydrogen_wavefunction.ipynb) quantum mechanical visualization
-* [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 * [Quantum Imaging](https://github.com/deltorobarba/sciences/blob/master/quantum_imaging.ipynb) with quantum ghost imaging
+* [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 <br>
 
