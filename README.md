@@ -119,13 +119,13 @@
 
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)
   * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
-  * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) 
+  * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) build your own k-bit quantized adapter
 * [N-body Galaxy Simulation](https://github.com/deltorobarba/sciences/blob/master/hpc_galaxy_mpi.ipynb) with MPI Parallelization
 * [Parallel Quantum Chemistry Calculations](https://github.com/deltorobarba/sciences/blob/master/hpc_psi4.ipynb) with Psi4
 
 ## Quantum Computing 💎
 
-* [Quantum-inspired Tensor Networks for QFT](https://github.com/deltorobarba/sciences/blob/master/qft_tensornetworks.ipynb) with Google Cir and nvidia cuTensorNet
+* [Quantum-inspired Tensor Networks for QFT](https://github.com/deltorobarba/sciences/blob/master/qft_tensornetworks.ipynb) with Google Cirq and nvidia cuTensorNet
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
 * [Hydrogen Wavefunctions and Electron Density](https://github.com/deltorobarba/sciences/blob/master/quantum_hydrogen_wavefunction.ipynb) quantum mechanical visualization
@@ -142,6 +142,6 @@
 * Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 * Quantum-Inspired: [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
-* More quantum articles on [medium.com/@deltorobarba](https://medium.com/@deltorobarba)
+👉 More quantum articles on [medium.com/@deltorobarba](https://medium.com/@deltorobarba)
 
 <br>
