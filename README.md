@@ -118,6 +118,7 @@
 ## Machine Learning 🖲
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb) with machine learning
   * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb)
+  * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) 
 
 ## Scientific Supercomputing 🌪️
 
@@ -126,6 +127,7 @@
 
 ## Quantum Computing 💎
 
+* [Quantum-inspired Tensor Networks for QFT](https://github.com/deltorobarba/sciences/blob/master/qft_tensornetworks.ipynb) using Cirq
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
 * [Hydrogen Wavefunctions and Electron Density](https://github.com/deltorobarba/sciences/blob/master/quantum_hydrogen_wavefunction.ipynb) quantum mechanical visualization
