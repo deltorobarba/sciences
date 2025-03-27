@@ -129,10 +129,10 @@
 * [Quantum-inspired Tensor Networks for QFT](https://github.com/deltorobarba/sciences/blob/master/qft_tensornetworks.ipynb) with Google Cirq and nvidia cuTensorNet
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
-* [Hydrogen Wavefunctions and Electron Density](https://github.com/deltorobarba/sciences/blob/master/quantum_hydrogen_wavefunction.ipynb) quantum mechanical visualization
+* [Hydrogen Wavefunctions and Electron Density](https://github.com/deltorobarba/sciences/blob/master/quantum_hydrogen_wavefunction.ipynb) with quantum mechanical visualization
+ * Textbook algorithms: [QFT](https://github.com/deltorobarba/sciences/sciences/master/qft.ipynb), [QPE](https://github.com/deltorobarba/sciences/sciences/master/qpe.ipynb), [Shor](https://github.com/deltorobarba/sciences/sciences/master/shor.ipynb), [Grover](https://github.com/deltorobarba/sciences/sciences/master/grover.ipynb), [HHL](https://github.com/deltorobarba/sciences/sciences/master/hhl.ipynb)
 * [Quantum Imaging](https://github.com/deltorobarba/sciences/blob/master/quantum_imaging.ipynb) with quantum ghost imaging
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
-* Textbook algorithms: [QFT](https://github.com/deltorobarba/sciences/sciences/master/qft.ipynb), [QPE](https://github.com/deltorobarba/sciences/sciences/master/qpe.ipynb), [Shor](https://github.com/deltorobarba/sciences/sciences/master/shor.ipynb), [Grover](https://github.com/deltorobarba/sciences/sciences/master/grover.ipynb), [HHL](https://github.com/deltorobarba/sciences/sciences/master/hhl.ipynb)
 
 <br>
 
