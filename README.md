@@ -125,6 +125,7 @@
 
 ## Quantum Computing 💎
 
+* [Generate a GHZ state on 28 qubits](https://github.com/deltorobarba/sciences/blob/master/ghz_state.ipynb) with nvidia cuda-q as simulation
 * [Quantum-inspired Tensor Networks for QFT](https://github.com/deltorobarba/sciences/blob/master/qft_tensornetworks.ipynb) with Google Cirq and nvidia cuTensorNet
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) with Google Cirq
