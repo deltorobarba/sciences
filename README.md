@@ -115,12 +115,6 @@
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb)
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
-## Machine Learning 🖲 and Scientific Supercomputing 🌪️
-
-  * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)  modulation classification and SIGINT simulation for spectral analysis
-  * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb) simple Gaussian forward diffusion process
-  * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) build your own k-bit quantized adapter
-
 ## Quantum Computing 💎
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) with NVIDIA cuda-q
