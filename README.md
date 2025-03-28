@@ -104,7 +104,7 @@
 
 ## Chemistry 🧪🧬
 
-*(Static) Single-Point Energy Calculations (calculate the energy and properties at a fixed geometry). (Static) Full Geometry Optimization (iteratively finds minimum energy structure or equilibrium geometry of molecule).*
+*Single-Point Energy Calculations compute the energy and properties at a fixed geometry. Full Geometry Optimization iteratively finds minimum energy structure or equilibrium geometry of molecule. An alternative to these static calculations is Molecular Dynamics (eg Gromacs).*
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/sciences/blob/master/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
   * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/sciences/blob/master/moeller_plesset.ipynb)  (Wavefunction-based / Post-Hartree Fock)
