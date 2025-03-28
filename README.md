@@ -120,8 +120,6 @@
   * [Radiowave Frequency Analysis](https://github.com/deltorobarba/sciences/blob/master/radiowave.ipynb)  modulation classification and SIGINT simulation for spectral analysis
   * [Diffusion Model](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb) simple Gaussian forward diffusion process
   * [LoRA adapter](https://github.com/deltorobarba/sciences/blob/master/lora_adapter.ipynb) build your own k-bit quantized adapter
-* [N-body Galaxy Simulation](https://github.com/deltorobarba/sciences/blob/master/hpc_galaxy_mpi.ipynb) with MPI Parallelization
-* [Parallel Quantum Chemistry Calculations](https://github.com/deltorobarba/sciences/blob/master/hpc_psi4.ipynb) with Psi4
 
 ## Quantum Computing 💎
 
