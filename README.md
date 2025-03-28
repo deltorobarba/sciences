@@ -102,8 +102,6 @@
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
 
-<br>
-
 ## Chemistry 🧪🧬
 
 *(Static) Single-Point Energy Calculations (calculate the energy and properties at a fixed geometry). (Static) Full Geometry Optimization (iteratively finds minimum energy structure or equilibrium geometry of molecule).*
