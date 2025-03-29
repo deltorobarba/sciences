@@ -54,7 +54,7 @@
 
 ## Astro Mission Data 📂
 
-*Code examples on how to pull and analyze [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data. Query data bases from high radio astronomy and high energy astronomy.*
+*Code examples on how to pull and analyze [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data.*
 
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
@@ -64,14 +64,14 @@
 
 ## Chemistry 🧪🧬
 
-*Define molecule with gto and perform quantum chemistry calculations with [pyscf](https://pyscf.org). Run geometry optimization with [geometric](geometric). Simulation of time evolution of systems with molecular dynamics where nuclear Motion is explicitly considered.*
+*Define molecule with gto and perform quantum chemistry calculations with [pyscf](https://pyscf.org). Run geometry optimization with [geometric](geometric). Simulation of time evolution of systems with molecular dynamics where nuclear motion is explicitly considered.*
   * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) and [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Single-point energy calculations of energy 
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
 ## Quantum Computing 💎
 
-*Simulate quantum circuits as state vector representation with [Cirq](https://quantumai.google/cirq), [Pennylane](https://pennylane.ai) or [cuStateVec](https://docs.nvidia.com/cuda/cuquantum/latest/custatevec/index.html), or as tensor network representation with [cuTensorNet](https://docs.nvidia.com/cuda/cuquantum/latest/cutensornet/index.html). For mixed states with density matrixes  [cuDensityMat](https://docs.nvidia.com/cuda/cuquantum/latest/cudensitymat/index.html) allows for noisy simulations.*
+*Simulate quantum circuits as state vector representation with [Cirq](https://quantumai.google/cirq), [Pennylane](https://pennylane.ai) or [cuStateVec](https://docs.nvidia.com/cuda/cuquantum/latest/custatevec/index.html), or as tensor network representation with [cuTensorNet](https://docs.nvidia.com/cuda/cuquantum/latest/cutensornet/index.html). For mixed states with density matrices, [cuDensityMat](https://docs.nvidia.com/cuda/cuquantum/latest/cudensitymat/index.html) allows for noisy simulations.*
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
