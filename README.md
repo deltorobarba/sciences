@@ -86,7 +86,7 @@
 * Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 
-More quantum articles on [medium.com/@deltorobarba](https://medium.com/@deltorobarba) 👉
+More quantum articles on 👉 [medium.com/@deltorobarba](https://medium.com/@deltorobarba)
 
 
 <br>  
