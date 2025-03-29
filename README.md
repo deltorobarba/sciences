@@ -44,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-*This section contains research in astronomy and astrophysics. It includes transit detection of exoplanets, measurements of gravitational waves, stellar analysis and multi-wavelength interferometry of nebulas and galaxies. It uses machine learning and supercomputing.*
+*Research in astronomy and astrophysics with machine learning and supercomputing. It includes transit detection of exoplanets, measurements of gravitational waves, stellar analysis and multi-wavelength interferometry of nebulas and galaxies.*
 
 ## Exoplanets 🪐
 
