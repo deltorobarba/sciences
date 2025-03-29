@@ -45,6 +45,8 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
+*This section contains research in astronomy and astrophysics using data analytics and machine learning. It includes transit measurement from exoplanets, detection of gravitational waves, stellar analysis and various nebulas and galaxies.*
+
 ## Exoplanets 🪐
 
 *[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.*
