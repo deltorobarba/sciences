@@ -80,7 +80,6 @@
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
 
 Rest
-  * [NGC 266](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_266.ipynb) barred spiral galaxy at 197 mio light years distance
   * [Abell 2125](https://github.com/deltorobarba/sciences/blob/master/galaxy_Abell_2125.ipynb) galaxy cluster at 3 billion light years distance
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
 
