@@ -46,8 +46,6 @@
 
 *Research in astronomy and astrophysics with machine learning and supercomputing. It includes transit detection of exoplanets, measurements of gravitational waves, stellar analysis and multi-wavelength imaging of nebulas and galaxies.*
 
-<br>
-
 ## Exoplanets 🪐
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
@@ -91,8 +89,6 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 *Technical work at the boundary of what is computable, the intersection of classical supercomputing (HPC) and quantum computation. It includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
-
-<br>
 
 ## Quantum Computing 💎
 
