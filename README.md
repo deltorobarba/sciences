@@ -93,9 +93,7 @@
 
 ## Quantum Computing 💎
 
-$\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum i p i l
-\psi_i\rangle\langle\psi_i|\phi\rangle\langle\phi|\right)
-$P_i= phi rangle langle phil $
+$\langle \phi$
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
