@@ -82,8 +82,7 @@
 
 ## Mission Data 📂
 
-*Code examples on how to pull and analyze [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data.*
-
+  * [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) file format for astrophysical observations
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for infrared images. [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb).
