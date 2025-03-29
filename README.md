@@ -85,6 +85,13 @@
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 
+## Medium 🎧📒
+* Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
+* Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
+* Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
+
+<br> 
+
 ## Publications 🎓
 
 *This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author †*
@@ -107,13 +114,5 @@
 **arXiv**
 * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
 * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
-
-
-## Medium 🎧📒
-* Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
-* Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
-* Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
-
-<br> 
 
 
