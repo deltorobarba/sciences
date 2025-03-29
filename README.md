@@ -75,14 +75,12 @@
 ## Galaxies ⭑⋆🔭⋆₊
 
 *[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).*
+  * [M104 (Sombrero)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
   * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) an interacting spiral galaxy at 23 mio light years distance (incl. multi-wavelength)
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
 
 Rest
   * [M31 (Andromeda)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
-  * [M104 (Sombrero)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
-
-Remove
   * [NGC 266](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_266.ipynb) barred spiral galaxy at 197 mio light years distance
   * [Abell 2125](https://github.com/deltorobarba/sciences/blob/master/galaxy_Abell_2125.ipynb) galaxy cluster at 3 billion light years distance
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
