@@ -85,6 +85,7 @@
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 <br> 
+
 ## Medium 🎧📒
 * Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
