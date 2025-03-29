@@ -104,7 +104,7 @@
 
 ## Chemistry 🧪🧬
 
-*Single-Point Energy Calculations compute the energy and properties at a fixed geometry. Full Geometry Optimization iteratively finds minimum energy structure or equilibrium geometry of molecule. An alternative to static calculations is Molecular Dynamics (Gromacs).*
+*Define the molecule with gto and perform quantum chemistry calculations using [pyscf]https://pyscf.org) with scf.RHF and cc.CCSD(mf). Run geometry optomization with [geometric](geometric)*
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) Wavefunction-based, single-point energy calculations of energy and properties at fixed geometry (static) 
   * [Post Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction (Wavefunction-based)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Electron-density based, single-point energy calculations of energy and properties at fixed geometry
