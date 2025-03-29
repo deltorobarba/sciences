@@ -93,7 +93,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-*This section contains technical work an the boundariy of what is computable. It is the intersection of classical supercomputing (HPC) and quantum computation, and includes code examples from chemistry, physics and finance.*
+*This section contains technical work at the boundary of what is computable. It is the intersection of classical supercomputing (HPC) and quantum computation, and includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
 
 ## Quantum Computing 💎
 
