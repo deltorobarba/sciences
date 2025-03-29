@@ -76,7 +76,6 @@
   * [NGC 3372 (Carina)](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_3372.ipynb) large, complex area of bright and dark nebulosity at 8,500 light years distance
   * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula near Small Magellanic Cloud 200k light years away
   * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula (nebulosity surrounding a white dwarf) at 1,360 light years distance
-  * [IC 430](https://github.com/deltorobarba/sciences/blob/master/nebula_IC_430.ipynb) with protostar V883 Orionis, member of the Orion Nebula cluster at 1,300 light years distance
 
 ## Stars ☀️✨
 
