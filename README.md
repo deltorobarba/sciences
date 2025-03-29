@@ -65,6 +65,13 @@
   * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula 200k light years away
   * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula surrounding a white dwarf 1,360 light years away
 
+## Stars ☀️✨
+
+*[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. [sunpy](https://sunpy.org): For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra. Solar flares data from GOES.*
+  * [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) Analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
+  * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) X7.1 solar flare (R3 radio blackout) peaked on 1 Oct 2024. 
+  * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
+
 ## Galaxies ⭑⋆🔭⋆₊
 
 *[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).*
@@ -75,13 +82,6 @@
   * [Abell 2125](https://github.com/deltorobarba/sciences/blob/master/galaxy_Abell_2125.ipynb) galaxy cluster at 3 billion light years distance
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
-
-## Stars ☀️✨
-
-*[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. [sunpy](https://sunpy.org): For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.*
-  * [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) Analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
-  * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) with data from GOES
-  * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 
 ## Cosmology 🛰️
 
