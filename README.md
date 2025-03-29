@@ -44,6 +44,8 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
+*This section contains research in astronomy and astrophysics. It includes transit detection of exoplanets, measurements of gravitational waves, stellar analysis and multi-wavelength interferometry of nebulas and galaxies. It uses machine learning and supercomputing.*
+
 ## Exoplanets 🪐
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
