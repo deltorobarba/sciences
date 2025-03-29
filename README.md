@@ -33,7 +33,7 @@
 
 ## Nebulae 🔭🫧⋆｡˚
 
-*[astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
+*[astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA for infrared data and SDSS for visible light images. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
   * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula in Milky Way 1.3 light years away
   * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula 200k light years away
   * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula surrounding a white dwarf 1,360 light years away
