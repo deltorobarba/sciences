@@ -111,7 +111,7 @@
 
 ## Quantum Computing 💎
 
-*Simulate quantum circuits as state vector representation with [Cirq](https://quantumai.google/cirq), [Pennylane](https://pennylane.ai) or [cuStateVec](https://docs.nvidia.com/cuda/cuquantum/latest/custatevec/index.html), or as tensor network representation with [cuTensorNet](https://docs.nvidia.com/cuda/cuquantum/latest/cutensornet/index.html). For mixed states with density matrixes use [cuDensityMat](https://docs.nvidia.com/cuda/cuquantum/latest/cudensitymat/index.html) to allow for uncertainties and noisy simulations.*
+*Simulate quantum circuits as state vector representation with [Cirq](https://quantumai.google/cirq), [Pennylane](https://pennylane.ai) or [cuStateVec](https://docs.nvidia.com/cuda/cuquantum/latest/custatevec/index.html), or as tensor network representation with [cuTensorNet](https://docs.nvidia.com/cuda/cuquantum/latest/cutensornet/index.html). For mixed states with density matrixes  [cuDensityMat](https://docs.nvidia.com/cuda/cuquantum/latest/cudensitymat/index.html) allows for noisy simulations.*
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
