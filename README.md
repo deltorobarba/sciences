@@ -82,6 +82,7 @@ Rest
   * [M31 (Andromeda)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
   * [M104 (Sombrero)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
 
+Remove
   * [NGC 266](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_266.ipynb) barred spiral galaxy at 197 mio light years distance
   * [Abell 2125](https://github.com/deltorobarba/sciences/blob/master/galaxy_Abell_2125.ipynb) galaxy cluster at 3 billion light years distance
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
