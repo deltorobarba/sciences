@@ -58,9 +58,7 @@
 
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
-  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) infrared and near-infrared images from missions
-  * [WMAP](https://map.gsfc.nasa.gov) data for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) in microwave frequency bands 23, 33, 41, 61 and 94 GHz  🛰️
-  * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) from radiowave telescopes, but no free.
+  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for infrared images. [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb). [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for radiowave frequencies.
 
 
 ## Chemistry 🧪🧬
