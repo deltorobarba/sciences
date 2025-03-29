@@ -74,7 +74,7 @@
 
 ## Galaxies ⭑⋆🔭⋆₊
 
-*Galaxies are vast systems of stars, gas, dust, and dark matter, held together by gravity. Galaxies are studied through optical, infrared, radio, and X-ray telescopes, which capture their emitted or reflected light and other electromagnetic radiation.*
+*Galaxies are vast systems of stars, gas, dust, and dark matter, held together by gravity. Galaxies are studied through optical, infrared, radio, and X-ray telescopes, which capture their emitted or reflected light and other radiation.*
 
   * [M104 (Sombrero)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
   * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) an interacting spiral galaxy at 23 mio light years distance (incl. multi-wavelength)
