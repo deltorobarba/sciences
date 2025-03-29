@@ -103,17 +103,17 @@
 ## Chemistry 🧪🧬
 
 *Define the molecule with gto and perform quantum chemistry calculations using [pyscf](https://pyscf.org). Run geometry optomization with [geometric](geometric).*
-  * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) Wavefunction-based, single-point energy calculations of energy and properties at fixed geometry (static) 
+  * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) Wavefunction-based, single-point energy calculations of energy and properties at fixed geometry
   * [Post Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction (Wavefunction-based)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Electron-density based, single-point energy calculations of energy and properties at fixed geometry
-  * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy structure or equilibrium geometry of molecule
+  * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
 ## Quantum Computing 💎
 
 *Simulate quantum circuits as state vector representation with [Cirq](https://quantumai.google/cirq), [Pennylane](https://pennylane.ai) or [cuStateVec](https://docs.nvidia.com/cuda/cuquantum/latest/custatevec/index.html), or as tensor network representation with [cuTensorNet](https://docs.nvidia.com/cuda/cuquantum/latest/cutensornet/index.html). For mixed states with density matrixes use [cuDensityMat](https://docs.nvidia.com/cuda/cuquantum/latest/cudensitymat/index.html) to allow for uncertainties and noisy simulations.*
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
-* [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Google Cirq
+* [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 <br>
