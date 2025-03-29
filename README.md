@@ -88,6 +88,8 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
+*Technical work at the boundary of what is computable, the intersection of classical supercomputing (HPC) and quantum computation. It includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
+
 ## Quantum Computing 💎
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
