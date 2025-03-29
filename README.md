@@ -50,7 +50,7 @@
 
 ## Exoplanets 🪐
 
-*An exoplanet is a planet that orbits a star outside of our solar system. Exoplanets are primarily detected by observing the effects they have on their host stars, such as the star's "wobble" (radial velocity method) or the dimming of its light (transit method).*
+*An exoplanet is a planet that orbits a star outside of our solar system. Exoplanets are primarily detected by observing the effects on their host stars, such as the star's "wobble" (radial velocity method) or the dimming of its light (transit method).*
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
