@@ -58,6 +58,13 @@
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
   * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
+## Nebulae 🔭🫧⋆｡˚
+
+*[astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
+  * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula in Milky Way 1.3 light years away
+  * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula 200k light years away
+  * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula surrounding a white dwarf 1,360 light years away
+
 ## Galaxies ⭑⋆🔭⋆₊
 
 *[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from [IRSA](https://irsa.ipac.caltech.edu/frontpage/) (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).*
@@ -68,13 +75,6 @@
   * [Abell 2125](https://github.com/deltorobarba/sciences/blob/master/galaxy_Abell_2125.ipynb) galaxy cluster at 3 billion light years distance
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance
   * [Cosmos 2015](https://github.com/deltorobarba/sciences/blob/master/galaxy_COSMOS2015_591406.ipynb) galaxy from COSMOS (Cosmic Evolution Survey) field
-
-## Nebulae 🔭🫧⋆｡˚
-
-*[astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
-  * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula situated in Milky Way at 1.3 light years distance
-  * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula near Small Magellanic Cloud 200k light years away
-  * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula (nebulosity surrounding a white dwarf) at 1,360 light years distance
 
 ## Stars ☀️✨
 
