@@ -103,9 +103,9 @@
 ## Chemistry 🧪🧬
 
 *Define the molecule with gto and perform quantum chemistry calculations using [pyscf](https://pyscf.org). Run geometry optomization with [geometric](geometric).*
-  * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) Wavefunction-based, single-point energy calculations of energy and properties at fixed geometry
-  * [Post Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction (Wavefunction-based)
-  * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Electron-density based, single-point energy calculations of energy and properties at fixed geometry
+  * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) Wavefunction-based, single-point energy calculations of energy at fixed geometry
+  * [Post Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction
+  * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Electron-density based, single-point energy calculations of energy at fixed geometry
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
 
