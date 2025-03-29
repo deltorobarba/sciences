@@ -79,11 +79,6 @@
   * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) an interacting spiral galaxy at 23 mio light years distance (incl. multi-wavelength)
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
 
-## Cosmology 🛰️
-
-*[healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from .*
-  * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity. 
-
 ## Astro Mission Data 📂
 
 *Code examples on how to pull and analyze FITS files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data. Query data bases from high radio astronomy and high energy astronomy. For radio-wave astronomy data from [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) telescopes, but no free available.*
@@ -91,7 +86,7 @@
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) infrared and near-infrared images from missions
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
-  * [WMAP](https://map.gsfc.nasa.gov) data for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) visualizations
+  * [WMAP](https://map.gsfc.nasa.gov) data for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) 🛰️ 
 
 <br> 
 
