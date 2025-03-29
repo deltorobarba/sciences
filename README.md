@@ -18,6 +18,7 @@
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
 <br>
+
 ## Publications 🎓
 
 *This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as an author †*
