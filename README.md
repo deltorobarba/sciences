@@ -45,8 +45,6 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-*This section contains my research in astronomy and astrophysics. It includes transit detection of exoplanets, measurements of gravitational waves, stellar analysis and multi-wavelength interferometry of nebulas and galaxies. It uses machine learning and supercomputing.*
-
 ## Exoplanets 🪐
 
 *[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.*
@@ -95,18 +93,14 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-*This section contains technical work at the boundary of what is computable. It is the intersection of classical supercomputing (HPC) and quantum computation, and includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
-
 ## Quantum Computing 💎
 
-*Simulate quantum circuits as state vector representation with [Cirq](https://quantumai.google/cirq), [Pennylane](https://pennylane.ai) or [cuStateVec](https://docs.nvidia.com/cuda/cuquantum/latest/custatevec/index.html), or as tensor network representation with [cuTensorNet](https://docs.nvidia.com/cuda/cuquantum/latest/cutensornet/index.html). For mixed states with density matrices, [cuDensityMat](https://docs.nvidia.com/cuda/cuquantum/latest/cudensitymat/index.html) allows for noisy simulations.*
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 ## Chemistry 🧪🧬
 
-*Define molecule with gto and perform quantum chemistry calculations with [pyscf](https://pyscf.org). Run geometry optimization with [geometric](geometric). Simulation of time evolution of systems with molecular dynamics where nuclear motion is explicitly considered.*
   * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) and [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Single-point energy calculations of energy 
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
