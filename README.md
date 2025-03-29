@@ -86,7 +86,7 @@
 
 ## Cosmology 🛰️
 
-*[healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [Wilkinson Microwave Anisotropy Probe](https://map.gsfc.nasa.gov) (WMAP).*
+*[healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [WMAP](https://map.gsfc.nasa.gov).*
   * [CMB](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
   * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity. 
 
