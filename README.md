@@ -81,8 +81,7 @@
 
 ## Cosmology 🛰️
 
-*[healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from [WMAP](https://map.gsfc.nasa.gov).*
-  * [CMB](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
+*[healpy](https://healpy.readthedocs.io/en/latest/) for processing pixelated data on sphere. [astropy](https://docs.astropy.org/en/stable/cosmology/index.html) for calculating cosmological quantities. Data used from .*
   * [Cosmology Distance](https://github.com/deltorobarba/sciences/blob/master/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity. 
 
 ## Astro Mission Data 📂
@@ -92,6 +91,7 @@
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) infrared and near-infrared images from missions
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
+  * [WMAP](https://map.gsfc.nasa.gov) data for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) visualizations
 
 <br> 
 
