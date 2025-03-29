@@ -80,7 +80,7 @@
   * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) X7.1 solar flare (R3 radio blackout) peaked on 1 Oct 2024. 
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) binary star system including a black hole 3,300 light-years away.
 
-## Astro Mission Data 📂
+## Mission Data 📂
 
 *Code examples on how to pull and analyze [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files, how to create composite RGB images from MAST and SDSS data bases. Run and analyse infrared images from mission data.*
 
