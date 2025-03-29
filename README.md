@@ -102,7 +102,7 @@
 
 ## Chemistry 🧪🧬
 
-*Define the molecule with gto and perform quantum chemistry calculations using [pyscf](https://pyscf.org). Run geometry optimization with [geometric](geometric).*
+*Define molecule with gto and perform quantum chemistry calculations with [pyscf](https://pyscf.org). Run geometry optimization with [geometric](geometric).*
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb) Wavefunction-based, single-point energy calculations of energy at fixed geometry
   * [Post Hartree-Fock (MP2, CCSD)](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Electron-density based, single-point energy calculations of energy at fixed geometry
