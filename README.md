@@ -28,7 +28,7 @@
 * Science: [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), 1332-1337 (2024)
 * Nature: [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3), 79-85 (2025)
 * Nature: [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6), 328-333 (2024)
-* Nature: [Measurement-induced entanglement and teleportation on a noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7), 622, 481–486 (2023)
+* Nature: [Measurement-induced entanglement and teleportation on a noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7), 481–486 (2023)
 * Nature: [Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4), 264–269 (2023)
 * Nature: [Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1), 676–681 (2023)
 * Nature: [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y), 240–245 (2022)
