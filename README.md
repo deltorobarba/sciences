@@ -88,9 +88,8 @@
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) binary star system including a black hole 3,300 light-years away.
 
 ## Mission Data 📂
-Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.
+Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files for astrophysical observations in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.
 
-  * [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) file format for astrophysical observations
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions (e.g. Chandra)
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for infrared images. [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb).
