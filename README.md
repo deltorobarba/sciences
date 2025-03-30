@@ -46,8 +46,6 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-*Research in astronomy and astrophysics with machine learning and supercomputing. It includes transit detection of exoplanets, measurements of gravitational waves, stellar analysis and multi-wavelength imaging of nebulas and galaxies.*
-
 ## Exoplanets 🪐
 
 *An exoplanet is a planet that orbits a star outside of our solar system. It is detected by observing its effects on the host star, such as the radial velocity method or transit method using [lightkurve](https://github.com/lightkurve/lightkurve) to analyze flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations, and [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters.*
@@ -90,11 +88,13 @@
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) binary star system including a black hole 3,300 light-years away.
 
 ## Mission Data 📂
+Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.
 
   * [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) file format for astrophysical observations
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for infrared images. [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb).
+  * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) from radiowave telescopes.
 
 <br>  
 
