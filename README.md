@@ -56,7 +56,7 @@
 
 ## Gravitational Waves 📡
 
-*Gravitational waves are ripples in spacetime caused by accelerating massive objects like Black Holes or Neutron Stars, propagating outward at the speed of light. Data from gravitational-wave detectors LIGO and Virgo are accessible with [GWpy](https://gwpy.github.io/docs/stable/), [PyCBC](https://pycbc.org/) to explore astrophysical sources of gravitational waves, [Bilby](https://lscsoft.docs.ligo.org/bilby/) for inference of compact binary events in interferometric data, and [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave OWS](https://gwosc.org)*
+*Gravitational waves are ripples in spacetime caused by accelerating massive objects like Black Holes or Neutron Stars. Data from gravitational-wave detectors LIGO and Virgo are accessible with [GWpy](https://gwpy.github.io/docs/stable/), [PyCBC](https://pycbc.org/) to explore astrophysical sources of gravitational waves, [Bilby](https://lscsoft.docs.ligo.org/bilby/) for inference of compact binary events in interferometric data, and [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave OWS](https://gwosc.org)*
 
   * [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) from 14 Sep 2015
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
