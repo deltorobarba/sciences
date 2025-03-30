@@ -90,12 +90,12 @@
 ## Mission Data 📂
 Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files for astrophysical observations in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.
 
-  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency ultraviolet, x-ray and gamma ray data from missions (e.g. Chandra)
-  * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for visible-light images from space-based mission (HST, TESS, etc.)
-  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) infrared and near-infrared images from missions
-  * [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) in microwave frequency bands 23, 33, 41, 61 and 94 GHz 🛰️
-  * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronmomy from radiowave telescopes
-  * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) extreme low frequencies from 30-3 Hz
+  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
+  * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
+  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) **infrared and near-infrared** images from missions
+  * [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) in **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️
+  * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronmomy from **radiowave** telescopes
+  * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
 
 <br>  
 
