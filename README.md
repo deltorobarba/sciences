@@ -64,7 +64,7 @@
 
 ## Nebulae 🔭🫧⋆｡˚
 
-*A nebula is an interstellar cloud of dust, hydrogen, helium and other ionized gases. Nebulae are detected by telescopes that observe their emitted or reflected light, often showing vibrant colors due to the ionization of gases, using [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA for infrared data and SDSS for visible light images, and [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
+*A nebula is an interstellar cloud of dust, hydrogen, helium and other ionized gases, detected by telescopes that observe their emitted or reflected light using [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA for infrared data and SDSS for visible light images, and [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object.*
 
   * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula in Milky Way 1.3 light years away
   * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula 200k light years away
