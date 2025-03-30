@@ -50,7 +50,7 @@
 
 ## Exoplanets 🪐
 
-*An exoplanet is a planet that orbits a star outside of our solar system. It is detected by observing its effects on the host star, such as the radial velocity method or transit method using lightkurve to analyze flux data from Kepler & TESS, exoplanet for probabilistic modeling of time series observations, and PyORBIT for exoplanet orbital parameters.*
+*An exoplanet is a planet that orbits a star outside of our solar system. It is detected by observing its effects on the host star, such as the radial velocity method or transit method using [lightkurve](https://github.com/lightkurve/lightkurve) to analyze flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations, and [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters.*
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
