@@ -96,6 +96,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
   * [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) in microwave frequency bands 23, 33, 41, 61 and 94 GHz 🛰️
   * [CASDA, NRAO, ATNF](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) from radiowave telescopes
   * [Solar oscillations](#) for extreme low frequencies from 30 to 3 Hz or wavelengths of 10,000 to > 100,000 km
+  * [Auger](#) for high-energy astroparticle observations (e.g. neutrinos)
 
 <br>  
 
