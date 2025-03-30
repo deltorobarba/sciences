@@ -58,7 +58,7 @@
 
 ## Gravitational Waves 📡
 
-*Gravitational waves are ripples in spacetime caused by accelerating massive objects, propagating outward at the speed of light. They are detected by sensitive interferometers (like LIGO and Virgo) that measure tiny changes in the distance between mirrors caused by the passing wave.*
+*Gravitational waves are ripples in spacetime caused by accelerating massive objects, propagating outward at the speed of light. They are detected by sensitive interferometers (like LIGO and Virgo) that measure tiny changes in the distance between mirrors caused by the passing wave, using [GWpy](https://gwpy.github.io/docs/stable/) for data from gravitational-wave detectors, [PyCBC](https://pycbc.org/) to explore astrophysical sources of gravitational waves, [Bilby](https://lscsoft.docs.ligo.org/bilby/) for inference of compact binary events in interferometric data, and [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave OWS](https://gwosc.org)*
 
   * [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) from 14 Sep 2015
   * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
