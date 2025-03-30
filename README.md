@@ -94,7 +94,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) **infrared and near-infrared** images from missions
   * [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) in **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️
-  * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronmomy from **radiowave** telescopes
+  * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz
   * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
 
 <br>  
