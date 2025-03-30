@@ -72,7 +72,7 @@
 
 ## Galaxies ⭑⋆🔭⋆₊
 
-*Galaxies are large systems of stars, gas, dust, and dark matter, held together by gravity. Galaxies are studied through optical, infrared, radio, and X-ray telescopes, which capture their emitted or reflected light and other radiation. [galpy](https://docs.galpy.org/en/v1.10.0/) for simulating galactic dynamics, [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting, [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting, [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for galaxy decomposition.*
+*Galaxies are systems of stars, gas, dust, and dark matter, held together by gravity. Galaxies are studied through optical, infrared, radio, and X-ray telescopes, which capture their emitted or reflected light and other radiation. [galpy](https://docs.galpy.org/en/v1.10.0/) for simulating galactic dynamics, [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting, [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting, [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for galaxy decomposition.*
 
   * [M104 (Sombrero)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
   * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) an interacting spiral galaxy at 23 mio light years distance (incl. multi-wavelength)
