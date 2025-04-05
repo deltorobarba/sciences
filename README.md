@@ -44,6 +44,8 @@
 
 <br>
 
+<br>
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
 ## Exoplanets 🪐
@@ -109,7 +111,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 
 $\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\rangle\langle\psi_i|\phi\rangle\langle\phi|\right)$
 
-* [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for quantum chemistry with NVIDIA cuda-q
+* [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
 * [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
