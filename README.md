@@ -125,6 +125,8 @@ $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) 
 
 ## Chemistry 🧪🧬
 
+$E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\epsilon_i + \epsilon_j - \epsilon_a - \epsilon_b}$
+
   * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/post_hartree_fock.ipynb) and [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/dft_scf.ipynb) Single-point energy calculations of energy 
   * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb)
