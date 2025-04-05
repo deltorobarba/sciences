@@ -121,7 +121,7 @@ $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) 
 
 * [Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
 * [Training Llama 3.x with Ray](#) on multi-node and multi-gpu infrastructure
-* [Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Takens embedding and Vietoris Rips Persistence to compute Betti numbers
+* [Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
 
 ## Chemistry 🧪🧬
 
