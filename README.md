@@ -117,6 +117,8 @@ $\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\ra
 
 ## Machine Learning 🖲️ and Scientific Supercomputing 🌪️
 
+$\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
+
 * [Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
 * [Training Llama 3.x with Ray](#) on multi-node and multi-gpu infrastructure
 * [Topological Data Analysis](#) with Takens embedding and Vietoris Rips Persistence to compute Betti numbers
