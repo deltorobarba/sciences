@@ -99,6 +99,8 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 
 <br>  
 
+<br>
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 *Technical work at the boundary of what is computable, intersecting of classical supercomputing (HPC) and quantum computation. It includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
