@@ -113,7 +113,7 @@ $\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\ra
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
-* [CERN 2022](https://github.com/deltorobarba/sciences/sciences/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
+* [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 ## Machine Learning 🖲️ and Scientific Supercomputing 🌪️
 
@@ -121,7 +121,7 @@ $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) 
 
 * [Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
 * [Training Llama 3.x with Ray](#) on multi-node and multi-gpu infrastructure
-* [Topological Data Analysis](https://github.com/deltorobarba/sciences/sciences/master/tda.ipynb) with Takens embedding and Vietoris Rips Persistence to compute Betti numbers
+* [Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Takens embedding and Vietoris Rips Persistence to compute Betti numbers
 
 ## Chemistry 🧪🧬
 
