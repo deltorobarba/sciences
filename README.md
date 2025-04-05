@@ -124,7 +124,3 @@ $\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\ra
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 
 <br> 
-
-2025 $\textcopyright$ Alexander Del Toro Barba
-
-<br>
