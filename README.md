@@ -107,6 +107,8 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 
 *Technical work at the boundary of what is computable, intersecting of classical supercomputing (HPC) and quantum computation. It includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
 
+<br>
+
 ## Quantum Computing 💎 
 
 $\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\rangle\langle\psi_i|\phi\rangle\langle\phi|\right)$
