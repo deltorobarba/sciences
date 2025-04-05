@@ -125,4 +125,6 @@ $\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\ra
 
 <br> 
 
+2025 $\textcopyright$ Alexander Del Toro Barba
 
+<br>
