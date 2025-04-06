@@ -81,6 +81,7 @@
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1865.png" alt="sciences">
+
 *Spitzer telescope (SEIP) images of M51 (Whirlpool galaxy) including HST WFC3/UVIS composite*
 
 ## Stars ☀️✨
