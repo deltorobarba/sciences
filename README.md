@@ -80,7 +80,7 @@
   * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) an interacting spiral galaxy at 23 mio light years distance (incl. multi-wavelength)
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1866.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1867.png" alt="sciences">
 
 *Spitzer telescope (SEIP) images of M51 (Whirlpool galaxy) including HST WFC3/UVIS composite*
 
