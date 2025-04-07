@@ -82,7 +82,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1867.png" alt="sciences">
 
-*Spitzer telescope (SEIP) images of M51 (Whirlpool galaxy) including HST WFC3/UVIS composite*
+*$\hookrightarrow$ Spitzer telescope (SEIP) images of M51 (Whirlpool galaxy) including HST WFC3/UVIS composite*
 
 ## Stars ☀️✨
 
