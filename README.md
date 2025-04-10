@@ -113,7 +113,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 
 ## Quantum Computing 💎 
 
-$\langle P \rangle = \text{Tr}(\rho P_i) = \text{Tr}\left(\sum_i p_i | \psi_i\rangle\langle\psi_i|\phi\rangle\langle\phi|\right)$
+⟨A⟩ = Tr(ρ ∑ᵢ aᵢ Pᵢ) = ∑ᵢ aᵢ Tr(ρ Pᵢ) with ρ = ∑ₙ pₙ |ψₙ⟩⟨ψₙ|
 
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
