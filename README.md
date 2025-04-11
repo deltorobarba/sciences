@@ -115,6 +115,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 
 ⟨A⟩ = Tr(ρ ∑ᵢ aᵢ Pᵢ) = ∑ᵢ aᵢ Tr(ρ Pᵢ) with ρ = ∑ₙ pₙ |ψₙ⟩⟨ψₙ|
 
+* [Machine Learning for Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon Localization
 * [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for chemistry with NVIDIA cuda-q
 * [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
 * [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
