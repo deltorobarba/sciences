@@ -54,7 +54,7 @@
 
 $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
 
-* [(AI/ML) Large and Small Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on multi-node and multi-gpu
+* [(AI/ML) Large Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on multi-node and multi-gpu
 * [(HPC) Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
 
 ## Quantum Computing 💎 
