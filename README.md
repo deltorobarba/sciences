@@ -46,8 +46,6 @@
 
 <br>
 
-<br>
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 *Technical work at the boundary of what is computable, intersecting of classical supercomputing (HPC) and quantum computation. It includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
@@ -56,7 +54,7 @@
 
 $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
 
-* [(AI/ML) Large and Small Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on Google multi-node and multi-gpu infrastructure
+* [(AI/ML) Large and Small Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on multi-node and multi-gpu
 * [(HPC) Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
 
 ## Quantum Computing 💎 
