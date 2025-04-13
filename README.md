@@ -59,6 +59,8 @@ $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) 
 
 ## Quantum Computing 💎 
 
+$\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i) \quad \text{with} \quad \rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
+
 ⟨A⟩ = Tr(ρ ∑ᵢ aᵢ Pᵢ) = ∑ᵢ aᵢ Tr(ρ Pᵢ) with ρ = ∑ₙ pₙ |ψₙ⟩⟨ψₙ|
 
 * [Machine Learning for Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon Localization
