@@ -57,17 +57,16 @@
 ⟨A⟩ = Tr(ρ ∑ᵢ aᵢ Pᵢ) = ∑ᵢ aᵢ Tr(ρ Pᵢ) with ρ = ∑ₙ pₙ |ψₙ⟩⟨ψₙ|
 
 * [Machine Learning for Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon Localization
-* [Variational Quantum Eigensolver of H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/vqe_uccsd.ipynb) Quantum computing for chemistry with NVIDIA cuda-q
-* [Variational Quantum Eigensolver to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq
+* [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
+* [Variational Quantum Eigensolver of H₂ with UCCSD and to optimize an Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) Quantum computing for quantum chemistry with Cirq and NVIDIA cuda-q
 * [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 ## Machine Learning 🖲️ and Scientific Supercomputing 🌪️
 
 $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
 
-* [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
 * [Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
-* [Training Llama 3.x with Ray](#) on multi-node and multi-gpu infrastructure
+* [Large and Small Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on Google multi-node and multi-gpu infrastructure)
 
 ## Chemistry 🧪🧬
 
