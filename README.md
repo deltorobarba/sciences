@@ -52,15 +52,6 @@
 
 *Technical work at the boundary of what is computable, intersecting of classical supercomputing (HPC) and quantum computation. It includes quantum-inspired and full quantum code examples from chemistry, physics and finance.*
 
-## Quantum Computing 💎 
-
-⟨A⟩ = Tr(ρ ∑ᵢ aᵢ Pᵢ) = ∑ᵢ aᵢ Tr(ρ Pᵢ) with ρ = ∑ₙ pₙ |ψₙ⟩⟨ψₙ|
-
-* [Machine Learning for Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon Localization
-* [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
-* [Variational Quantum Eigensolver for H₂ with UCCSD and optimize Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) for quantum chemistry with Cirq and NVIDIA cuda-q
-* [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
-
 ## Machine Learning 🖲️ and Scientific Supercomputing 🌪️
 
 $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
@@ -68,6 +59,14 @@ $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) 
 * [Large and Small Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on Google multi-node and multi-gpu infrastructure
 * [Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
 
+## Quantum Computing 💎 
+
+⟨A⟩ = Tr(ρ ∑ᵢ aᵢ Pᵢ) = ∑ᵢ aᵢ Tr(ρ Pᵢ) with ρ = ∑ₙ pₙ |ψₙ⟩⟨ψₙ|
+
+* [Machine Learning for Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon Localization
+* [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
+* [Quantum Chemistry on H₂ with UCCSD and optimize Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) wit VQEs on Cirq and NVIDIA cuda-q
+* [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
 ## Chemistry 🧪🧬
 
