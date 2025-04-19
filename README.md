@@ -61,7 +61,7 @@ $\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) 
 
 $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i) \quad \text{with} \quad \rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
 
-* [Machine Learning for Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon localization
+* [Quantum Sensing with Machine Learning](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon localization
 * [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
 * [Topological Quantum Error Correction](https://github.com/deltorobarba/sciences/blob/master/tqec.ipynb) for automatic search of detectors in structured QEC circuits
 * [Quantum Chemistry on H₂ with UCCSD and optimize Ising model](https://github.com/deltorobarba/sciences/blob/master/vqe_ising.ipynb) wit VQEs on Cirq and NVIDIA cuda-q
