@@ -133,4 +133,18 @@ $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\eps
 * Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 
+## Google
+
+
+As senior machine learning engineer, Alexander collaborates with Google research, Cloud AI engineering, and product teams to support Google Cloud customers in building innovate and scalable machine learning solutions, covering both technical and business aspects:
+* Alexander supports technically on training, tuning, evaluation, serving and observability of LLMs (Gemini and 3P like Llama) for building multi-agent and multi-model platforms, as well as traditional, predictive ML models. Alexander advises customers on their overall machine learning roadmap and on specific MLOps topics.
+* Alexander supports management in triaging AI/ML expert requests prioritized by technical feasibility and business impact. Alexander also built up a large community of ML engineers for knowledge sharing and mutual support on customer engagements.
+* Alexander leads conversations with C-executives during Executive Business Councils, and runs presentations at public events about trends, insights and learnings about AI/ML.
+
+Additionally, Alexander built up and leads the quantum computing practice at Google Cloud in collaboration with Google Cloud HPC leadership and Google Quantum AI research:
+* Build up a community of approved quantum speakers globally. Continuous knowledge sharing across Google Cloud. Covering and triaging Google Cloud customer requests about quantum computing and quantum-inspired HPC computing globally.
+* Contributions: Keynote about Quantum Machine Learning at ML Prague conference (2924), a podcast about quantum computing on Spotify, Google or Apple in 2023, and a presentation about quantum computing at the 'Conference on Quantum Technologies for High-Energy Physics'  at CERN in 2022.
+
+Alexander also supports Google research on advancing quantum machine learning algorithms, such as for Quantum Topological Data Analysis and classical limits of information gain with quantum data.  He also contributed to DeepMind applied research in grid intelligence for wind power optimization with machine learning
+
 <br> 
