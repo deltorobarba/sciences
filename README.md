@@ -131,6 +131,9 @@ $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\eps
   * [Quantum Chemistry on H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) and optimize Ising model with Variational Quantum Eigensolvers
 
 ## Science on Medium 🎧📒🦋
+
+$\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
+
 * Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
