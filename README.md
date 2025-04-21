@@ -5,9 +5,6 @@
 *Machine learning and quantum computing specialist at Google Cloud. Supporting on innovative, large-scale machine learning, and collaborating with Google Quantum AI research. I ❤️ Science.*
 
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/deltorobarba2.png" alt="sciences" width="160">
-
-
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
 <br>
