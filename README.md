@@ -118,13 +118,6 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 * [Quantum Chemistry on H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb)  and optimize an Ising model with Variational Eigensolvers
 * [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
-## Machine Learning 🖲️ and Scientific Supercomputing 🌪️
-
-$\rho \left( \frac{\partial \mathbf{v}}{\partial t} + (\mathbf{v} \cdot \nabla) \mathbf{v} \right) = - \nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}$
-
-* [(AI/ML) Large Language Models](https://github.com/deltorobarba/sciences/blob/master/google.ipynb) training, serving, evaulation and observability on multi-node and multi-gpu
-* [(HPC) Weather Forecast with Fluid Numerics](https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp?hl=de#0) for Weather Research and Forecasting
-
 ## Chemistry 🧪🧬
 
 $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\epsilon_i + \epsilon_j - \epsilon_a - \epsilon_b}$
