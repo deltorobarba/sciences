@@ -17,6 +17,8 @@
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/deltorobarba2.png" alt="sciences" width="160">
+
 <br>
 
 ## Publications 🎓
