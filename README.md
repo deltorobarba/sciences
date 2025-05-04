@@ -132,4 +132,8 @@ $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\eps
 * Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 
+
+<br>
+
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_5000.png" alt="sciences">
 <br> 
