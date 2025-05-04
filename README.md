@@ -135,5 +135,5 @@ $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\eps
 
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_5000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_5000.png" alt="sciences">
 <br> 
