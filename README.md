@@ -98,6 +98,16 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
   * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz, incl. SIGINT workflow
   * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
 
+<br>
+## Astrochemistry 🧪🧬
+
+$E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\epsilon_i + \epsilon_j - \epsilon_a - \epsilon_b}$
+
+  * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb) and [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb) Single-point energy calculations of energy 
+  * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
+  * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb) analysis
+  * [Quantum Chemistry on H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) and optimize Ising model with Variational Quantum Eigensolvers
+
 <br>  
 
 <br>
@@ -115,15 +125,6 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 * [Quantum Diffusion Models](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb) for classical image generation with quantum noise and quantum circuits
 * [Quantum-inspired Tensor Networks](https://github.com/deltorobarba/sciences/blob/master/tensornetworks.ipynb) for financial portfolio optimization
 * [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
-
-## Chemistry 🧪🧬
-
-$E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\epsilon_i + \epsilon_j - \epsilon_a - \epsilon_b}$
-
-  * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb) and [Density Functional (DFT-SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb) Single-point energy calculations of energy 
-  * [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb) dynamic, iterative calculation of minimum energy or equilibrium geometry of molecule
-  * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬, [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb) analysis
-  * [Quantum Chemistry on H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) and optimize Ising model with Variational Quantum Eigensolvers
 
 ## Science on Medium 🎧📒🦋
 
