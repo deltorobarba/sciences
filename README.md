@@ -123,7 +123,7 @@ $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\eps
 
   * [Spectral Analysis](https://github.com/deltorobarba/sciences/blob/master/chemistry_spectral_analysis.ipynb) 🔬 of elements in interstellar and intergalactic space
   * [Water (H₂O)](https://github.com/deltorobarba/sciences/blob/master/chemistry_water_H2O.ipynb), [Hydrogen (H₂)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H2.ipynb), [Hydrogen (H)](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen_H.ipynb), [Methane (CH₄)](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane_CH4.ipynb), [Ammonia (NH₃)](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia_NH3.ipynb) analysis
-  * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb) and [DFT-SCF](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb) for single-point energy calculations. [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb) for dynamic, iterative calculations
+  * [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb) and [DFT](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb) for single-point calculations. [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb) for iterative calculations.
 
 <br>  
 
