@@ -1,4 +1,4 @@
-# Natural Sciences 🌸 ⋆｡˚ 🔭
+# Natural Sciences 🌸 🔭
 
 ### Alexander Del Toro Barba, PhD
 
