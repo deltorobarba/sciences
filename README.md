@@ -118,8 +118,6 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
   * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz, incl. SIGINT workflow
   * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
 
-<br>
-
 ## Astrochemistry 🧪🧬
 
 $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\epsilon_i + \epsilon_j - \epsilon_a - \epsilon_b}$
