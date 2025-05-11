@@ -42,8 +42,28 @@
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
 <br>
+<br>
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
+## Quantum Computing 💎 
+
+$\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i)$ with $\rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
+
+* [Quantum Sensing with Machine Learning](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon localization
+* [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
+* [Quantum Diffusion Models](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb) for classical image generation with quantum noise and quantum circuits
+* [Quantum-inspired Tensor Networks](https://github.com/deltorobarba/sciences/blob/master/tensornetworks.ipynb) for financial portfolio optimization
+* [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
+
+## Science on Medium 🎧📒🦋
+
+* Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
+* Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
+* Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
+* Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
+
+<br>
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
@@ -110,28 +130,6 @@ $E_{MP2} = \frac{1}{4} \sum_{i,j,a,b} \frac{| \langle ij || ab \rangle |^2}{\eps
   * [Quantum Chemistry on H₂ with UCCSD](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) and optimize Ising model with Variational Quantum Eigensolvers
 
 <br>  
-
-<br>
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
-
-## Quantum Computing 💎 
-
-$\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i)$ with $\rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
-
-* [Quantum Sensing with Machine Learning](https://github.com/deltorobarba/sciences/blob/master/quantumsensing.ipynb) for enhanced single-copy photon localization
-* [Quantum Limits of Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
-* [Quantum Diffusion Models](https://github.com/deltorobarba/sciences/blob/master/diffusion.ipynb) for classical image generation with quantum noise and quantum circuits
-* [Quantum-inspired Tensor Networks](https://github.com/deltorobarba/sciences/blob/master/tensornetworks.ipynb) for financial portfolio optimization
-* [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
-
-## Science on Medium 🎧📒🦋
-
-* Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
-* Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
-* Quantum Finance: [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
-* Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
-
 
 <br>
 
