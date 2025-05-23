@@ -52,7 +52,7 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 
 * [Quantum Sensing with Machine Learning](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) for photon localization in ultra-low photon count
 * [Quantum Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
-* [Quantum Finance](https://github.com/deltorobarba/sciences/blob/master/quantum_tensornetworks.ipynb) with tensor networks for financial portfolio optimization
+* [Quantum Finance](https://github.com/deltorobarba/sciences/blob/master/quantum_tensornetworks.ipynb) with quantum-inspired tensor networks for financial portfolio optimization
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry_quantum_chemistry.ipynb) with Variational Quantum Eigensolver (optimize Ising model & on H₂ with UCCSD)
 * [CERN 2022](https://github.com/deltorobarba/sciences/blob/master/quantum_cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
