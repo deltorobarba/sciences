@@ -50,7 +50,7 @@
 
 $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i)$ with $\rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
 
-* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) with machine learning for photon localization in ultra-low photon count
+* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ with machine learning for photon localization in ultra-low photon count
 * [Quantum Topological Data Analysis](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) with Vietoris Rips Persistence to compute Betti numbers
 * [Quantum Finance](https://github.com/deltorobarba/sciences/blob/master/quantum_tensornetworks.ipynb) with quantum-inspired tensor networks for financial portfolio optimization
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧬🦠🧪 with Variational Quantum Eigensolver (optimize Ising model & on H₂ with UCCSD)
