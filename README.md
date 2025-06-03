@@ -67,8 +67,6 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-© ESO/S. BRUNIER / Milky Way Panorama / CC BY 4.0
-
 ## Exoplanets 🪐
 
 *An exoplanet is a planet that orbits a star outside of our solar system. It is detected by observing its effects on the host star, such as the radial velocity method or transit method using [lightkurve](https://github.com/lightkurve/lightkurve) to analyze flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations, and [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters.*
