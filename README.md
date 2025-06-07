@@ -18,7 +18,7 @@
 
 <br>
 
-## Quantum Publications 🎓
+## Publications 🎓
 
 *This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as co-author †*
 
@@ -48,7 +48,7 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Data Analysis with Vietoris Rips persistence to compute Betti numbers
 * [Quantum at CERN 2022](https://github.com/deltorobarba/sciences/blob/master/quantum_cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
-## Quantum on Medium 🎧📒🦋
+## Science on Medium 🎧📒🦋
 
 * Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
