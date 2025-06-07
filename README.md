@@ -23,7 +23,7 @@
 *This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as co-author †*
 
   * **PRX Quantum** [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024) †
-  * **Nature** [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3), 638, 79-85 (2025)
+  * **Nature** [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3) (2025)
   * **Nature** [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6) (2024)
   * **Nature** [Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7) (2023)
   * **Nature** [Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4) (2023)
