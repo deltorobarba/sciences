@@ -49,8 +49,8 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
   * Nature [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y) (2022)
   * Science [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877)  (2024)
   * Science [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932) (2024)
-  * [arXiv] [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
-  * [arXiv] [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
+  * arXiv [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
+  * arXiv [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
