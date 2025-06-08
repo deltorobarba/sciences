@@ -27,7 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-*Quantum algorithms, quantum sensing and communication are key technologies for computational advantage in the future. However, in real-world scenarios, what tangible advantages do quantum data offer, and where can quantum algorithms surpass the best possible classical machine learning approaches? These are questions that captivate my interest.*
+*Quantum algorithms, quantum sensing and communication are key technologies for computational advantage in the future. However, in real-world scenarios, what tangible advantages do quantum data offer, and where can quantum algorithms surpass best possible classical machine learning approaches? These are questions that captivate my interest.*
 
 ## Quantum Computing 💎 
 
