@@ -26,6 +26,8 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
+*Quantum algorithms, quantum sensing and quantum communicationare key technologies for computational advantage in the future. But many questions are still open: in real -world scenarios, what advantage provide quantum data, and where can quantum algorithms generate add-value over best possible classical ML?*
+
 ## Quantum Computing 💎 
 
 $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i)$ with $\rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
@@ -62,8 +64,6 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
 *My passion lies in applying classical machine learning, and quantum algorithms to astronomy and astrophysics. My long-term goal is to utilize quantum sensing with AI in exoplanet research or to uncover new insights in black hole complexity. I'm analyzing various astrophysical objects with real data collected from scientific missions to find measurement limits.*
-
-<br>
 
 ## Exoplanets 🪐
 
