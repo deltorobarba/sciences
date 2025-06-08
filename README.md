@@ -62,8 +62,6 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-*My passion lies in applying classical machine learning, and quantum algorithms to astronomy and astrophysics. My long-term goal is to utilize quantum sensing with AI in exoplanet research or to uncover new insights in black hole complexity. I'm analyzing various astrophysical objects with real data collected from scientific missions to find measurement limits.*
-
 ## Exoplanets 🪐
 
 *An exoplanet is a planet that orbits a star outside of our solar system. It is detected by observing its effects on the host star, such as the radial velocity method or transit method using [lightkurve](https://github.com/lightkurve/lightkurve) to analyze flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations, and [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters.*
