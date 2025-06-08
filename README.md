@@ -61,7 +61,7 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-My passion lies in applying classical machine learning, and quantum algorithms to astronomy and astrophysics. My long-term goal is to utilize quantum sensing with AI in exoplanet research or to uncover new insights into the complexity of black holes.
+My passion lies in applying classical machine learning, and quantum algorithms to astronomy and astrophysics. My long-term goal is to utilize quantum sensing with AI in exoplanet research or to uncover new insights in black hole complexity.
 
 ## Exoplanets 🪐
 
