@@ -54,7 +54,7 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 * `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7) (2023)
 * `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4) (2023)
 * `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1) (2023)
-* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y) (2022)
+* `Nature` &nbsp;&nbsp;[Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y) (2022)
 * `Science` &nbsp;[Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877) (2024)
 * `Science` &nbsp;[Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932) (2024)
 * `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
