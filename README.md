@@ -23,6 +23,7 @@
 * [Models and Agents](https://github.com/deltorobarba/sciences/blob/master/ai_models.ipynb) Gemini, OSS(3P) and Small Language Models, ADK
 
 <br>
+<br>
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
