@@ -28,7 +28,7 @@
 
 *Quantum algorithms, quantum sensing and quantum communicationare key technologies for computational advantage in the future. But many questions are still open: in real -world scenarios, what advantage provide quantum data, and where can quantum algorithms generate add-value over best possible classical ML? These are core questions for me.*
 
-*Quantum algorithms, quantum sensing and quantum communicationare key technologies for computational advantage in the future. However, numerous questions remain unanswered: in practical real-world scenarios, what tangible advantages do quantum data offer, and where can quantum algorithms surpass the best possible classical machine learning approaches? These are the core questions that captivate my interest.*
+*Quantum algorithms, quantum sensing and quantum communicationare key technologies for computational advantage in the future. However, in practical real-world scenarios, what tangible advantages do quantum data offer, and where can quantum algorithms surpass the best possible classical machine learning approaches? These are the core questions that captivate my interest.*
 
 ## Quantum Computing 💎 
 
