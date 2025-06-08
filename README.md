@@ -49,6 +49,17 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 
 *This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) include Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as co-author †*
 
+* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3) (2025)
+* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Phase transitions in Random Circuit Sampling](https://doi.10.1038/s41586-024-07998-6) (2024)
+* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7) (2023)
+* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4) (2023)
+* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1) (2023)
+* `Nature` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y) (2022)
+* `Science` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877) (2024)
+* `Science` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932) (2024)
+* `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
+* `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
+
   * PRX Quantum [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024) †
   * Nature [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3) (2025)
   * Nature [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6) (2024)
