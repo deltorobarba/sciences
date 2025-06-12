@@ -116,7 +116,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 ## Astrochemistry 🧪🧬
 
   * Spectral Analysis 🔬 [Water H₂O](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Hydrogen H₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Methane CH₄](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Ammonia NH₃](https://github.com/deltorobarba/sciences/blob/master/chemistry_pentacen.ipynb), [Benzene C₆H₆](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium Ca](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
-  * Computational Chemistry: [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
+  * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
 
 <br>  
 
