@@ -114,9 +114,34 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
   * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
 
 ## Astrochemistry 🧪🧬
+That's a strong reformulation! It clearly distinguishes between biosignatures and other atmospheric constituents, and succinctly explains the significance of each.
 
-  * Spectral Analysis 🔬🦠 [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
-  * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
+Here are a few minor tweaks to enhance clarity and flow, making it even more polished:
+
+---
+
+### Suggested Refinements
+
+In **astrophysical spectral analysis**, certain molecules serve as **biosignatures** 🔬🦠 These include oxygen ($O_2$), methane ($CH_4$), nitrous oxide ($N_2O$), methyl chloride ($CH_3Cl$), phosphine ($PH_3$), dimethyl sulfide (DMS, $(CH_3)_2S$), and dimethyl disulfide (DMDS, $(CH_3S)_2$). These are molecules or combinations of molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes, life as we know it. 
+
+  * [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb)
+  * [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb)
+  * [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb)
+  * [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb)
+  * [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb)
+  * [Dimethyl Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
+  * [Dimethyl Disulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethyldisulfide.ipynb)
+
+Besides biosignatures, other molecules are also analyzed in astrophysical spectroscopy, such as water ($H_2O$), hydrogen ($H_2$), ammonia ($NH_3$), benzene ($C_6H_6$), carbon dioxide ($CO_2$), and calcium ($Ca$). These are generally referred to as **atmospheric constituents** or **chemical species**. While they provide important information about a planet's physical and chemical conditions, star formation processes, and other phenomena, they alone are not direct indicators of life.
+
+  * [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb)
+  * [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb)
+  * [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb)
+  * [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb)
+  * [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb)
+  * [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
+
+Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
 
 <br>  
 
