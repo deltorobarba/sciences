@@ -106,6 +106,9 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 ## Mission Data 📂
 *Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files for astrophysical observations in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.*
 
+
+*Astrophysical mission data consist of observational measurements across the electromagnetic spectrum, collected by space- and ground-based telescopes. These data allow researchers to analyze the structure, composition, and evolution of cosmic objects — from exoplanets and stars to galaxies and the cosmic microwave background. The data are typically stored in [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) format and retrieved from major archives maintained by agencies like NASA, ESA, and national observatories (e.g., HEASARC, MAST, IRSA, SDSS, NRAO). Each archive specializes in a spectral window, enabling multi-wavelength studies that link energetic processes, thermal emissions, and large-scale cosmic structure.*
+
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) **infrared and near-infrared** images from missions
