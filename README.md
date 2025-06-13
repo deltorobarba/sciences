@@ -103,6 +103,15 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
   * [Solar Flares](https://github.com/deltorobarba/sciences/blob/master/star_solarflare.ipynb) X7.1 solar flare (R3 radio blackout) peaked on 1 Oct 2024. 
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) binary star system including a black hole 3,300 light-years away.
 
+
+## Astrochemistry 🧪🧬
+
+*In **astrophysical spectral analysis** there are **biosignatures** 🔬🦠 which are molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes, and there are **chemosignatures** that provide important information about a planet's physical and chemical conditions, star formation processes, and other phenomena.*
+
+  * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl (Di-)Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
+  * Chemosignatures 🧪 [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
+  * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
+
 ## Mission Data 📂
 
 *Astrophysical mission data consist of observational measurements across the electromagnetic spectrum, collected by space- and ground-based telescopes. These data allow researchers to analyze the structure, composition, and evolution of exoplanets, stars, galaxies and the cosmic microwave background. Data are typically stored in [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) format and retrieved from NASA, ESA, and national observatories (HEASARC, MAST, IRSA, SDSS, NRAO).*
@@ -113,14 +122,6 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
   * [WMAP](https://map.gsfc.nasa.gov) for [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cosmology_cmb.ipynb) in **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️
   * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz, incl. SIGINT workflow
   * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
-
-## Astrochemistry 🧪🧬
-
-*In **astrophysical spectral analysis** there are **biosignatures** 🔬🦠 which are molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes, and there are **chemosignatures** that provide important information about a planet's physical and chemical conditions, star formation processes, and other phenomena.*
-
-  * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl (Di-)Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
-  * Chemosignatures 🧪 [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
-  * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
 
 <br>  
 
