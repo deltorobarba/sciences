@@ -114,15 +114,8 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
   * [THEMIS, Stanford VLF, EMFISIS, Van Allen Probes, SuperMAG ](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
 
 ## Astrochemistry 🧪🧬
-That's a strong reformulation! It clearly distinguishes between biosignatures and other atmospheric constituents, and succinctly explains the significance of each.
 
-Here are a few minor tweaks to enhance clarity and flow, making it even more polished:
-
----
-
-### Suggested Refinements
-
-In **astrophysical spectral analysis**, certain molecules serve as **biosignatures** 🔬🦠 These include oxygen ($O_2$), methane ($CH_4$), nitrous oxide ($N_2O$), methyl chloride ($CH_3Cl$), phosphine ($PH_3$), dimethyl sulfide (DMS, $(CH_3)_2S$), and dimethyl disulfide (DMDS, $(CH_3S)_2$). These are molecules or combinations of molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes, life as we know it. 
+In **astrophysical spectral analysis**, certain molecules serve as **biosignatures** 🔬🦠 These include oxygen ($O_2$), methane ($CH_4$), nitrous oxide ($N_2O$), methyl chloride ($CH_3Cl$), phosphine ($PH_3$), dimethyl sulfide (DMS, $(CH_3)_2S$), and dimethyl disulfide (DMDS, $(CH_3S)_2$). These are molecules or combinations of molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes 
 
   * [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb)
   * [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb)
