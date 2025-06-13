@@ -104,7 +104,7 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) binary star system including a black hole 3,300 light-years away.
 
 ## Mission Data 📂
-Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files for astrophysical observations in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.
+*Pull and analyze mission data from [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) files for astrophysical observations in various wavelengths, from high-energy to low-frequency. Create composite RGB images from MAST and SDSS data bases.*
 
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
@@ -115,7 +115,7 @@ Pull and analyze mission data from [FITS](https://github.com/deltorobarba/scienc
 
 ## Astrochemistry 🧪🧬
 
-In **astrophysical spectral analysis**, certain molecules serve as **biosignatures** 🔬🦠. These are molecules or combinations of molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes. Besides biosignatures, there are **chemosignatures** that are atmospheric constituents or chemical species and provide important information about a planet's physical and chemical conditions, star formation processes, and other phenomena.
+*In **astrophysical spectral analysis** there are **biosignatures** 🔬🦠 which are molecules in an exoplanet's atmosphere whose presence is highly likely to indicate biological processes, and there are **chemosignatures** that provide important information about a planet's physical and chemical conditions, star formation processes, and other phenomena (atmospheric constituents or chemical species).*
 
   * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
   * Chemosignatures 🧪 [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
