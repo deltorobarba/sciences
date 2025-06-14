@@ -111,9 +111,9 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
   * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) **infrared and near-infrared** images from missions
-  * [WMAP](https://github.com/deltorobarba/sciences/blob/master/missions_wmap.ipynb) for Cosmic Microwave Background in **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️
+  * [WMAP](https://github.com/deltorobarba/sciences/blob/master/missions_wmap.ipynb) for **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️ (e.g. Cosmic Microwave Background)
   * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz, incl. SIGINT workflow
-  * [THEMIS, VLF, EMFISIS, Van Allen, SuperMAG](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) **extreme low frequencies** from 30-3 Hz
+  * [THEMIS, VLF, EMFISIS, Van Allen, SuperMAG](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) for **extreme low frequencies** from 30-3 Hz
 
 ## Astrochemistry 🧪🧬
 
