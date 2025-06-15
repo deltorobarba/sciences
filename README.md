@@ -32,7 +32,7 @@
 $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho P_i)$ with $\rho = \sum_n p_n |\psi_n\rangle\langle\psi_n|$
 
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ with machine learning for photon localization in ultra-low photon count
-* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧬🧪 distributed training of VQE and UCCSD on H₂ and NH₃
+* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 distributed training of VQE and UCCSD on H₂ and NH₃
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Data Analysis with Vietoris Rips persistence to compute Betti numbers
 * [Quantum CERN 2022](https://github.com/deltorobarba/sciences/blob/master/quantum_cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
