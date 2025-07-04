@@ -45,11 +45,11 @@ $\langle A \rangle = \text{Tr}(\rho \sum_i a_i P_i) = \sum_i a_i \text{Tr}(\rho 
 
 ## Quantum Publications 🎓
 
-*Focus papers with direct contributions as a co-author*
+Focus papers with direct contributions as a research co-author
 
   * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-*Milestone papers as a Google Quantum AI research team collaborator*
+Milestone papers as a Google Quantum AI research team collaborator
 
   * `Nature` &nbsp;&nbsp;&nbsp;[Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3) (2025)
   * `Nature` &nbsp;&nbsp;&nbsp;[Phase transitions in Random Circuit Sampling](https://doi.10.1038/s41586-024-07998-6) (2024)
