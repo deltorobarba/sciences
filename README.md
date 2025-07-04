@@ -16,12 +16,6 @@
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
-## Machine Learning 🖲️🌪️
-* [Training and Tuning](https://github.com/deltorobarba/sciences/blob/master/ai_training.ipynb) PEFT, Full Fine-Tuning, Reinforcement Tuning, Preference Tuning, Distillation
-* [Serving & Inference](https://github.com/deltorobarba/sciences/blob/master/ai_serving.ipynb) with vLLM, HexLLM, Triton on Model Garden or Vertex AI
-* [Observability & Eval](https://github.com/deltorobarba/sciences/blob/master/ai_evaluation.ipynb) Tracing, Monitoring, Evaluation
-* [Models and Agents](https://github.com/deltorobarba/sciences/blob/master/ai_models.ipynb) Gemini, OSS(3P) and Small Language Models, ADK
-
 <br>
 <br>
 
