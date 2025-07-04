@@ -39,7 +39,7 @@ Quantum computing promises to address specific problems that are otherwise unsol
 
 ## Quantum Publications 🎓
 
-Milestone papers as a Google Quantum AI research collaborator, as well as focus papers with direct contributions as co-author †
+*Milestone papers as a Google Quantum AI research collaborator, as well as focus papers with direct contributions as co-author †*
 
   * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024) †
   * `Nature` &nbsp;&nbsp;&nbsp;[Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3) (2025)
