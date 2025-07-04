@@ -23,6 +23,8 @@
 
 ## Quantum Computing 💎 
 
+Quantum computing promises to address otherwise unsolvable problems. In the first step, a big challenge is to turn a problem into a suitable quantum algorithm. In the second step, it is recommended to run noiseless nd noisy numerical simulations of quantum algorithms on classical hardware. In the third step, specific subroutines can be sent to real quantum computers.
+
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell on conjugate pairs $\rho \otimes \rho*$
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of H₂ and NH₃
