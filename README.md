@@ -39,9 +39,12 @@
 
 ## Quantum Publications 🎓
 
-*This publication list from [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) includes Google Quantum AI research milestone papers as a team collaborator, as well as focus papers with direct contributions as a co-author †*
+Focus papers with direct contributions as a research co-author
 
-  * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024) †
+  * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+
+Milestone papers as a Google Quantum AI research team collaborator
+
   * `Nature` &nbsp;&nbsp;&nbsp;[Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3) (2025)
   * `Nature` &nbsp;&nbsp;&nbsp;[Phase transitions in Random Circuit Sampling](https://doi.10.1038/s41586-024-07998-6) (2024)
   * `Nature` &nbsp;&nbsp;&nbsp;[Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7) (2023)
@@ -52,7 +55,6 @@
   * `Science` &nbsp;[Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932) (2024)
   * `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
-
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
