@@ -57,7 +57,7 @@
   * `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
   * 
 
-## Curriculum
+## Curriculum 🌱
 
 * 2022 - Quantum Computing Practice Lead, Google Cloud
 * 2020 - Research 20% in AI/ML at Google DeepMind
