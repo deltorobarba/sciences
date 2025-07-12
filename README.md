@@ -55,14 +55,6 @@
   * `Science` &nbsp;[Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932) (2024)
   * `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * `arXiv` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
-  * 
-
-## Curriculum 🌱
-
-* 2022 - Quantum Computing Practice Lead, Google Cloud
-* 2020 - Research 20% in AI/ML at Google DeepMind
-* 2018 - Machine Learning Specialist, Google Cloud
-* 2014-18 - PhD in Economics (ML / Computational Finance)
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
