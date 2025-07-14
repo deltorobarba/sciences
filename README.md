@@ -21,19 +21,19 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-## Quantum Publications 🎓
+## Publications 🎓
 
 *Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates can tackle classically intractable TDA instances.*
 
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-## Quantum Computing 💎 
+## Code 💎 
 
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell on conjugate pairs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 * [Quantum CERN 2022](https://github.com/deltorobarba/sciences/blob/master/quantum_cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
 
-## Quantum on Medium 🎧📒
+## Medium 🎧📒
 
 * Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
