@@ -6,13 +6,6 @@
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
-
-
-<br>
-
-## Research 🎓
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 ### Project 1: Quantum Advantage in Topological Data Analysis ♾️
