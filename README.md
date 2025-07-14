@@ -45,9 +45,6 @@
 * [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
 * [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
 
-<br>
-
-
 ### Quantum Sensing for Photon Localization 📡 ✨ 
 
 *Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate $\rho \otimes \rho^•$, can achieve an exponential advantage in certain shadow tomography tasks compared to traditional machine learning methods that rely on multiple copies of the state $\rho^{\otimes K}$. This approach requires only minimal quantum memory (two copies) and offers significant sample complexity improvements for learning displacement amplitudes.*
