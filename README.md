@@ -25,7 +25,7 @@
 
 *Quantum computing promises to address specific problems that are otherwise unsolvable. Here I show how turn a problem into a quantum algorithm, run noiseless and noisy numerical simulations on classical hardware, and send subroutines to a quantum computers.*
 
-* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell on conjugate pairs $\rho \otimes \rho*$
+* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell on conjugate pairs
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 * [Quantum CERN 2022](https://github.com/deltorobarba/sciences/blob/master/quantum_cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
