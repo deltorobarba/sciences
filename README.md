@@ -43,6 +43,7 @@
 * [Block Encoding in Quantum Computing](https://medium.com/@deltorobarba/block-encoding-in-quantum-computing-ba76e3d942a8)
 * [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
 * [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
+* [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
 
 
 ### Project 2: Quantum Sensing for Photon Localization 📡 ✨ 
@@ -51,6 +52,13 @@
 
 
 * Code: [Quantum advantage in photon localization with Bell measurememt on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb)
+
+### Peoject 3: Quantum Algorithms with Classical Data 💎
+
+* [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
+* [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
+* [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
+* [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
 
 <br>
 
