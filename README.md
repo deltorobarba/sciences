@@ -30,7 +30,7 @@
 
 ## Quantum Publications 🎓
 
-`PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+* `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
 ## Quantum on Medium 🎧📒
 
