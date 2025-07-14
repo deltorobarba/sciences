@@ -39,11 +39,11 @@
 
 ## Quantum Publications 🎓
 
-Focus papers with direct contributions as a research co-author
+Focus papers with direct contributions as a research co-author:
 
-  * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+`PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-Additional milestone papers in Nature and Science as a Google Quantum AI  collaborator on [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ).
+Additional milestone papers in Nature and Science as Google Quantum AI  collaborator on [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
