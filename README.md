@@ -31,7 +31,7 @@
 
 ### Quantum Sensing for Photon Localization 📡 ✨ 
 
-*Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate $\rho \otimes \rho^{ * }$, can achieve an exponential advantage in certain shadow tomography tasks compared to traditional machine learning methods that rely on multiple copies of the state (\rho^{\otimes K}). This approach requires only minimal quantum memory (two copies) and offers significant sample complexity improvements for learning displacement amplitudes.*
+*Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate $\rho \otimes \rho^•$, can achieve an exponential advantage in certain shadow tomography tasks compared to traditional machine learning methods that rely on multiple copies of the state $\rho^{\otimes K}$. This approach requires only minimal quantum memory (two copies) and offers significant sample complexity improvements for learning displacement amplitudes.*
 
 
 * Code: [Quantum advantage in photon localization with Bell measurememt on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb)
@@ -106,12 +106,6 @@ I want to apply quantum algorithm to gain new insights in astrophysics: extreme 
   * Chemosignatures 🧫🧪 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Helium](https://github.com/deltorobarba/sciences/blob/master/chemistry_helium.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
   * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
   * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
-
-<br>  
-
-* Code: [Quantum CERN 2022](https://github.com/deltorobarba/sciences/blob/master/quantum_cern.ipynb) ⚛︎ International Conference on Quantum Technologies for High-Energy Physics
-* Article: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
-* Article: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 
 <br>
 
