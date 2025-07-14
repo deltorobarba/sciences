@@ -24,7 +24,7 @@
 
 ## Quantum Code 💎
 
-* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell measurememt on conjugate pairs
+* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell  on conjugate pairs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 
 ## Quantum on Medium 🎧 📒
