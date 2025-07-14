@@ -34,7 +34,7 @@
 
 `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-*PRX Quantum is a Physical Review journal published by the [American Physical Society](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010001) (APS). Additional milestone papers in Nature and Science as Google Quantum AI  collaborator on [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)*
+*PRX Quantum is a Physical Review journal published by the [American Physical Society](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010001) (APS). Additional milestone papers in Nature and Science as Google Quantum AI  collaborator on [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)*.
 
 ## Quantum on Medium 🎧📒
 
