@@ -44,7 +44,7 @@ I'm primarily interested in the interactions between classical and quantum machi
 
 <br>
 
-# Astronomy & Astrophysics 📡 🪐 🔭
+# Astronomy & Astrophysics 🪐 🔭
 
 I want to apply quantum algorithm to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.
 
