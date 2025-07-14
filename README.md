@@ -53,7 +53,9 @@
 
 * Code: [Quantum advantage in photon localization with Bell measurememt on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb)
 
-### Peoject 3: Quantum Algorithms with Classical Data 💎
+### Project 3: Quantum Algorithms with Classical Data 💎
+
+Enhancing classical machine learning algorithms that use classical data with quantum computing is one of the main objectives in quantum algorithms research. However, many challenges have been uncovered, including approaches like dequantization and quantum-inspired.
 
 * [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
