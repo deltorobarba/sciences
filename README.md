@@ -6,6 +6,17 @@
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
+
+## Natural Sciences 🍃 🎨
+* [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
+* [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
+* [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
+* [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
+
+
+## Quantum Research 🎓
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 ### Project 1: Quantum Advantage in Topological Data Analysis ♾️
@@ -121,14 +132,5 @@
   * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 
 <br>
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
-
-## Natural Sciences 🍃 🎨
-* [Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
-* [Biology](https://github.com/deltorobarba/sciences/blob/master/biology.ipynb): Biochemistry, Genetics, Evolution, Anthropology, Geology
-* [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
-* [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
-
 
 <br>
