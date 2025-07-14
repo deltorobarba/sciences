@@ -17,7 +17,7 @@
 * Article: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
 
-## Quantum Sensing for Photon Localization 📡 ✨ 
+### Quantum Sensing for Photon Localization 📡 ✨ 
 
 *Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate $\rho \otimes \rho^{ * }$, can achieve an exponential advantage in certain shadow tomography tasks compared to traditional machine learning methods that rely on multiple copies of the state (\rho^{\otimes K}). This approach requires only minimal quantum memory (two copies) and offers significant sample complexity improvements for learning displacement amplitudes.*
 
