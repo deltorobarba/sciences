@@ -19,6 +19,10 @@
 <br>
 <br>
 
+# Research
+
+I'm primarily interested in the interactions between classical ane quantum machine learning.
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 ## Publications 🎓
@@ -38,6 +42,11 @@
 * Dequantization: [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * Quantum Topology: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
+
+
+# Astronomy & Astrophysics
+
+I want to apply quantum algorithm for new insights in astrophysics: quantum sensing with precise quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
