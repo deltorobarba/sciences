@@ -2,7 +2,7 @@
 
 ### Alexander Del Toro Barba, PhD
 
-*Machine learning and quantum computing specialist at Google Cloud. Supporting on innovative, large-scale machine learning, and collaborating with Google Quantum AI research. I ❤️ Science.*
+*Hello! I'm Alex, Machine learning and quantum computing specialist at Google Cloud. I'm supporting on innovative, large-scale machine learning, and collaborating with Google Quantum AI research. I ❤️ Science.*
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
