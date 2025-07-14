@@ -23,9 +23,10 @@
 
 ### Quantum Topological Data Analysis ♾️
 
+`PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+
 *Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates can tackle classically intractable TDA instances.*
 
-* `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 * Article: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
 
@@ -41,7 +42,7 @@
 * [Dicke States in Quantum Computing](https://medium.com/@deltorobarba/dicke-states-in-quantum-computing-06f9ada5ce22)
 * [Dirac Operator in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/dirac-operator-in-quantum-topological-data-analysis-29a2c4d2432c)
 * [Block Encoding in Quantum Computing](https://medium.com/@deltorobarba/block-encoding-in-quantum-computing-ba76e3d942a8)
-* [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries (LCU)](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
+* [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
 * [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
 
 
