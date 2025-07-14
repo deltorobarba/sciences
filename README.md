@@ -2,7 +2,7 @@
 
 ### Alexander Del Toro Barba, PhD
 
-*Hello! I'm Alex, machine learning and quantum computing specialist at Google Cloud. In quantum algorithms research I'm primarily interested in the interactions between classical and quantum machine learning. I ❤️ Science.*
+*Hello! I'm Alex, machine learning and quantum computing specialist at Google Cloud. In quantum algorithms research I'm primarily interested in the interactions between classical and quantum machine learning with potential applications in astrophysics. I ❤️ Science.*
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
@@ -14,7 +14,6 @@
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
-<br>
 <br>
 
 ## Quantum Research 🎓 
@@ -42,7 +41,6 @@
 * [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
 
-<br>
 <br>
 
 ## Astronomy and Astrophysics 🪐 🔭
