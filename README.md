@@ -16,15 +16,23 @@
 
 <br>
 
-## Quantum Research 🎓
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-### Project 1: Quantum Advantage in Topological Data Analysis ♾️
+### Quantum Publications 🎓
 
 🌸 `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-*Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates can tackle classically intractable TDA instances.*
+### Quantum Code 💎
+
+* [Quantum advantage in photon localization with Bell measurememt on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨
+* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
+
+### Quantum on Medium 🎧 📒
+
+* [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
+* [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
+* [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
+* [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
 
 *Mathematical context of persistent homology:*
 
@@ -45,25 +53,9 @@
 * [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
 
 
-### Project 2: Quantum Sensing for Photon Localization 📡 ✨ 
-
-*Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate $\rho \otimes \rho^•$, can achieve an exponential advantage in certain shadow tomography tasks compared to traditional machine learning methods that rely on multiple copies of the state $\rho^{\otimes K}$. This approach requires only minimal quantum memory (two copies) and offers significant sample complexity improvements for learning displacement amplitudes.*
-
-
-* Code: [Quantum advantage in photon localization with Bell measurememt on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb)
-
-### Project 3: Quantum Algorithms with Classical Data 💎
-
-*Enhancing classical machine learning algorithms that use classical data with quantum computing is one of the main objectives in quantum algorithms research. However, many challenges have been uncovered, including approaches like dequantization and quantum-inspired.*
-
-* [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
-* [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
-* [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
-* [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
-
 <br>
 
-## Astronomy & Astrophysics 🪐 🔭
+# Astronomy & Astrophysics 🪐 🔭
 
 *I want to apply quantum algorithm to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.*
 
@@ -130,7 +122,6 @@
   * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl (Di-)Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
   * Chemosignatures 🧫🧪 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Helium](https://github.com/deltorobarba/sciences/blob/master/chemistry_helium.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
   * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
-  * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 
 <br>
 
