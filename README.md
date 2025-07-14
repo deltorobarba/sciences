@@ -18,19 +18,17 @@
 
 <br>
 
-# Research
+# Research 🎓
 
 I'm primarily interested in the interactions between classical and quantum machine learning. 
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-## Publications 🎓
-
 *Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates can tackle classically intractable TDA instances.*
 
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-## Code 💎 
+## Quantum Code
 
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum advantage in photon localization with Bell on conjugate pairs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
@@ -44,9 +42,9 @@ I'm primarily interested in the interactions between classical and quantum machi
 
 <br>
 
-# Astronomy & Astrophysics
+# Astronomy & Astrophysics 📡 🪐 🔭
 
-I want to apply quantum algorithm for new insights in astrophysics: quantum sensing with precise quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.
+I want to apply quantum algorithm to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
