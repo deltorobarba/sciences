@@ -35,7 +35,7 @@
 
 * Code: [Quantum advantage in photon localization with Bell on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb)
 
-*This is my current research project with focus on Heisenberg-Weyl algebra. It is based on paper 'Exponential learning advantages with conjugate states and minimal quantum memory' in [PRX Quantum 5].*(https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040301).
+*This is my current research project with focus on Heisenberg-Weyl algebra. It is based on paper 'Exponential learning advantages with conjugate states and minimal quantum memory' in [PRX Quantum 5](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040301).*
 
 ### Appendix: Quantum Algorithms with Classical Data 💎
 
