@@ -21,7 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-### Project 1: Quantum Topological Data Analysis ♾️
+### Project 1: Quantum Advantage in Topological Data Analysis ♾️
 
 *Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates can tackle classically intractable TDA instances.*
 
