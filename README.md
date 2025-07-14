@@ -20,7 +20,7 @@
 
 ## Quantum Publications 🎓
 
-* `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+* 🌸 `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
 ## Quantum Code 💎
 
@@ -37,6 +37,8 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
+
+*I want to apply quantum algorithm to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.*
 
 ## Exoplanets 🪐
 
