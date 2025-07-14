@@ -23,7 +23,7 @@
 
 ## Quantum Publications 🎓
 
-*Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and asymptotically growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates could tackle classically intractable TDA instances.*
+*Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates could tackle classically intractable TDA instances.*
 
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
