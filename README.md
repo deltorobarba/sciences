@@ -27,14 +27,13 @@
 
 *Quantum Topological Data Analysis achieves super-quadratic quantum speedups for multiplicative error approximations and growing Betti numbers. An exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, there are problems where quantum circuits with tens of billions of Toffoli gates can tackle classically intractable TDA instances.*
 
-* Article: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
-* Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
-
 *Mathematical context of persistent homology:*
 
 * [Topological Data Analysis with Persistent Homology](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-1-c6d055f2a4de)
 * [Topological Data Analysis with Spectral Analysis of Combinatorial Laplacians](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-2-8a2e3071c872)
 * [Topological Data Analysis with Differential Forms, Hodge Theory and Cohomology Classes](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-1a97caeafd47)
+* [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
+* [Code: Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
 
 *Quantum algorithm components*
 
