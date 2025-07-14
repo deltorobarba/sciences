@@ -20,7 +20,7 @@
 
 # Research
 
-I'm primarily interested in the interactions between classical ane quantum machine learning.
+I'm primarily interested in the interactions between classical and quantum machine learning. 
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
@@ -43,6 +43,7 @@ I'm primarily interested in the interactions between classical ane quantum machi
 * Quantum GenAI: [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
 
 <br>
+
 # Astronomy & Astrophysics
 
 I want to apply quantum algorithm for new insights in astrophysics: quantum sensing with precise quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.
