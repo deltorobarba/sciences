@@ -21,9 +21,10 @@
 
 ### Project 1: Quantum Topological Data Analysis ♾️
 
-*We've developed an improved quantum algorithm for Topological Data Analysis that achieves super-quadratic quantum speedups for multiplicative error approximations and asymptotically growing Betti numbers. This exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers. Despite these conditions, we've identified problem examples where quantum circuits with tens of billions of Toffoli gates could tackle classically intractable TDA instances.*
+*Quantum Topological Data Analysis can achieve super-quadratic quantum speedups for multiplicative error approximations and asymptotically growing Betti numbers with quantum circuits of tens of billions of Toffoli gates could tackle classically intractable TDA instances. This exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers.*
 
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+* Summary: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)  
 
 ### Project 2: Quantum Sensing for Photon Localization 📡 ✨
