@@ -21,7 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-### Quantum Topological Data Analysis ♾️
+### Project 1: Quantum Topological Data Analysis ♾️
 
 `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
@@ -46,7 +46,7 @@
 * [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
 
 
-### Quantum Sensing for Photon Localization 📡 ✨ 
+### Project 2: Quantum Sensing for Photon Localization 📡 ✨ 
 
 *Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate $\rho \otimes \rho^•$, can achieve an exponential advantage in certain shadow tomography tasks compared to traditional machine learning methods that rely on multiple copies of the state $\rho^{\otimes K}$. This approach requires only minimal quantum memory (two copies) and offers significant sample complexity improvements for learning displacement amplitudes.*
 
