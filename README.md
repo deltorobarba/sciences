@@ -19,16 +19,18 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-## Project 1: Quantum Topological Data Analysis ♾️
+## Quantum Research 🎓 
+
+### Project 1: Quantum Topological Data Analysis ♾️
 
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 * Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)  
 
-## Project 2: Quantum Sensing for Photon Localizatiom 📡 ✨
+### Project 2: Quantum Sensing for Photon Localizatiom 📡 ✨
 
 * Code: [Quantum advantage in photon localization with Bell on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 
 
-## Appendix: Quantum Algorithms with Classical Data 💎
+### Appendix: Quantum Algorithms with Classical Data 💎
 
 * [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
