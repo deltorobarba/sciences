@@ -28,7 +28,7 @@
 
 ### Project 2: Quantum Sensing for Photon Localization 📡 ✨
 
-*Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate, can achieve with only minimal quantum memory an exponential advantage in shadow tomography tasks like learning displacement amplitudes compared to traditional ML methods that rely on multiple copies of the state.*
+*Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate, can achieve with only minimal quantum memory an exponential advantage in shadow tomography of learning displacement amplitudes compared to traditional ML methods that rely on multiple copies of the state.*
 
 * Code: [Quantum advantage in photon localization with Bell on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 
 
