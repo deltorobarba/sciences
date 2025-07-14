@@ -34,30 +34,6 @@
 * [How Quantum Computing could accelerate Finance and Economics](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * [The Many Worlds of Quantum-Inspired](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
 
-*Mathematical context of persistent homology:*
-
-* [Topological Data Analysis with Persistent Homology](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-1-c6d055f2a4de)
-* [Topological Data Analysis with Spectral Analysis of Combinatorial Laplacians](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-2-8a2e3071c872)
-* [Topological Data Analysis with Differential Forms, Hodge Theory and Cohomology Classes](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-1a97caeafd47)
-* [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
-* [Code: Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
-
-*Quantum algorithm components*
-
-* [Computational Complexity of Topological Data Analysis](https://medium.com/@deltorobarba/computational-complexity-of-topological-data-analysis-55e70d2d6213)
-* [Dicke States in Quantum Computing](https://medium.com/@deltorobarba/dicke-states-in-quantum-computing-06f9ada5ce22)
-* [Dirac Operator in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/dirac-operator-in-quantum-topological-data-analysis-29a2c4d2432c)
-* [Block Encoding in Quantum Computing](https://medium.com/@deltorobarba/block-encoding-in-quantum-computing-ba76e3d942a8)
-* [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
-* [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
-* [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
-
-
-<br>
-
-# Astronomy & Astrophysics 🪐 🔭
-
-*I want to apply quantum algorithm to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.*
 
 <br>
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
