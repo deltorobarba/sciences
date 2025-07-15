@@ -18,33 +18,21 @@
 
 ## Quantum Research 💎 
 
-### Publications 🎓
-
-* `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
-
-<br> 
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-### Project 1: Quantum Topological Data Analysis ♾️
-
-*Quantum Topological Data Analysis can achieve super-quadratic quantum speedups for multiplicative error approximations and asymptotically growing Betti numbers where quantum circuits of tens of billions of Toffoli gates can tackle classically intractable TDA instances. This exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers.*
+## Quantum Publications 🎓
 
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
-* Summary: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62) (see more in Appendix below)
-* Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
 
-*This research project is finalized and was successfully published in 'PRX Quantum' from the American Physical Society.*
 
-### Project 2: Quantum Sensing for Photon Localization 📡 ✨
+## Quantum Projects
 
-*Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate, can achieve with only minimal quantum memory an exponential advantage in shadow tomography of learning displacement amplitudes compared to traditional ML methods that rely on multiple copies of the state.*
+* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
+* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
+* [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
 
-* Code: [Quantum advantage in photon localization with Bell on conjugate pairs](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb)
 
-*This is my current research project with focus on Heisenberg-Weyl algebra. It is based on paper ['Exponential learning advantages with conjugate states and minimal quantum memory'](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040301).*
-
-### Appendix: Quantum Algorithms with Classical Data 💎
+## Quantum on Medium 🎧 📒
 
 * [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
@@ -118,28 +106,7 @@
   * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl (Di-)Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
   * Chemosignatures 🧫🧪 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Helium](https://github.com/deltorobarba/sciences/blob/master/chemistry_helium.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
   * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
-  * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 
 <br>
-
-## Technical Appendix
-
-*Appendix I: Mathematical context of persistent homology (Project 1)*
-
-* [Topological Data Analysis with Persistent Homology](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-1-c6d055f2a4de)
-* [Topological Data Analysis with Spectral Analysis of Combinatorial Laplacians](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-2-8a2e3071c872)
-* [Topological Data Analysis with Differential Forms, Hodge Theory and Cohomology Classes](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-1a97caeafd47)
-* [Topological Data Analysis: Quantifying Quantum Advantage](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
-
-*Appendix II: Quantum algorithm components (Project 1)*
-
-* [Computational Complexity of Topological Data Analysis](https://medium.com/@deltorobarba/computational-complexity-of-topological-data-analysis-55e70d2d6213)
-* [Dicke States in Quantum Computing](https://medium.com/@deltorobarba/dicke-states-in-quantum-computing-06f9ada5ce22)
-* [Dirac Operator in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/dirac-operator-in-quantum-topological-data-analysis-29a2c4d2432c)
-* [Block Encoding in Quantum Computing](https://medium.com/@deltorobarba/block-encoding-in-quantum-computing-ba76e3d942a8)
-* [Simulating Quantum Systems with Qubitization, Trotterization and Linear combination of unitaries](https://medium.com/@deltorobarba/quantum-walks-in-quantum-computing-22d42501034b)
-* [Chebyshev Polynomials in Quantum Topological Data Analysis](https://medium.com/@deltorobarba/chebyshev-polynomials-in-quantum-topological-data-analysis-419c69784a2a)
-* [Projection-based Overlap Estimation](https://medium.com/@deltorobarba/projection-based-overlap-estimation-c215c45e76e8)
-
 
 <br>
