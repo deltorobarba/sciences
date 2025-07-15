@@ -19,7 +19,7 @@
 ## Quantum Research 🎓 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-### Project 1: Quantum Topological Data Analysis ♾️
+## Project 1: Quantum Topological Data Analysis ♾️
 
 *Quantum Topological Data Analysis can achieve super-quadratic quantum speedups for multiplicative error approximations and asymptotically growing Betti numbers where quantum circuits of tens of billions of Toffoli gates can tackle classically intractable TDA instances. This exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers.*
 
@@ -29,7 +29,7 @@
 
 *This research project is finalized and was successfully published in 'PRX Quantum' which is a Physical Review Journal of the 'American Physical Society' (APS).*
 
-### Project 2: Quantum Sensing for Photon Localization 📡 ✨
+## Project 2: Quantum Sensing for Photon Localization 📡 ✨
 
 *Quantum sensing, utilizing a measurement protocol on a quantum state and its complex conjugate, can achieve with only minimal quantum memory an exponential advantage in shadow tomography of learning displacement amplitudes compared to traditional ML methods that rely on multiple copies of the state.*
 
@@ -37,7 +37,7 @@
 
 *This is my current research project with focus on Heisenberg-Weyl algebra. It is based on paper ['Exponential learning advantages with conjugate states and minimal quantum memory'](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040301).*
 
-### Appendix: Quantum Algorithms with Classical Data 💎
+## Appendix: Quantum Algorithms with Classical Data 💎
 
 * [What is Dequantization in Quantum Machine Learning?](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f)
 * [Can Quantum Computing accelerate Generative AI?](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5)
