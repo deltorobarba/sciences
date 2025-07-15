@@ -122,6 +122,8 @@
 
 <br>
 
+## Technical Appendix
+
 *Appendix I: Mathematical context of persistent homology (Project 1)*
 
 * [Topological Data Analysis with Persistent Homology](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-1-c6d055f2a4de)
