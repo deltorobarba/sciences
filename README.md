@@ -27,7 +27,7 @@
 * Summary: [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
 * Code: [Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
 
-*This research project is finalized and was successfully published in 'PRX Quantum' from the 'American Physical Society' (APS).*
+*This research project is finalized and was successfully published in 'PRX Quantum' from the American Physical Society.*
 
 ## Project 2: Quantum Sensing for Photon Localization 📡 ✨
 
