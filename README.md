@@ -43,7 +43,7 @@
 
 ## Astronomy and Astrophysics 🪐 🔭
 
-*I want to apply quantum protocols to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics and cosmological properties.*
+*I want to apply quantum protocols to gain new insights in astrophysics: extreme precision with quantum sensing and quantum algorithms to explore life on exoplanets, black hole dynamics or cosmological properties.*
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
 ## Exoplanets 🪐
