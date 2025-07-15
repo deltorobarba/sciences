@@ -16,7 +16,7 @@
 
 <br>
 
-## Quantum Research 🎓 
+## Quantum Research 💎 
 
 ### Publications 🎓
 
