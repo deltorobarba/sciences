@@ -128,7 +128,6 @@
 * [Topological Data Analysis with Spectral Analysis of Combinatorial Laplacians](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-2-8a2e3071c872)
 * [Topological Data Analysis with Differential Forms, Hodge Theory and Cohomology Classes](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-1a97caeafd47)
 * [Quantifying Quantum Advantage for Topological Data Analysis](https://medium.com/@deltorobarba/quantum-topological-data-analysis-the-most-powerful-quantum-machine-learning-algorithm-part-3-98789e961b62)
-* [Code: Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb)
 
 *Appendix II: Quantum algorithm components*
 
