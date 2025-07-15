@@ -19,6 +19,10 @@
 ## Quantum Research 🎓 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
+### Publications 🎓
+
+* `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
+
 ### Project 1: Quantum Topological Data Analysis ♾️
 
 *Quantum Topological Data Analysis can achieve super-quadratic quantum speedups for multiplicative error approximations and asymptotically growing Betti numbers where quantum circuits of tens of billions of Toffoli gates can tackle classically intractable TDA instances. This exponential advantage requires, but isn't guaranteed by, exponentially large dimension and Betti numbers.*
