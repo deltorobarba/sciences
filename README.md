@@ -2,7 +2,7 @@
 
 ### Alexander Del Toro Barba, PhD
 
-*Hello! I'm Alex, machine learning and quantum computing specialist at Google Cloud. I'm passionate about astronomy and quantum algorithms, where I'm primarily interested in the separations between classical and quantum machine learning protocols. I ❤️ Science.*
+*Hello! I'm Alex, machine learning and quantum computing specialist at Google Cloud. I'm passionate about astronomy and quantum algorithms. I'm primarily interested in machine learning advantages from quantum protocols and minimal quantum memory. I ❤️ Science.*
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
