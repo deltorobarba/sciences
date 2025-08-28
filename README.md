@@ -14,6 +14,11 @@
 * [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb): Astronomy, Special & General Relativity, Quantum Field Theory
 * [Mathematics](https://github.com/deltorobarba/sciences/blob/master/maths.ipynb): Quantum Mechanics, Complexity Theory, Mathematics
 
+## Machine Learning 🖲️🌪️
+* [Supervised Translation Tuning](https://github.com/deltorobarba/sciences/blob/master/ai_translation_tuning_sft.ipynb): Automatically tune and evaluate translation models for multiple long-tail languages
+* [Translate with LLMs](https://github.com/deltorobarba/sciences/blob/master/ai_translation_tuning_llm.ipynb): Automatically translate and evaluate with different Gemini models for multiple languages
+
+
 <br>
 
 ## Quantum Research 💎 
