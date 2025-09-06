@@ -18,6 +18,7 @@
 * [Supervised Translation Tuning](https://github.com/deltorobarba/sciences/blob/master/ai_translation_tuning_sft.ipynb): Google Cloud
 * [Vertex AI Evaluations](https://github.com/deltorobarba/sciences/blob/master/ai_evaluations.ipynb): Google Cloud
 * [LLM as a Judge](https://github.com/deltorobarba/sciences/blob/master/ai_llm_as_a_judge.ipynb): Google Cloud
+* [PEFT Tuning Llama 3.1](https://github.com/deltorobarba/sciences/blob/master/ai_tuning.ipynb): Google Cloud
 
 <br>
 
