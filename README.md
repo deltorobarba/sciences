@@ -21,14 +21,12 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-Milestone papers as a Google Quantum AI research team collaborator, and focus papers with direct contributions as a research co-author †
+*Milestone papers as a Google Quantum AI research team collaborator, and focus papers with direct contributions as a research co-author †*
 
-* `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
-
-**American Physical Society**
+`American Physical Society`
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), PRX Quantum 5 (2024) †
 
-**Science**
+`Science`
   * [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877), Science 384, 48-53  (2024)
   * [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), Science 383, 1332-1337 (2024)
 
@@ -40,7 +38,7 @@ Milestone papers as a Google Quantum AI research team collaborator, and focus pa
   * [Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1), Nature 614, 676–681 (2023)
   * [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y), Nature 612, 240–245 (2022)
 
-**arXiv**
+`arXiv`
   * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
