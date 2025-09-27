@@ -19,9 +19,11 @@
 
 ## Quantum Publications 🎓
 
+*Milestone papers as Google Quantum AI team collaborator, and focus papers with direct contributions as co-author †*.
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-**American Physical Society (PRX Quantum)**
+**American Physical Society**
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024) †
 
 **Science**
@@ -40,7 +42,6 @@
   * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
-*Milestone papers as a Google Quantum AI research team collaborator, and focus papers with direct contributions as a research co-author †*.
 
 ## Quantum Projects 💎
 
