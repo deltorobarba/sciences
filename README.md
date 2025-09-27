@@ -22,6 +22,8 @@
 
 ## Quantum Publications 🎓
 
+Milestone papers as a Google Quantum AI research team collaborator, and focus papers with direct contributions as a research co-author †
+
 * `PRX Quantum`&nbsp;[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
 **American Physical Society**
