@@ -16,10 +16,13 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
+
 
 ## Quantum Publications 🎓
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
+*Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
+
 
 **American Physical Society**
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024) †
@@ -40,7 +43,6 @@
   * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
-*Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
 
 ## Quantum Research 🔬⚛︎
 
@@ -64,14 +66,11 @@
 
 *In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics, and a planet's physical and chemical conditions.*
 
-* Exoplanet 🪐 [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb)  at 40 light years away
-* Gravitational Wave 📡 [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb)  from 14 Sep 2015
-* Nebulae 🔭🫧⋆｡˚ [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb)  in Milky Way 1.3 light years away
-* Galaxy ⭑⋆🔭⋆₊ [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb)  at 23 mio light years distance (incl. multi-wavelength)
-* Star ☀️✨ [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb)  edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
+* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanet 🪐 at 40 light years away
+* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) Gravitational Wave 📡  from 14 Sep 2015
+* [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebulae 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
+* [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
+* [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) ☀️✨ edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
 * Chemistry 🧪🧬 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
-
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
-
 
 <br>
