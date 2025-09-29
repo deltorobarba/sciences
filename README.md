@@ -37,7 +37,7 @@
 * [How Quantum Computing can accelerate Finance](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b)
 * [The Many Worlds of Quantum-Inspired Algorithms](https://medium.com/@deltorobarba/the-many-worlds-of-quantum-inspired-cd608cb9a7d2)
 
-## Quantum Publications 🎓
+## Publications 🎓
 
 *Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
 
@@ -62,7 +62,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-## Astrophysics 🪐 🔭
+## Astronomy and Astrophysics 🪐 🔭
 
 **Exoplanets 🪐**
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
