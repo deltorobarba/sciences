@@ -40,7 +40,7 @@
   * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
-*Milestone papers as Google Quantum AI team collaborator, and focus papers with direct contributions as co-author †*.
+*Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
 
 <br>
 
