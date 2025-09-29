@@ -25,7 +25,7 @@
 ## Quantum Computing 💎
 
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ionq.ipynb) Two-Qubit Bell State Preparation |Φ+⟩
-* [IBM Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_ibm.ipynb) Asymmetric State Evolution (with Unequal Superposition)
+* [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ibm.ipynb) Asymmetric State Evolution (with Unequal Superposition)
 
 ## Quantum Research 🔬⚛︎
 
