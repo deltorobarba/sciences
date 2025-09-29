@@ -71,6 +71,4 @@
 * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebulae 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
 * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
 * [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) ☀️✨ edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
-* Chemistry 🧪🧬 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
-
 <br>
