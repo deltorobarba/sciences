@@ -46,6 +46,8 @@
 
 ## Astronomy and Astrophysics 🪐 🔭
 
+*In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics.*
+
 **Exoplanets 🪐**
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
