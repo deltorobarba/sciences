@@ -19,31 +19,6 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
 
-## Quantum Publications 🎓
-
-*Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
-
-
-**American Physical Society**
-  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024) †
-
-**Science**
-  * [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877), `Science 384`, 48-53  (2024)
-  * [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), `Science 383,` 1332-1337 (2024)
-
-**Nature**
-  * [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3), `Nature 638`, 79-85 (2025)
-  * [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6), `Nature 634`, 328-333 (2024)
-  * [Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7), `Nature 622`, 481–486 (2023)
-  * [Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4), `Nature 618`, 264–269 (2023)
-  * [Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1), `Nature 614`, 676–681 (2023)
-  * [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y), `Nature 612`, 240–245 (2022)
-
-**arXiv**
-  * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
-  * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
-
-
 ## Quantum Research 🔬⚛︎
 
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
@@ -71,4 +46,29 @@
 * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebulae 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
 * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
 * [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) ☀️✨ edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
+
+## Quantum Publications 🎓
+
+*Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
+
+
+**American Physical Society**
+  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024) †
+
+**Science**
+  * [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877), `Science 384`, 48-53  (2024)
+  * [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), `Science 383,` 1332-1337 (2024)
+
+**Nature**
+  * [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3), `Nature 638`, 79-85 (2025)
+  * [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6), `Nature 634`, 328-333 (2024)
+  * [Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7), `Nature 622`, 481–486 (2023)
+  * [Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4), `Nature 618`, 264–269 (2023)
+  * [Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1), `Nature 614`, 676–681 (2023)
+  * [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y), `Nature 612`, 240–245 (2022)
+
+**arXiv**
+  * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
+  * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
+
 <br>
