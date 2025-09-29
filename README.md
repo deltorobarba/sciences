@@ -77,7 +77,5 @@
   * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for **infrared and near-infrared** mission images
   * [WMAP](https://github.com/deltorobarba/sciences/blob/master/missions_wmap.ipynb) for **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️ (e.g. Cosmic Microwave Background)
-  * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz, incl. SIGINT workflow
-  * [THEMIS, VLF, EMFISIS, Van Allen, SuperMAG](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) for **extreme low frequencies** from 30-3 Hz
 
 <br>
