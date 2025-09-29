@@ -49,11 +49,8 @@
 
 ## Quantum Publications 🎓
 
-*Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
-
-
 **American Physical Society**
-  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024) †
+  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024)
 
 **Science**
   * [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877), `Science 384`, 48-53  (2024)
