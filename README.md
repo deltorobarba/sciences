@@ -39,8 +39,6 @@
 
 ## Astrophysics 🪐 🔭
 
-*In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics, and a planet's physical and chemical conditions.*
-
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanet 🪐 at 40 light years away
 * [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) Gravitational Wave 📡  from 14 Sep 2015
 * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebulae 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
