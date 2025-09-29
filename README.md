@@ -62,31 +62,17 @@
 
 ## Astrophysics 🪐 🔭
 
-*In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics.*
+*In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics. Chemosignatures which provide important information about a planet's physical and chemical conditions.*
 
-* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanet 🪐 at 40 light years away
-* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) Gravitational Waves 📡 from 14 Sep 2015
-* [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebulae 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
-* [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
-* [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb) ☀️✨ edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
+* Exoplanet 🪐 [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb)  at 40 light years away
+* Gravitational Wave 📡 [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb)  from 14 Sep 2015
+* Nebulae 🔭🫧⋆｡˚ [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb)  in Milky Way 1.3 light years away
+* Galaxy ⭑⋆🔭⋆₊ [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb)  at 23 mio light years distance (incl. multi-wavelength)
+* Star ☀️✨ [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb)  edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
+* Chemistry 🧪🧬 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb)
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-
-## Mission Data 📂
-
-*Astrophysical mission data consist of observational measurements across the electromagnetic spectrum, collected by space- and ground-based telescopes. These data allow researchers to analyze the structure, composition, and evolution of exoplanets, stars, galaxies and the cosmic microwave background. Data are typically stored in [FITS](https://github.com/deltorobarba/sciences/blob/master/missions_fits.ipynb) format and retrieved from NASA, ESA, and national observatories*
-
-  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
-  * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
-  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for **infrared and near-infrared** mission images
-  * [WMAP](https://github.com/deltorobarba/sciences/blob/master/missions_wmap.ipynb) for **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️ (e.g. Cosmic Microwave Background)
-  * [CASDA, NRAO, ATNF, LOFAR](https://github.com/deltorobarba/sciences/blob/master/missions_radio.ipynb) for astronomy from **radiowave** telescopes within 10-240 MHz, incl. SIGINT workflow
-  * [THEMIS, VLF, EMFISIS, Van Allen, SuperMAG](https://github.com/deltorobarba/sciences/blob/master/missions_elf.ipynb) for **extreme low frequencies** from 30-3 Hz
-
-## Astrochemistry 🧪🧬
-
-*In astrophysical spectral analysis there are [biosignatures](https://en.wikipedia.org/wiki/Biosignature) 🔬🦠 which are molecules in an exoplanet's atmosphere which indicate potential biological processes, and chemosignatures which provide important information about a planet's physical and chemical conditions.*
 
   * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl (Di-)Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
   * Chemosignatures 🧫🧪 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Helium](https://github.com/deltorobarba/sciences/blob/master/chemistry_helium.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
