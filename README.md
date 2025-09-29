@@ -18,6 +18,10 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
+## Quantum Publications 🎓
+
+`PRX Quantum 5` (2024) [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319)
+
 ## Quantum Computing 💎
 
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ionq.ipynb) Two-Qubit Bell State Preparation |Φ+⟩
@@ -28,10 +32,6 @@
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of O₂
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
-
-## Publications 🎓
-
-`PRX Quantum 5` (2024) [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319)
 
 ## Quantum on Medium 🎧 📒
 
