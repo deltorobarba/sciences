@@ -42,7 +42,7 @@
 
 *Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
 
-## Quantum Research 🔬🦠
+## Quantum Research 🔬⚛︎
 
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
@@ -62,24 +62,16 @@
 
 ## Astrophysics 🪐 🔭
 
-*In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics. Chemosignatures which provide important information about a planet's physical and chemical conditions.*
+*In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics, and a planet's physical and chemical conditions.*
 
 * Exoplanet 🪐 [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb)  at 40 light years away
 * Gravitational Wave 📡 [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb)  from 14 Sep 2015
 * Nebulae 🔭🫧⋆｡˚ [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb)  in Milky Way 1.3 light years away
 * Galaxy ⭑⋆🔭⋆₊ [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb)  at 23 mio light years distance (incl. multi-wavelength)
 * Star ☀️✨ [Sun](https://github.com/deltorobarba/sciences/blob/master/star_sun.ipynb)  edge enhancing coronal loops analysis with data from [AIA/HMI](https://sdo.gsfc.nasa.gov/data/aiahmi/)
-* Chemistry 🧪🧬 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb)
+* Chemistry 🧪🧬 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
-
-
-  * Biosignatures 🔬🦠 [Oxygen](https://github.com/deltorobarba/sciences/blob/master/chemistry_oxygen.ipynb), [Methane](https://github.com/deltorobarba/sciences/blob/master/chemistry_methane.ipynb), [Nitrous Oxide](https://github.com/deltorobarba/sciences/blob/master/chemistry_nitrousoxide.ipynb), [Methyl Chloride](https://github.com/deltorobarba/sciences/blob/master/chemistry_methylchloride.ipynb), [Phosphine](https://github.com/deltorobarba/sciences/blob/master/chemistry_phosphine.ipynb), [Dimethyl (Di-)Sulfide](https://github.com/deltorobarba/sciences/blob/master/chemistry_dimethylsulfide.ipynb)
-  * Chemosignatures 🧫🧪 [Hydrogen](https://github.com/deltorobarba/sciences/blob/master/chemistry_hydrogen.ipynb), [Helium](https://github.com/deltorobarba/sciences/blob/master/chemistry_helium.ipynb), [Ammonia](https://github.com/deltorobarba/sciences/blob/master/chemistry_ammonia.ipynb), [Water](https://github.com/deltorobarba/sciences/blob/master/chemistry_water.ipynb), [Benzene](https://github.com/deltorobarba/sciences/blob/master/chemistry_benzene.ipynb), [CO₂](https://github.com/deltorobarba/sciences/blob/master/chemistry_carbon.ipynb), [Calcium](https://github.com/deltorobarba/sciences/blob/master/chemistry_calcium.ipynb)
-  * Computational Chemistry ⚛︎ [Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_hartree_fock.ipynb), [Post Hartree-Fock](https://github.com/deltorobarba/sciences/blob/master/chemistry_post_hartree_fock.ipynb), [DFT (SCF)](https://github.com/deltorobarba/sciences/blob/master/chemistry_dft_scf.ipynb), [Geometry Optimization](https://github.com/deltorobarba/sciences/blob/master/chemistry_geometry_optimization.ipynb)
-
-<br>
-
 
 
 <br>
