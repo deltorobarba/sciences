@@ -60,6 +60,8 @@
   * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
+
 ## Astrophysics 🪐 🔭
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanet 🪐 at 40 light years away
