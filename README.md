@@ -18,17 +18,16 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
+## Quantum Computing 💎
+
+* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ionq.ipynb) Two-Qubit Bell State Preparation |Φ+⟩
+* [IBM Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_ibm.ipynb) Asymmetric State Evolution (with Unequal Superposition)
 
 ## Quantum Research 🔬⚛︎
 
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/quantum_sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_chemistry.ipynb) 🔬🧪 Quantum advantage in ground state energy calculation of NH₃
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/quantum_tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
-
-## Quantum Computing 💎
-
-* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ionq.ipynb) Two-Qubit Bell State Preparation |Φ+⟩
-* [IBM Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantum_ibm.ipynb) Asymmetric State Evolution (with Unequal Superposition)
 
 ## Quantum on Medium 🎧 📒
 
@@ -59,6 +58,8 @@
 **arXiv**
   * [Demonstrating Dynamic Surface Codes](https://arxiv.org/abs/2412.14360) (2024)
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
+
+<br> 
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
