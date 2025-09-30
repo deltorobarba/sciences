@@ -24,8 +24,9 @@
 
 ## Quantum Computing 💎
 
-* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ionq.ipynb) Two-Qubit Bell State Preparation |Φ+⟩
-* [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ibm.ipynb) Asymmetric State Evolution (with Unequal Superposition)
+* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
+* [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
+* [Pasqal Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum_pasqal.ipynb) (Neutral Atoms) Test defined
 
 ## Quantum Research 🔬⚛︎
 
