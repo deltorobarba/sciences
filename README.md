@@ -83,4 +83,4 @@
 
 **Chemistry 🧪🧬**
 
-  * [Oxygen](https://github.com/deltorobarba/sciences/blob/master/hydrogen.ipynb) Computational Chemistry ⚛︎ , Biosignatures 🔬🦠, Chemosignatures 🧫🧪
+  * [Computational Chemistry](https://github.com/deltorobarba/sciences/blob/master/hydrogen.ipynb) ⚛︎ for Biosignatures 🔬🦠 and Chemosignatures 🧫🧪
