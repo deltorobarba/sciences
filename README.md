@@ -68,7 +68,7 @@
   * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
 
 **Stars ☀️✨ and Black Holes 🕳️**
-  * [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) edge enhancing coronal loops analysis with data from AIA/HMI and X7.1 solar flare (R3 radio blackout)
+  * [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) edge enhancing coronal loops analysis and X7.1 solar flare (R3 radio blackout)
   * [Black Hole](https://github.com/deltorobarba/sciences/blob/master/blackhole.ipynb) in A0620-00 binary star system 3,300 light-years away.
   * [CMB](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) Cosmic Microwave Background of early universe 🛰️
 
