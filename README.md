@@ -81,6 +81,3 @@
   * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for **infrared and near-infrared** mission images
   * [WMAP](https://github.com/deltorobarba/sciences/blob/master/missions_wmap.ipynb) for **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️ (e.g. Cosmic Microwave Background)
 
-**Chemistry 🧪🧬**
-
-  * [Computational Chemistry](https://github.com/deltorobarba/sciences/blob/master/computational_chemistry.ipynb) ⚛︎ for Biosignatures 🔬🦠 and Chemosignatures 🧫🧪
