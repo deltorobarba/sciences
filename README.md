@@ -36,7 +36,6 @@
 
 **Quantum on Medium 🎧 📒**
 * [Dequantization](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f) What is Dequantization in Quantum Machine Learning?
-* [Quantum AI](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5) Can Quantum Computing accelerate Generative AI?
 * [Quantum Finance](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b) How Quantum Computing can accelerate Finance
 
 <br> 
