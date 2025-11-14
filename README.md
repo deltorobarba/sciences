@@ -74,7 +74,5 @@
 
 
 **Mission Data 📂**
-  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
-  * [MAST](https://github.com/deltorobarba/sciences/blob/master/mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
-  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/irsa.ipynb) for **infrared** astronomy. [WMAP](https://github.com/deltorobarba/sciences/blob/master/wmap.ipynb) for **microwave** astronomy. [Lofar](https://github.com/deltorobarba/sciences/blob/master/lofar.ipynb) for **radiowave** astronomy 🛰️ 
+  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/mission.ipynb) HEASARC for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra), MAST and SDSS for **visible-light** images from space-based mission (HST, TESS, etc.), IRSA for **infrared** astronomy. WMAP for **microwave** astronomy, and Lofar for **radiowave** astronomy 🛰️ 
 
