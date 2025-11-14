@@ -21,7 +21,7 @@
 
 ## Quantum Computing 💎
 
-*I work with quantum algorithms because they will solve certain problems extremely efficiently, from fundamental insights into physics (black hole dynamics and cosmology) to practical applications in computational chemistry (material science and drug discovery).*
+*I work with quantum algorithms because they will solve certain problems extremely efficiently, from fundamental insights into physics (black holes and cosmology) to practical applications in chemistry (material science and drug discovery).*
 
 **Quantum Publication 🎓**
 * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024) `PRX Quantum` 
