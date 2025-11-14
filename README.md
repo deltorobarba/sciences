@@ -18,18 +18,15 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-## Quantum Publication 🎓
-
+**Quantum Publication 🎓**
 `PRX Quantum` [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319) (2024)
 
-## Quantum Computing 💎
-
+**Quantum Computing 💎**
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
 * [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
 * [Pasqal Quantum](https://github.com/deltorobarba/sciences/blob/master/pasqal.ipynb) (Neutral Atoms) Adiabatic preparation of an Anti-Ferromagnetic State
 
-## Quantum Research 🔬⚛︎
-
+**Quantum Research 🔬⚛︎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
 
