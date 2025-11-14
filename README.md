@@ -76,8 +76,8 @@
 
 
 **Mission Data 📂**
-  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/missions_heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
-  * [MAST](https://github.com/deltorobarba/sciences/blob/master/missions_mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/missions_sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
-  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/missions_irsa.ipynb) for **infrared and near-infrared** mission images
-  * [WMAP](https://github.com/deltorobarba/sciences/blob/master/missions_wmap.ipynb) for **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️ (e.g. Cosmic Microwave Background)
+  * [HEASARC](https://github.com/deltorobarba/sciences/blob/master/heasarc.ipynb) for high-enery frequency **ultraviolet, x-ray and gamma ray** data from missions (e.g. Chandra)
+  * [MAST](https://github.com/deltorobarba/sciences/blob/master/mast.ipynb) and [SDSS](https://github.com/deltorobarba/sciences/blob/master/sdss.ipynb) for **visible-light** images from space-based mission (HST, TESS, etc.)
+  * [IRSA](https://github.com/deltorobarba/sciences/blob/master/irsa.ipynb) for **infrared and near-infrared** mission images
+  * [WMAP](https://github.com/deltorobarba/sciences/blob/master/wmap.ipynb) for **microwave** frequency bands 23, 33, 41, 61 and 94 GHz 🛰️ (e.g. Cosmic Microwave Background)
 
