@@ -73,6 +73,3 @@
   * [A0620−00](https://github.com/deltorobarba/sciences/blob/master/star_A0620_00.ipynb) binary star system including a black hole 3,300 light-years away.
 
 
-**Mission Data 📂**
-  * [Astronomical data](https://github.com/deltorobarba/sciences/blob/master/missions.ipynb) 🛰️ 📡 **HEASARC** for ultraviolet, x-ray and gamma ray astronomy (Chandra), **MAST** and **SDSS** for visible-light astronomy (HST, TESS), **IRSA** for infrared astronomy, **WMAP** for microwave astronomy, **Lofar** for radiowave astronomy.
-
