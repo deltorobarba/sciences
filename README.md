@@ -32,7 +32,6 @@
 
 **Quantum Research 🔬⚛︎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
-* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/quantumchemistry.ipynb) 🧪🧬 Ground state calculation with VQE using UCCSD on H₂ and H₂O
 * [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
 
 **Quantum on Medium 🎧 📒**
