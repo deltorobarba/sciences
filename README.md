@@ -38,6 +38,8 @@
 * [Quantum AI](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5) Can Quantum Computing accelerate Generative AI?
 * [Quantum Finance](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b) How Quantum Computing can accelerate Finance
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
+
 **Astronomy and Astrophysics** 🪐 🔭
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanet 🪐 at 40 light years away
@@ -47,4 +49,3 @@
 * [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
 * [CMB](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) Cosmic Microwave Background of early universe 🛰️
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
