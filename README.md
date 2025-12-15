@@ -20,8 +20,6 @@
 
 ## Quantum Computing 💎
 
-*I love working with quantum algorithms because they will solve certain problems extremely efficiently, from practical applications in computational chemistry (material science and drug discovery) to fundamental new insights into physics (black holes and cosmology).*
-
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024)
 
@@ -38,14 +36,16 @@
 * [Quantum AI](https://medium.com/@deltorobarba/can-quantum-computing-accelerate-generative-ai-b1df36398ac5) Can Quantum Computing accelerate Generative AI?
 * [Quantum Finance](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b) How Quantum Computing can accelerate Finance
 
+<br> 
+
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-**Astronomy and Astrophysics** 🪐 🔭
+## Astronomy and Astrophysics 🪐 🔭
 
-* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanet 🪐 at 40 light years away
-* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) Gravitational Wave 📡 from 14 Sep 2015
-* [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebula 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
-* [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
+* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) Exoplanet 🪐 at 40 light years away
+* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave.ipynb) Gravitational Wave 📡 from 14 Sep 2015
+* [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) Nebula 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
+* [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
 * [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
 * [CMB](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) Cosmic Microwave Background of early universe 🛰️
 
