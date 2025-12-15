@@ -18,33 +18,12 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-
-## Quantum Publication 🎓
-
-**American Physical Society**
-  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024)
-
-**Science**
-  * [Dynamics of magnetization at infinite temperature in a Heisenberg spin chain](https://doi.org/10.1126/science.adi7877), `Science 384` (2024)
-  * [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), `Science 383` (2024)
-
-**Nature**
-  * [Demonstrating Dynamic Surface Codes](https://doi.org/10.1038/s41567-025-03070-w) `Nature Physics 21` (2025)
-  * [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3), `Nature 638` (2025)
-  * [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6), `Nature 634` (2024)
-  * [Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7), `Nature 622` (2023)
-  * [Non-Abelian braiding of graph vertices in a superconducting processor](https://doi.org/10.1038/s41586-023-05954-4), `Nature 618` (2023)
-  * [Suppressing quantum errors by scaling a surface code logical qubit](https://doi.org/10.1038/s41586-022-05434-1), `Nature 614` (2023)
-  * [Formation of robust bound states of interacting microwave photons](https://doi.org/10.1038/s41586-022-05348-y), `Nature 612` (2022)
-
-**arXiv**
-  * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
-
-<br>
-
 ## Quantum Computing 💎
 
 *I love working with quantum algorithms because they will solve certain problems extremely efficiently, from practical applications in computational chemistry (material science and drug discovery) to fundamental new insights into physics (black holes and cosmology).*
+
+**Quantum Publication** 🎓
+  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024)
 
 **Quantum Algorithms 💎**
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
