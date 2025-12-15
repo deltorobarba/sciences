@@ -16,14 +16,10 @@
 
 <br>
 
-
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-## Quantum Computing 💎
 
-*I love working with quantum algorithms because they will solve certain problems extremely efficiently, from practical applications in computational chemistry (material science and drug discovery) to fundamental new insights into physics (black holes and cosmology).*
-
-**Quantum Publication 🎓**
+## Quantum Publication 🎓
 
 **American Physical Society**
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024) †
@@ -45,6 +41,11 @@
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
 *Milestone papers as Google Quantum AI team collaborator and focus papers with direct contributions as co-author †*
+
+
+## Quantum Computing 💎
+
+*I love working with quantum algorithms because they will solve certain problems extremely efficiently, from practical applications in computational chemistry (material science and drug discovery) to fundamental new insights into physics (black holes and cosmology).*
 
 **Quantum Algorithms 💎**
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
