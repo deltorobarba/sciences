@@ -23,13 +23,10 @@
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum 5` (2024)
 
-**Quantum Algorithms 💎**
+**Quantum Algorithms 💎🔬**
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
 * [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
-
-**Quantum Research 🔬⚛︎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ for photon localization with Bell measurement on conjugate pairs
-* [Quantum Topology](https://github.com/deltorobarba/sciences/blob/master/tda.ipynb) ♾️ Quantum advantage in Topological Data Analysis on Erdős–Rényi graphs
 
 **Quantum on Medium 🎧 📒**
 * [Dequantization](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f) What is Dequantization in Quantum Machine Learning?
