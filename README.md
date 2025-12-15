@@ -38,7 +38,7 @@
 **Astronomy and Astrophysics** 🪐 🔭
 
 * [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) Exoplanet 🪐 at 40 light years away
-* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave.ipynb) Gravitational Wave 📡 from 14 Sep 2015
+* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) Gravitational Wave 📡 from 14 Sep 2015
 * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) Nebula 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
 * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
 * [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
