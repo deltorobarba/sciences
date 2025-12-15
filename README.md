@@ -29,7 +29,7 @@
   * [Stable quantum-correlated many-body states through engineered dissipation](https://doi.org/10.1126/science.adh9932), `Science 383,` 1332-1337 (2024)
 
 **Nature**
-  * [Demonstrating Dynamic Surface Codes](https://doi.org/10.1038/s41567-025-03070-w) `Nature Physics`, (2025)
+  * [Demonstrating Dynamic Surface Codes](https://doi.org/10.1038/s41567-025-03070-w) `Nature Physics 21`, 1994–2001 (2025)
   * [Thermalization and criticality on an analogue–digital quantum simulator](https://doi.org/10.1038/s41586-024-08460-3), `Nature 638`, 79-85 (2025)
   * [Phase transitions in Random Circuit Sampling](https://doi.org/10.1038/s41586-024-07998-6), `Nature 634`, 328-333 (2024)
   * [Measurement-induced entanglement and teleportation on noisy quantum processor](https://doi.org/10.1038/s41586-023-06505-7), `Nature 622`, 481–486 (2023)
