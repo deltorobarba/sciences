@@ -38,7 +38,7 @@
 * Gravitational Wave [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡 from 14 Sep 2015
 * Nebula [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
 * Galaxy [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
-* [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
+* Star [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
 
 <br>
 
