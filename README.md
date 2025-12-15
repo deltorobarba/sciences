@@ -40,6 +40,8 @@
 **arXiv**
   * [Observation of disorder-free localization and efficient disorder averaging on a quantum processor](https://arxiv.org/abs/2410.06557) (2024)
 
+<br>
+
 ## Quantum Computing 💎
 
 *I love working with quantum algorithms because they will solve certain problems extremely efficiently, from practical applications in computational chemistry (material science and drug discovery) to fundamental new insights into physics (black holes and cosmology).*
@@ -47,6 +49,7 @@
 **Quantum Algorithms 💎**
 * [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
 * [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
+* [Pasqal Quantum](https://github.com/deltorobarba/sciences/blob/master/pasqal.ipynb) (Neutral Atom) Prepare Ising Hamiltonian in antiferromagnetic state
 
 **Quantum Research 🔬⚛︎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Quantum sensing for photon localization with Bell on conjugate pairs
