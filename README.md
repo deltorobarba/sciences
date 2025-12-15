@@ -46,27 +46,9 @@
 
 *In the future, I want to apply quantum protocols to gain new insights in astrophysics with extreme precision from quantum sensing and quantum algorithms to explore life on exoplanets, or black hole dynamics.*
 
-**Exoplanets 🪐**
-* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) at 40 light years away
-* [HR 8799](https://github.com/deltorobarba/sciences/blob/master/exoplanet_HR8799.ipynb) at 130 light years away
-* [Kepler8](https://github.com/deltorobarba/sciences/blob/master/exoplanet_kepler8.ipynb) at 3520 light years away
-
-**Gravitational Waves 📡**
-  * [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) from 14 Sep 2015
-  * [GW170608](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170608.ipynb) from 08 Jun 2017
-  * [GW170814](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW170814.ipynb) from 14 Aug 2017
-
-**Nebulae 🔭🫧⋆｡˚**
-  * [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) diffuse nebula in Milky Way 1.3 light years away
-  * [NGC 602](https://github.com/deltorobarba/sciences/blob/master/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula 200k light years away
-  * [M27 (Dumbbell)](https://github.com/deltorobarba/sciences/blob/master/nebula_M27.ipynb)  planetary nebula surrounding a white dwarf 1,360 light years away
-
-**Galaxies ⭑⋆🔭⋆₊**
-  * [M104 (Sombrero)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
-  * [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) an interacting spiral galaxy at 23 mio light years distance (incl. multi-wavelength)
-  * [NGC 6975 (Hickson)](https://github.com/deltorobarba/sciences/blob/master/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance (z-scale)
-
-**Stars ☀️✨ and Black Holes 🕳️**
-  * [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
-  * [Black Hole](https://github.com/deltorobarba/sciences/blob/master/blackhole.ipynb) in A0620-00 binary star system 3,300 light-years away.
-  * [CMB](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) Cosmic Microwave Background of early universe 🛰️
+* [Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet_trappist1.ipynb) Exoplanets 🪐 at 40 light years away
+* [GW150914](https://github.com/deltorobarba/sciences/blob/master/graviationalwave_GW150914.ipynb) Gravitational Waves 📡 from 14 Sep 2015
+* [M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula_M42.ipynb) Nebulae 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
+* [M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy_M51.ipynb) Galaxy ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
+* [Sun](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) Star ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
+* [CMB](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) Cosmic Microwave Background of early universe 🛰️
