@@ -32,11 +32,11 @@
 * [Dequantization](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f) What is Dequantization in Quantum Machine Learning?
 * [Quantum Finance](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b) How Quantum Computing can accelerate Finance
 
-**Astronomy and Astrophysics** 🪐 🔭
+**Astronomy and Astrophysics** 🔭
 
 * [Exoplanet Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 at 40 light years away
 * [Gravitational Wave GW150914](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡 captured with LIGO on 14 Sep 2015
-* [Nebula M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
+* [Nebula M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) 🫧⋆｡˚ in Milky Way 1.3 light years away
 * [Galaxy M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
 * [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
 * [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) of the early universe 🛰️
