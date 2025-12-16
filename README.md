@@ -28,10 +28,6 @@
 * [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ for photon localization with Bell measurement on conjugate pairs
 
-**Quantum on Medium 🎧 📒**
-* [Dequantization](https://medium.com/@deltorobarba/what-is-dequantization-in-quantum-machine-learning-a3b4d5af0f0f) What is Dequantization in Quantum Machine Learning?
-* [Quantum Finance](https://medium.com/@deltorobarba/how-quantum-computing-could-accelerate-finance-and-economics-80555e80f76b) How Quantum Computing can accelerate Finance
-
 **Astronomy and Astrophysics** 🔭
 
 * [Exoplanet Trappist1](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 at 40 light years away
