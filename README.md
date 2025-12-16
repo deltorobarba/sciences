@@ -39,6 +39,7 @@
 * [Nebula M42 (Orion)](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) 🔭🫧⋆｡˚ in Milky Way 1.3 light years away
 * [Galaxy M51 (Whirpool)](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) ⭑⋆🔭⋆₊ at 23 mio light years distance (incl. multi-wavelength)
 * [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
+* [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) of the early universe 🛰️
 
 <br>
 
