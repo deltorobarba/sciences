@@ -46,8 +46,8 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
 <p align="center">
-  <small>
+  <sub>
     © ESO/S. BRUNIER / <a href="https://www.eso.org/public/images/eso0932a/?lang">Milky Way Panorama</a> / <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>
-  </small>
+  </sub>
 </p>
 
