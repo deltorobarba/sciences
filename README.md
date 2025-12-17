@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
 
-## Quantum Science 🌸
+## Quantum Science 🦋
 
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
@@ -38,7 +38,6 @@
 * [Nebula](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) 🫧⋆｡˚  M42 (Orion) in Milky Way 1.3 light years away
 * [Galaxies](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) ⭑⋆🔭⋆₊ M51 (Whirpool) at 23 mio light years distance (multi-wavelength)
 * [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
-* [Cosmic Microwave Background](https://github.com/deltorobarba/sciences/blob/master/cmb.ipynb) 🛰️ of the early universe
 
 <br>
 
