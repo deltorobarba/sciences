@@ -29,7 +29,6 @@
 
 **Quantum Research 🔬**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ for photon localization with Bell measurement on conjugate pairs
-* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb) 🧬 for ground state calculation
 
 **Astronomy and Astrophysics** 🔭
 
