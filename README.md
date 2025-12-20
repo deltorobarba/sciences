@@ -24,7 +24,7 @@
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
 
 **Quantum Computing 💎**
-* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ+⟩
+* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ⁺⟩
 * [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
 
 **Quantum Research 🔬**
