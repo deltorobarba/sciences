@@ -33,10 +33,10 @@
 **Astronomy and Astrophysics** 🔭
 
 * [Exoplanets](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 Transit Fitting, Radial Velocity, Period Finding, and Spectra Analysis
-* [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
 * [Nebula](https://github.com/deltorobarba/sciences/blob/master/nebula.ipynb) 🫧⋆｡˚  M42 (Orion) in Milky Way 1.3 light years away
 * [Galaxies](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) ⭑⋆🔭⋆₊ M51 (Whirpool) at 23 mio light years distance (multi-wavelength)
-* [Sun (Star)](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
+* [Stars (Sun)](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
+* [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
 
 <br>
 
