@@ -8,19 +8,8 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
 
-## Natural Sciences 🍃 🎨
+**Natural Sciences 🍃 🎨**
 * [Sciences](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemistry, Biology, Physics, Mathematics
-<br>
-
-## Quantum Science 🦋
-
-**Quantum Publication** 🎓
-  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
-
-**Quantum Computing 💎🔬**
-* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ⁺⟩
-* [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
-* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ for photon localization with Bell measurement on conjugate pairs
 
 **Astronomy and Astrophysics** 🔭
 
@@ -28,6 +17,14 @@
 * [Galaxies and Nebula](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
 * [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
 * [Solar Astronomy](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ Sun: edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
+
+**Quantum Computing 💎**
+* [IonQ Quantum](https://github.com/deltorobarba/sciences/blob/master/ionq.ipynb) (Trapped Ion) Two-Qubit Bell State Preparation |Φ⁺⟩
+* [IBM Quantum](https://github.com/deltorobarba/sciences/blob/master/ibm.ipynb) (Superconductor) Asymmetric State Evolution (with Unequal Superposition)
+* [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ for photon localization with Bell measurement on conjugate pairs
+
+**Quantum Publication** 🎓
+  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
 
 <br>
 
