@@ -8,8 +8,8 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
 
-**Natural Sciences 🍃 🎨**
-* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb): Chemistry, Biology, Physics, Mathematics
+**Natural Sciences 🎨**
+* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Chemistry, Biology, Physics, Mathematics
 
 **Astronomy and Astrophysics** 🔭
 
