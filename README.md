@@ -12,8 +12,6 @@
 * [Sciences](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb): Chemistry, Biology, Physics, Mathematics
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="sciences">
-
 ## Quantum Science 🦋
 
 **Quantum Publication** 🎓
