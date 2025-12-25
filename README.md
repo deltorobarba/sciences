@@ -6,7 +6,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_0000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
 
 **Natural Sciences 🎨**
 * [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Notes on Chemistry, Biology, Physics and Mathematics
@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_2000.png" alt="sciences">
 
 <p align="center">
   <sub>
