@@ -20,7 +20,7 @@
 
 **Quantum Computing 💎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Qudits for photon localization with Bell measurement on conjugate pairs
-* [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb) 🧪🔬🧬 Ground State Calculation with Variational Quantum Eigensolver
+* [Quantum Computation](https://github.com/deltorobarba/sciences/blob/master/computation.ipynb) 🧪🔬🧬 Quantum State preparation on IonQ (trapped ion) and IBM (superconductor)
 
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
