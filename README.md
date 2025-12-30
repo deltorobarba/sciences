@@ -9,9 +9,9 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
 
 **Natural Sciences 🎨**
-* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Notes on Chemistry, Biology, Physics and Mathematics
+* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics and Mathematics
 
-**Quantum Computing 💎**
+**Quantum Research 💎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Qudits for photon localization with Bell measurement on conjugate pairs
 * [Quantum Computation](https://github.com/deltorobarba/sciences/blob/master/computation.ipynb) 🔬🧬 Quantum State preparation on IonQ (trapped ion) and IBM (superconductor)
 
