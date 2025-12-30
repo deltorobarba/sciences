@@ -11,19 +11,19 @@
 **Natural Sciences 🎨**
 * [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Notes on Chemistry, Biology, Physics and Mathematics
 
-**Astronomy and Astrophysics** 🔭
-
-* [Exoplanets](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 Transit Fitting, Radial Velocity, Period Finding, and Spectra Analysis
-* [Galaxies and Nebula](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
-* [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
-* [Solar Astronomy](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ Sun: edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
-
 **Quantum Computing 💎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Qudits for photon localization with Bell measurement on conjugate pairs
 * [Quantum Computation](https://github.com/deltorobarba/sciences/blob/master/computation.ipynb) 🔬🧬 Quantum State preparation on IonQ (trapped ion) and IBM (superconductor)
 
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
+
+**Astronomy and Astrophysics** 🔭
+
+* [Exoplanets](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 Transit Fitting, Radial Velocity, Period Finding, and Spectra Analysis
+* [Galaxies and Nebula](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
+* [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
+* [Solar Astronomy](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ Sun: edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
 
 <br>
 
