@@ -20,7 +20,7 @@
 
 **Quantum Computing 💎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Qudits for photon localization with Bell measurement on conjugate pairs
-* [Quantum States](https://github.com/deltorobarba/sciences/blob/master/state.ipynb) 🧬 preparation and simulation on IonQ (trapped ion) and IBM (superconductor)
+* [Quantum States](https://github.com/deltorobarba/sciences/blob/master/state.ipynb) 🧬 preparation on IonQ trapped ion and IBM superconductor (simple demo)
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb) 🔬🧪 Quantum Ground State Calculation with UCCSD (classical vs quantum)
 
 **Quantum Publication** 🎓
