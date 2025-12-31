@@ -17,7 +17,7 @@
 * [Galaxies](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
 
 **Quantum Computing 💎**
-* [Quantum States](https://github.com/deltorobarba/sciences/blob/master/state.ipynb) 🧬 Preparation and ground state calculation on IonQ trapped ion and IBM superconductor
+* [Quantum States](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 🧬 Preparation and ground state calculation on IonQ trapped ion and IBM superconductor
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Qudits for photon localization with Bell measurement on conjugate pairs $\rho \otimes \rho^{*}$
 
 **Quantum Publication** 🎓
