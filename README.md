@@ -12,7 +12,7 @@
 * [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics, Quantum and Mathematics
 
 **Quantum Computing 💎**
-* [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Research on Qudits for Bell Measurements on Conjugate Pairs
+* [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Research on Qudits for Photon Localization with Bell Measurements on Conjugate Pairs
 
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
