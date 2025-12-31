@@ -14,7 +14,7 @@
 **Astronomy and Astrophysics** 🔭
 
 * [Exoplanets](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 Transit Fitting, Radial Velocity, Period Finding, and Spectra Analysis
-* [Galaxies and Nebula](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
+* [Galaxies](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
 * [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
 
 **Quantum Computing 💎**
