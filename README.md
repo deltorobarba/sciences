@@ -18,7 +18,7 @@
 * [Gravitational Waves](https://github.com/deltorobarba/sciences/blob/master/graviation.ipynb) 📡  Bandpass filter and Q-transform of LIGO data (30 Hz-300 Hz)
 * [Solar Astronomy](https://github.com/deltorobarba/sciences/blob/master/sun.ipynb) ☀️✨ Sun: edge enhancing coronal loops and X7.1 solar flare (R3 radio blackout)
 
-**Quantum Research 💎**
+**Quantum Computing 💎**
 * [Quantum Sensing](https://github.com/deltorobarba/sciences/blob/master/sensing.ipynb) 📡 ✨ Qudits for photon localization with Bell measurement on conjugate pairs
 * [Quantum States](https://github.com/deltorobarba/sciences/blob/master/state.ipynb) 🧬 preparation on IonQ (trapped ion) and IBM (superconductor)
 * [Quantum Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb) 🔬🧪 for Ground State Calculation
