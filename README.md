@@ -12,7 +12,7 @@
 * [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics and Mathematics
 
 **Quantum Computing 💎**
-* [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Quantum Mechanics, Algorithms (on IonQ and IBM) and Qudits for Bell measurement on conjugate pairs $\rho \otimes \rho^{*}$
+* [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Quantum Mechanics, Quantum Algorithms and Quantum Sensing with Qudits $\rho \otimes \rho^{*}$
 
 **Astronomy and Astrophysics** 🔭
 
