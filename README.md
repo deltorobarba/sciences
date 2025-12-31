@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
 
 **Natural Sciences 🎨**
-* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics and Mathematics
+* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics, Quantum and Mathematics
 
 **Quantum Computing 💎**
 * [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Qudits for Photon Localization with Bell Measurements on Conjugate Pairs
