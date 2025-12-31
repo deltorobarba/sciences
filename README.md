@@ -8,19 +8,19 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
 
-**Natural Sciences 🎨**
-* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics, Quantum and Mathematics
-
 **Quantum Computing 💎**
 * [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Research on Qudits for Photon Localization with Bell Measurements on Conjugate Pairs
-
-**Quantum Publication** 🎓
-  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
 
 **Astronomy and Astrophysics** 🔭
 
 * [Exoplanets](https://github.com/deltorobarba/sciences/blob/master/exoplanet.ipynb) 🪐 Transit Fitting, Radial Velocity, Period Finding, and Spectra Analysis
 * [Galaxies](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
+
+**Quantum Publication** 🎓
+  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
+
+**Natural Sciences 🎨**
+* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics, Quantum and Mathematics
 
 <br>
 
