@@ -9,10 +9,10 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
 
 **Natural Sciences 🎨 🍃**
-* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 📡 🧬 Study notes on Chemistry, Biology, Physics and Mathematics
+[Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 📡 🧬 Study notes on Chemistry, Biology, Physics and Mathematics
 
 **Quantum Publication** 🎓
-  * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
+[Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
 
 <br>
 
