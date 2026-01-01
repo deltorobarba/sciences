@@ -8,7 +8,7 @@
 
 Quantum Publication 🎓 [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
 
-[Natural Sciences](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) 🎨 🍃 Study notes on Chemistry, Biology, Physics and Mathematics
+Code and Notes 🎨 🍃 [Natural Sciences](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) (Chemistry, Biology, Physics and Mathematics)
 
 <br>
 
