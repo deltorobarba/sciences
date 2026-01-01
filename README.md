@@ -4,7 +4,7 @@ Machine learning and quantum computing specialist at Google Cloud. I ❤️ Scie
 
 **Natural Science** 🎨 🍃
 
-[Science](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) (Chemistry, Biology, Physics and Mathematics)
+[Science](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) 🔭🧬 Code & notes on Chemistry, Biology, Physics and Mathematics
 
 **Quantum Publication** 🎓 
 
