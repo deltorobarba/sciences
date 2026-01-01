@@ -7,7 +7,6 @@
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
 * Quantum Publication 🎓 [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
-
 * Code and Notes 🎨 🍃 [Natural Sciences](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) (Chemistry, Biology, Physics and Mathematics)
 
 <br>
