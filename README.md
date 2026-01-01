@@ -1,4 +1,4 @@
-# Quantum and AI 🌸 🔭
+## Quantum and AI 🌸 🔭
 
 ### Alexander Del Toro Barba, PhD
 
