@@ -13,6 +13,8 @@ Machine learning and quantum computing specialist at Google Cloud. I ❤️ Scie
 <br>
 
 <p align="center">
+  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
+
 </p>
 
