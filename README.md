@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
 
 **Natural Sciences 🎨**
-* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics, Quantum and Mathematics
+* [Sciences](https://github.com/deltorobarba/sciences/blob/master/sciences.ipynb) 🍃 Study notes on Chemistry, Biology, Physics and Mathematics
 
 **Astronomy and Astrophysics** 🔭
 
@@ -17,7 +17,7 @@
 * [Galaxies](https://github.com/deltorobarba/sciences/blob/master/galaxy.ipynb) 🔭 🫧⋆｡˚ M42 (Orion nebula) and M51 (Whirpool galaxy) imaging with multi-wavelength
 
 **Quantum Computing 💎**
-* [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Research on Qudits for Photon Localization with Bell Measurements on Conjugate Pairs
+* [Quantum](https://github.com/deltorobarba/sciences/blob/master/quantum.ipynb) 📡 🧬✨ Qudits for Photon Localization with Bell Measurements on Conjugate Pairs
 
 **Quantum Publication** 🎓
   * [Analyzing Prospects for Quantum Advantage in Topological Data Analysis](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010319), `PRX Quantum` (2024)
