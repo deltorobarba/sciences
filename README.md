@@ -2,6 +2,8 @@
 
 ### Alexander Del Toro Barba, PhD
 
+Machine learning and quantum computing specialist at Google Cloud. I ❤️ Science
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ) $\cdot$ [LinkedIn](https://www.linkedin.com/in/deltorobarba/)
 
 * Code and Notes 🎨 🍃 [Natural Sciences](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) (Chemistry, Biology, Physics and Mathematics)
