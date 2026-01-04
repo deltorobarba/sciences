@@ -2,7 +2,7 @@
 
 Machine learning and quantum computing specialist at Google Cloud. I ❤️ Science
 
-<img src="https://raw.githubusercontent.com/deltorobarba/support/master/sciences_0000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/support/main/science_0000.png" alt="science">
 
 **Natural Science** 🎨 🍃
 * [Science](https://github.com/deltorobarba/sciences/blob/master/science.ipynb) 🔭🧬 Code & notes on Chemistry, Biology, Physics and Mathematics
